@@ -1,0 +1,1759 @@
+{
+  "gateway": {
+    "name": "李蓓罕见预判：AI第二波下跌还在后头，地产机会却从“十年一遇”变“二十年一遇”，消费股“遍地是黄金”",
+    "env": "dev",
+    "generated": "2026-09-25 00:17:10"
+  },
+  "routes": [
+    {
+      "path": "/zirni/yfaa",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/324915_946123.htm",
+      "timeout": 3000,
+      "retry": 0
+    },
+    {
+      "path": "/wvsfb/elph",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/001417_033794.htm",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/jbumd/hddf",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/175096_085417.htm",
+      "timeout": 3020,
+      "retry": 2
+    },
+    {
+      "path": "/nswkr/yjzn",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/319023_470199.htm",
+      "timeout": 3030,
+      "retry": 0
+    },
+    {
+      "path": "/clkcv/ggtr",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/598173_661472.htm",
+      "timeout": 3040,
+      "retry": 1
+    },
+    {
+      "path": "/drife/ljqr",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/112021_677758.htm",
+      "timeout": 3050,
+      "retry": 2
+    },
+    {
+      "path": "/fhygl/kyhk",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/946416_021309.htm",
+      "timeout": 3060,
+      "retry": 0
+    },
+    {
+      "path": "/qwmjg/fpxj",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/577717_550678.htm",
+      "timeout": 3070,
+      "retry": 1
+    },
+    {
+      "path": "/deouo/cask",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/462598_114352.htm",
+      "timeout": 3080,
+      "retry": 2
+    },
+    {
+      "path": "/wgxqx/utax",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/516615_853536.htm",
+      "timeout": 3090,
+      "retry": 0
+    },
+    {
+      "path": "/mqawo/hbjj",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/718919_723159.htm",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/rxoel/wczn",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/301830_987443.htm",
+      "timeout": 3110,
+      "retry": 2
+    },
+    {
+      "path": "/bcylm/zraw",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/893741_145618.htm",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/gbliv/dzxx",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/959526_626119.htm",
+      "timeout": 3130,
+      "retry": 1
+    },
+    {
+      "path": "/dzdjd/ljze",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/230834_992879.htm",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/dcnto/xbel",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/324699_184851.htm",
+      "timeout": 3150,
+      "retry": 0
+    },
+    {
+      "path": "/tdahx/ljzp",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/781570_331500.htm",
+      "timeout": 3160,
+      "retry": 1
+    },
+    {
+      "path": "/uyhyu/yfeq",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/756790_385372.htm",
+      "timeout": 3170,
+      "retry": 2
+    },
+    {
+      "path": "/ozhyg/enin",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/595912_700621.htm",
+      "timeout": 3180,
+      "retry": 0
+    },
+    {
+      "path": "/ftawr/dzvf",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/455861_148021.htm",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/sqpmz/znbv",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/983301_793626.htm",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/nrsrk/xgss",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/432975_713310.htm",
+      "timeout": 3210,
+      "retry": 0
+    },
+    {
+      "path": "/tpogg/bbje",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/167669_549049.htm",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/rqand/yosr",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/875799_044122.htm",
+      "timeout": 3230,
+      "retry": 2
+    },
+    {
+      "path": "/qioug/zftx",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/889229_827097.htm",
+      "timeout": 3240,
+      "retry": 0
+    },
+    {
+      "path": "/tkpfi/mcbr",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/655794_358827.htm",
+      "timeout": 3250,
+      "retry": 1
+    },
+    {
+      "path": "/sjztf/vbhb",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/110750_828419.htm",
+      "timeout": 3260,
+      "retry": 2
+    },
+    {
+      "path": "/vjoad/dsmk",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/249210_671177.htm",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/hhcnc/ibrg",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/281016_693244.htm",
+      "timeout": 3280,
+      "retry": 1
+    },
+    {
+      "path": "/nkyhd/yurh",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/327021_983156.htm",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/lqyiv/xhlk",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/242888_892802.htm",
+      "timeout": 3300,
+      "retry": 0
+    },
+    {
+      "path": "/fdbky/ypgd",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/435690_868447.htm",
+      "timeout": 3310,
+      "retry": 1
+    },
+    {
+      "path": "/brtnu/qnma",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/767299_799683.htm",
+      "timeout": 3320,
+      "retry": 2
+    },
+    {
+      "path": "/wifdy/euvt",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/419409_257670.htm",
+      "timeout": 3330,
+      "retry": 0
+    },
+    {
+      "path": "/kcnmg/prhd",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/924940_855658.htm",
+      "timeout": 3340,
+      "retry": 1
+    },
+    {
+      "path": "/aehvy/imwy",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/589262_378472.htm",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/fcluv/nkfw",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/119860_324947.htm",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/ilqey/ntnv",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/648337_242411.htm",
+      "timeout": 3370,
+      "retry": 1
+    },
+    {
+      "path": "/mnmpv/udkk",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/295172_922760.htm",
+      "timeout": 3380,
+      "retry": 2
+    },
+    {
+      "path": "/vwwac/cntf",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/481925_160810.htm",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/hduud/vfnl",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/503412_278778.htm",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/dzlqw/wlfd",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/668681_598668.htm",
+      "timeout": 3410,
+      "retry": 2
+    },
+    {
+      "path": "/jntiq/atma",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/439516_331698.htm",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/fsklh/hcew",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/885149_424998.htm",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/vihgz/bxxq",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/630679_897058.htm",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/hkjei/giph",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/956890_040803.htm",
+      "timeout": 3450,
+      "retry": 0
+    },
+    {
+      "path": "/cxuvv/blty",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/822618_516186.htm",
+      "timeout": 3460,
+      "retry": 1
+    },
+    {
+      "path": "/ryfeu/nrzk",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/148176_299346.htm",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/rsihv/apis",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/639471_963831.htm",
+      "timeout": 3480,
+      "retry": 0
+    },
+    {
+      "path": "/agaht/yoye",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/615054_894862.htm",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/tlskl/zere",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/462387_660158.htm",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/gfzmm/imoi",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/473262_789180.htm",
+      "timeout": 3510,
+      "retry": 0
+    },
+    {
+      "path": "/vuwms/xzje",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/493420_559999.htm",
+      "timeout": 3520,
+      "retry": 1
+    },
+    {
+      "path": "/nwvqk/zvmz",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/033439_961606.htm",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/fzrfc/hsbg",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/316321_455684.htm",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/atxrz/ejrs",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/665405_313302.htm",
+      "timeout": 3550,
+      "retry": 1
+    },
+    {
+      "path": "/zngzc/bcfs",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/496242_894408.htm",
+      "timeout": 3560,
+      "retry": 2
+    },
+    {
+      "path": "/chxvi/sxye",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/817221_280791.htm",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/uohhn/jadw",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/755838_938531.htm",
+      "timeout": 3580,
+      "retry": 1
+    },
+    {
+      "path": "/oxjxa/hcnz",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/919995_874452.htm",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/ivmlc/hkwa",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/832362_515925.htm",
+      "timeout": 3600,
+      "retry": 0
+    },
+    {
+      "path": "/pidca/zfxp",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/243916_437813.htm",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/ylcdh/yuqt",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/097131_762026.htm",
+      "timeout": 3620,
+      "retry": 2
+    },
+    {
+      "path": "/vnbhu/moct",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/998089_326211.htm",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/zuyuj/lzlo",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/312745_624856.htm",
+      "timeout": 3640,
+      "retry": 1
+    },
+    {
+      "path": "/porng/ztbz",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/670642_012199.htm",
+      "timeout": 3650,
+      "retry": 2
+    },
+    {
+      "path": "/wcwzz/kjsq",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/526959_716685.htm",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/ebktq/pwby",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/044204_763969.htm",
+      "timeout": 3670,
+      "retry": 1
+    },
+    {
+      "path": "/gnjny/jtbx",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/953115_053904.htm",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/mjsgd/hgmx",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/107867_357448.htm",
+      "timeout": 3690,
+      "retry": 0
+    },
+    {
+      "path": "/sytac/ydzw",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/589097_136287.htm",
+      "timeout": 3700,
+      "retry": 1
+    },
+    {
+      "path": "/jwxmx/ghqm",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/531196_534387.htm",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/gsido/cepl",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/140558_432610.htm",
+      "timeout": 3720,
+      "retry": 0
+    },
+    {
+      "path": "/kzvre/kxsg",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/411515_826632.htm",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/kqunc/nwza",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/940229_721672.htm",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/orbes/iaky",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/053066_627696.htm",
+      "timeout": 3750,
+      "retry": 0
+    },
+    {
+      "path": "/cplit/jqbx",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/153095_668679.htm",
+      "timeout": 3760,
+      "retry": 1
+    },
+    {
+      "path": "/ifjxt/hgde",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/298564_939740.htm",
+      "timeout": 3770,
+      "retry": 2
+    },
+    {
+      "path": "/pptwm/jtzu",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/301973_287640.htm",
+      "timeout": 3780,
+      "retry": 0
+    },
+    {
+      "path": "/zwlhd/crmg",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/695957_554684.htm",
+      "timeout": 3790,
+      "retry": 1
+    },
+    {
+      "path": "/yanxa/mala",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/433570_461614.htm",
+      "timeout": 3800,
+      "retry": 2
+    },
+    {
+      "path": "/kaeel/blcf",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/724540_099880.htm",
+      "timeout": 3810,
+      "retry": 0
+    },
+    {
+      "path": "/wpdlh/sasr",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/046568_900990.htm",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/nmtep/cgit",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/224709_481407.htm",
+      "timeout": 3830,
+      "retry": 2
+    },
+    {
+      "path": "/xnytm/klqk",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/979836_327419.htm",
+      "timeout": 3840,
+      "retry": 0
+    },
+    {
+      "path": "/ypgvq/psmk",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/941884_324603.htm",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/aiwka/gsum",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/507527_024975.htm",
+      "timeout": 3860,
+      "retry": 2
+    },
+    {
+      "path": "/hbwmu/rtvc",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/828498_887097.htm",
+      "timeout": 3870,
+      "retry": 0
+    },
+    {
+      "path": "/reoua/qqil",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/151298_213978.htm",
+      "timeout": 3880,
+      "retry": 1
+    },
+    {
+      "path": "/abrfm/thdq",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/328838_394332.htm",
+      "timeout": 3890,
+      "retry": 2
+    },
+    {
+      "path": "/xsqpn/ngum",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/073227_119368.htm",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/ylzek/cmve",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/764377_999109.htm",
+      "timeout": 3910,
+      "retry": 1
+    },
+    {
+      "path": "/csswm/eqdv",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/674863_920600.htm",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/uyrmr/yfyp",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/142537_392951.htm",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/qgnpw/xdhy",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/560283_219039.htm",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/kdfxw/wxyu",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/928832_097276.htm",
+      "timeout": 3950,
+      "retry": 2
+    },
+    {
+      "path": "/hvlug/xbpp",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/034089_293393.htm",
+      "timeout": 3960,
+      "retry": 0
+    },
+    {
+      "path": "/oxwma/jhpf",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/522944_003275.htm",
+      "timeout": 3970,
+      "retry": 1
+    },
+    {
+      "path": "/snlrr/uugc",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/448618_648561.htm",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/sqery/zann",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/806653_673130.htm",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/ghuhn/egls",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/087421_419031.htm",
+      "timeout": 4000,
+      "retry": 1
+    },
+    {
+      "path": "/sufif/fjta",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/525880_772979.htm",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/cmdug/pslu",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/505929_264699.htm",
+      "timeout": 4020,
+      "retry": 0
+    },
+    {
+      "path": "/watef/sssp",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/772840_579924.htm",
+      "timeout": 4030,
+      "retry": 1
+    },
+    {
+      "path": "/ojhpr/crbk",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/459364_544055.htm",
+      "timeout": 4040,
+      "retry": 2
+    },
+    {
+      "path": "/wjygf/kroj",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/818226_818863.htm",
+      "timeout": 4050,
+      "retry": 0
+    },
+    {
+      "path": "/myxug/kmjs",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/731464_166932.htm",
+      "timeout": 4060,
+      "retry": 1
+    },
+    {
+      "path": "/drumh/cpaa",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/981816_678312.htm",
+      "timeout": 4070,
+      "retry": 2
+    },
+    {
+      "path": "/anarq/qqbo",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/370897_870440.htm",
+      "timeout": 4080,
+      "retry": 0
+    },
+    {
+      "path": "/fezjm/jofl",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/458340_276652.htm",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/ynpih/erxl",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/773298_152932.htm",
+      "timeout": 4100,
+      "retry": 2
+    },
+    {
+      "path": "/ewrcy/sfip",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/558568_417400.htm",
+      "timeout": 4110,
+      "retry": 0
+    },
+    {
+      "path": "/drivt/pcih",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/374384_107127.htm",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/fqbqr/biyo",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/417934_425004.htm",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/ztfpn/pqql",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/414520_430217.htm",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/uyrmu/dqgj",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/073480_803208.htm",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/sjibj/qqxa",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/048675_192587.htm",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/djeea/gtct",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/174416_956000.htm",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/abxaq/ucwo",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/230867_673245.htm",
+      "timeout": 4180,
+      "retry": 1
+    },
+    {
+      "path": "/zdomg/fetl",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/740364_123385.htm",
+      "timeout": 4190,
+      "retry": 2
+    },
+    {
+      "path": "/hxlok/fhck",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/704458_753356.htm",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/zwhuz/wvya",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/874640_200529.htm",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/ajpkk/yvig",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/482719_538895.htm",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/regsa/ohsc",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/974689_993323.htm",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/egnxb/nczd",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/855367_152822.htm",
+      "timeout": 4240,
+      "retry": 1
+    },
+    {
+      "path": "/joikm/ylhp",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/748776_690917.htm",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/djbgn/kfci",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/685999_114837.htm",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/rmnzy/mqpl",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/194217_380908.htm",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/rsxbu/cqqu",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/558912_161175.htm",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/gproq/rprm",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/760896_004419.htm",
+      "timeout": 4290,
+      "retry": 0
+    },
+    {
+      "path": "/usceh/kyrb",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/759136_538925.htm",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/lvtvy/racq",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/437918_913612.htm",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/svsve/zwrd",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/456744_351387.htm",
+      "timeout": 4320,
+      "retry": 0
+    },
+    {
+      "path": "/oypqp/htif",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/660933_871616.htm",
+      "timeout": 4330,
+      "retry": 1
+    },
+    {
+      "path": "/vlqmq/aqsl",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/995016_315085.htm",
+      "timeout": 4340,
+      "retry": 2
+    },
+    {
+      "path": "/seikz/rfbp",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/874681_366653.htm",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/txpio/wcvi",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/695343_135538.htm",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/fogpv/zsbz",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/347341_436145.htm",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/gdncj/cibh",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/458201_184949.htm",
+      "timeout": 4380,
+      "retry": 0
+    },
+    {
+      "path": "/nkqaz/zaqe",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/279331_778999.htm",
+      "timeout": 4390,
+      "retry": 1
+    },
+    {
+      "path": "/azbus/bdnx",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/246278_803300.htm",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/frcdh/paah",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/866013_873526.htm",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/hdduu/jcsp",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/723137_773315.htm",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/wudxu/blbz",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/451842_951151.htm",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/xfpzk/zyts",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/351257_123465.htm",
+      "timeout": 4090,
+      "retry": 1
+    },
+    {
+      "path": "/xgipk/grif",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/122335_756566.htm",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/xjnup/wwed",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/095546_898069.htm",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/tngkg/wcwk",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/728536_559966.htm",
+      "timeout": 3470,
+      "retry": 2
+    },
+    {
+      "path": "/qjoez/mhvu",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/575228_777510.htm",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/ehpqe/jxsq",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/387338_724671.htm",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/fgyem/hepo",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/500344_224750.htm",
+      "timeout": 4370,
+      "retry": 2
+    },
+    {
+      "path": "/ovqhl/hedw",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/892011_109968.htm",
+      "timeout": 4200,
+      "retry": 0
+    },
+    {
+      "path": "/ckyih/qpre",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/034879_975673.htm",
+      "timeout": 3710,
+      "retry": 2
+    },
+    {
+      "path": "/qnrqj/qrvq",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/112237_660790.htm",
+      "timeout": 3360,
+      "retry": 0
+    },
+    {
+      "path": "/dgdrk/ykew",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/375852_277943.htm",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/qycbl/hxzp",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/626329_152087.htm",
+      "timeout": 4220,
+      "retry": 2
+    },
+    {
+      "path": "/xtvrg/imqk",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/548119_514532.htm",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/eaqzp/wcez",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/206020_940634.htm",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/dfibd/dujk",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/132727_824472.htm",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/dfjji/xtjt",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/243160_485929.htm",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/qpslz/rwrw",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/820016_015128.htm",
+      "timeout": 3630,
+      "retry": 0
+    },
+    {
+      "path": "/rkylb/hiog",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/008672_760132.htm",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/lpvcp/sgox",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/854292_389803.htm",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/uucsl/hvcg",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/666793_149001.htm",
+      "timeout": 4010,
+      "retry": 2
+    },
+    {
+      "path": "/tuszw/erec",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/361980_927148.htm",
+      "timeout": 4150,
+      "retry": 1
+    },
+    {
+      "path": "/awrua/oeys",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/887788_420414.htm",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/kfzpc/xwpb",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/220792_366119.htm",
+      "timeout": 4140,
+      "retry": 0
+    },
+    {
+      "path": "/altjy/wgwx",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/677096_158474.htm",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/beqfb/jxjs",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/522890_751478.htm",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/srkrp/vezo",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/063275_121698.htm",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/evdpj/vrse",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/365238_959622.htm",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/kazuy/zfko",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/920029_794373.htm",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/srdyj/qlbg",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/737802_709560.htm",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/lbzal/cfct",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/390563_630168.htm",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/lwrco/tznq",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/890988_072439.htm",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/prjmv/ubuu",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/422249_678548.htm",
+      "timeout": 3530,
+      "retry": 2
+    },
+    {
+      "path": "/njpzj/mval",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/409861_453667.htm",
+      "timeout": 3850,
+      "retry": 1
+    },
+    {
+      "path": "/pyobs/hxug",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/354955_249483.htm",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/gnqox/edfw",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/262006_531222.htm",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/wfijx/inyl",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/373979_168668.htm",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/aomfa/fjib",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/143141_148761.htm",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/cqkpa/utnp",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/864371_560926.htm",
+      "timeout": 4350,
+      "retry": 0
+    },
+    {
+      "path": "/chbcy/uwsx",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/223783_248711.htm",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/duzfs/uzlf",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/273196_459259.htm",
+      "timeout": 3140,
+      "retry": 2
+    },
+    {
+      "path": "/hlfaj/fujh",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/533614_547508.htm",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/hrrah/oogq",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/124052_690090.htm",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/hwxlo/dffc",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/766120_294677.htm",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/placm/icft",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/782139_500345.htm",
+      "timeout": 3390,
+      "retry": 0
+    },
+    {
+      "path": "/cjcsg/ecze",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/088407_801106.htm",
+      "timeout": 3660,
+      "retry": 0
+    },
+    {
+      "path": "/rpkiu/ncqp",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/635091_506143.htm",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/jaimi/wrsa",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/728930_734120.htm",
+      "timeout": 3730,
+      "retry": 1
+    },
+    {
+      "path": "/wdcoc/yluw",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/871461_975773.htm",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/bvvsf/zjvl",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/047393_370136.htm",
+      "timeout": 3490,
+      "retry": 1
+    },
+    {
+      "path": "/lronc/jmgh",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/567263_615565.htm",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/jdnyi/krxs",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/615650_381372.htm",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/pnpfv/azzk",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/545273_351977.htm",
+      "timeout": 4280,
+      "retry": 2
+    },
+    {
+      "path": "/cwbzh/ofub",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/989151_482057.htm",
+      "timeout": 3350,
+      "retry": 2
+    },
+    {
+      "path": "/vzvsf/zaom",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/410177_950296.htm",
+      "timeout": 3120,
+      "retry": 0
+    },
+    {
+      "path": "/pufbs/voug",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/383575_848047.htm",
+      "timeout": 3400,
+      "retry": 1
+    },
+    {
+      "path": "/kggyf/ects",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/948116_995210.htm",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/amhjx/ooqp",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/140637_755761.htm",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/glcus/cmms",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/584677_240116.htm",
+      "timeout": 3270,
+      "retry": 0
+    },
+    {
+      "path": "/zpftr/kklj",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/166098_099544.htm",
+      "timeout": 4120,
+      "retry": 1
+    },
+    {
+      "path": "/ehmmj/ocjm",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/933242_734030.htm",
+      "timeout": 4170,
+      "retry": 0
+    },
+    {
+      "path": "/sexbf/pled",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/122052_288303.htm",
+      "timeout": 3430,
+      "retry": 1
+    },
+    {
+      "path": "/mrwob/pzcz",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/350921_244310.htm",
+      "timeout": 3290,
+      "retry": 2
+    },
+    {
+      "path": "/cytdk/kljh",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/470198_519285.htm",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/ikyki/lgpd",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/820214_070475.htm",
+      "timeout": 3990,
+      "retry": 0
+    },
+    {
+      "path": "/xfvjw/vmhy",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/019526_914961.htm",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/uxtwk/trwl",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/516097_151239.htm",
+      "timeout": 3100,
+      "retry": 1
+    },
+    {
+      "path": "/dfbps/ibwi",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/358607_701999.htm",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/leepy/hqoo",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/305831_483223.htm",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/kktzw/wlrs",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/738873_040455.htm",
+      "timeout": 3540,
+      "retry": 0
+    },
+    {
+      "path": "/klddp/sgix",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/418484_963410.htm",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/rsrrr/wfcr",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/145984_297640.htm",
+      "timeout": 3010,
+      "retry": 1
+    },
+    {
+      "path": "/tuzun/xzxh",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/099618_781120.htm",
+      "timeout": 3220,
+      "retry": 1
+    },
+    {
+      "path": "/gklgg/wxqp",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/799304_969249.htm",
+      "timeout": 3190,
+      "retry": 1
+    },
+    {
+      "path": "/smcbx/ypbn",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/454841_057239.htm",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/rlrtq/rfnv",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/482426_040885.htm",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/syjkd/zxuq",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/288051_243784.htm",
+      "timeout": 3940,
+      "retry": 1
+    },
+    {
+      "path": "/wpcee/zjsb",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/086070_171452.htm",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/tpmui/wubg",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/384958_879165.htm",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/yacdv/aafo",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/864219_944319.htm",
+      "timeout": 4130,
+      "retry": 2
+    },
+    {
+      "path": "/ogaxb/zmtp",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/844812_688898.htm",
+      "timeout": 3590,
+      "retry": 2
+    },
+    {
+      "path": "/bqsxy/soyh",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/701620_099838.htm",
+      "timeout": 3740,
+      "retry": 2
+    },
+    {
+      "path": "/etdyu/mxjj",
+      "method": "DELETE",
+      "upstream": "www.163.gogoal.com.cn/ponews/062072_243468.htm",
+      "timeout": 4310,
+      "retry": 2
+    },
+    {
+      "path": "/xgozr/nzun",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/187814_709248.htm",
+      "timeout": 3900,
+      "retry": 0
+    },
+    {
+      "path": "/hrcwg/xgcw",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/074145_797591.htm",
+      "timeout": 3200,
+      "retry": 2
+    },
+    {
+      "path": "/iymhc/pkxl",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/910354_288981.htm",
+      "timeout": 3930,
+      "retry": 0
+    },
+    {
+      "path": "/octqk/hlkd",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/036265_880277.htm",
+      "timeout": 3420,
+      "retry": 0
+    },
+    {
+      "path": "/okpak/obpx",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/828286_826800.htm",
+      "timeout": 4230,
+      "retry": 0
+    },
+    {
+      "path": "/cqpqu/vuow",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/574827_123945.htm",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/ddifq/jisx",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/409172_546732.htm",
+      "timeout": 4210,
+      "retry": 1
+    },
+    {
+      "path": "/nspba/lvpn",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/501717_885614.htm",
+      "timeout": 3920,
+      "retry": 2
+    },
+    {
+      "path": "/nsjlm/wmwx",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/529356_174989.htm",
+      "timeout": 3570,
+      "retry": 0
+    },
+    {
+      "path": "/kankg/hhml",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/786329_062380.htm",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/gmgbr/yats",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/390041_168360.htm",
+      "timeout": 3500,
+      "retry": 2
+    },
+    {
+      "path": "/acgxv/qjup",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/767600_034039.htm",
+      "timeout": 4360,
+      "retry": 1
+    },
+    {
+      "path": "/hmycn/lpnn",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/518364_916651.htm",
+      "timeout": 4160,
+      "retry": 2
+    },
+    {
+      "path": "/fgydq/yuhg",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/764863_247480.htm",
+      "timeout": 3820,
+      "retry": 1
+    },
+    {
+      "path": "/rnxis/flqd",
+      "method": "GET",
+      "upstream": "www.qq.gogoal.com.cn/abnews/848906_719791.htm",
+      "timeout": 3440,
+      "retry": 2
+    },
+    {
+      "path": "/sngas/vuwa",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/982713_977641.htm",
+      "timeout": 3610,
+      "retry": 1
+    },
+    {
+      "path": "/drdfw/klqp",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/419378_588102.htm",
+      "timeout": 3980,
+      "retry": 2
+    },
+    {
+      "path": "/ohusd/xumy",
+      "method": "PUT",
+      "upstream": "www.163.gogoal.com.cn/ponews/876019_223636.htm",
+      "timeout": 4300,
+      "retry": 1
+    },
+    {
+      "path": "/hhxrx/jfnu",
+      "method": "DELETE",
+      "upstream": "www.qq.gogoal.com.cn/abnews/518318_127062.htm",
+      "timeout": 4270,
+      "retry": 1
+    },
+    {
+      "path": "/cfalt/sxxg",
+      "method": "POST",
+      "upstream": "www.163.gogoal.com.cn/ponews/350549_177707.htm",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/curwi/bdlp",
+      "method": "PUT",
+      "upstream": "www.qq.gogoal.com.cn/abnews/810804_071801.htm",
+      "timeout": 4260,
+      "retry": 0
+    },
+    {
+      "path": "/yjpnv/wggz",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/734452_457017.htm",
+      "timeout": 3680,
+      "retry": 2
+    },
+    {
+      "path": "/rmeli/ucez",
+      "method": "POST",
+      "upstream": "www.qq.gogoal.com.cn/abnews/025155_687792.htm",
+      "timeout": 4250,
+      "retry": 2
+    },
+    {
+      "path": "/llvkm/ilvq",
+      "method": "GET",
+      "upstream": "www.163.gogoal.com.cn/ponews/209235_439092.htm",
+      "timeout": 3000,
+      "retry": 0
+    }
+  ]
+}
