@@ -1,0 +1,3090 @@
+{
+  "shop": {
+    "name": "德恩精工等成立智能科技公司 含多项AI业务",
+    "owner": "吴悠",
+    "currency": "CNY",
+    "generated": "2026-09-25 00:17:21"
+  },
+  "goods": [
+    {
+      "sku": "ydd560278",
+      "title": "渤海银行被罚534.37万元：违反银行结算账户管理规定等",
+      "url": "www.qq.gogoal.com.cn/abnews/933214_425668.htm",
+      "price": 331.62,
+      "stock": 223,
+      "attrs": {
+        "brand": "钤鶬糕",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "vqg376324",
+      "title": "青海百余种产品亮相第五届全球数字贸易博览会",
+      "url": "www.163.gogoal.com.cn/ponews/683674_533459.htm",
+      "price": 416.79,
+      "stock": 390,
+      "attrs": {
+        "brand": "匌獰蘘",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "kjo987082",
+      "title": "悟空、哪吒海外火爆出圈 文旅部：推动中国好物加快出海",
+      "url": "www.qq.gogoal.com.cn/abnews/628064_181866.htm",
+      "price": 222.82,
+      "stock": 230,
+      "attrs": {
+        "brand": "遦匣鏲",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "cyn257333",
+      "title": "荷兰西尼罗病毒疫情蔓延 死亡病例增至5例",
+      "url": "www.163.gogoal.com.cn/ponews/845246_277872.htm",
+      "price": 335.74,
+      "stock": 346,
+      "attrs": {
+        "brand": "菃鶂敊",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "uas883969",
+      "title": "雄安完善高校疏解配套 暖心安居环境留住优质人才",
+      "url": "www.qq.gogoal.com.cn/abnews/818344_409865.htm",
+      "price": 414.95,
+      "stock": 333,
+      "attrs": {
+        "brand": "鋟泝槣",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "gyv361495",
+      "title": "余承东首次公开表态：聚焦其余四界",
+      "url": "www.163.gogoal.com.cn/ponews/633231_425979.htm",
+      "price": 522.04,
+      "stock": 493,
+      "attrs": {
+        "brand": "櫳稌涁",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "xju961773",
+      "title": "万亿元券商航母落地，券业加速洗牌：下一桩合并指向谁？",
+      "url": "www.qq.gogoal.com.cn/abnews/503278_416811.htm",
+      "price": 649.63,
+      "stock": 50,
+      "attrs": {
+        "brand": "叏禴愭",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "lzo517476",
+      "title": "苏州1宗宅地溢价20.56%成交",
+      "url": "www.163.gogoal.com.cn/ponews/962738_384791.htm",
+      "price": 107.85,
+      "stock": 369,
+      "attrs": {
+        "brand": "鱰鎓扸",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "hkf571633",
+      "title": "陕西省农民丰收节体育健身活动启幕 竞技赛场赓续农耕文脉",
+      "url": "www.qq.gogoal.com.cn/abnews/865053_808778.htm",
+      "price": 442.85,
+      "stock": 295,
+      "attrs": {
+        "brand": "陀鸿魬",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "cqs356719",
+      "title": "（爱知·名古屋亚运会）中国队夺体操女团金牌",
+      "url": "www.163.gogoal.com.cn/ponews/040155_685744.htm",
+      "price": 536.55,
+      "stock": 250,
+      "attrs": {
+        "brand": "埶鴺拿",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "jem942215",
+      "title": "贝莱德在哔哩哔哩-WH股的持股比例于9月21日从6.19%降至5.87%",
+      "url": "www.qq.gogoal.com.cn/abnews/391943_472596.htm",
+      "price": 335.13,
+      "stock": 203,
+      "attrs": {
+        "brand": "訊哥覦",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "osi755670",
+      "title": "广州：中秋节临近 花灯受欢迎",
+      "url": "www.163.gogoal.com.cn/ponews/929381_924099.htm",
+      "price": 276.66,
+      "stock": 271,
+      "attrs": {
+        "brand": "砠峅緻",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "mcb707715",
+      "title": "日联科技巧改口径粉饰业绩承诺？高溢价收购藏对赌折扣 频繁并购催肥市值",
+      "url": "www.qq.gogoal.com.cn/abnews/542478_993983.htm",
+      "price": 77.93,
+      "stock": 451,
+      "attrs": {
+        "brand": "排裥抓",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "fnb842573",
+      "title": "教育部部署2027年全国硕士研究生考试招生工作",
+      "url": "www.163.gogoal.com.cn/ponews/329471_941307.htm",
+      "price": 22.51,
+      "stock": 166,
+      "attrs": {
+        "brand": "煅踡扗",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "xli965964",
+      "title": "报道：克里姆林宫称俄罗斯稍后将回复二十国集团的邀请",
+      "url": "www.qq.gogoal.com.cn/abnews/825567_886942.htm",
+      "price": 779.18,
+      "stock": 421,
+      "attrs": {
+        "brand": "襞靃洼",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "hfy597248",
+      "title": "今年前8月中国新设经营主体1550.2万户",
+      "url": "www.163.gogoal.com.cn/ponews/563779_322878.htm",
+      "price": 138.48,
+      "stock": 194,
+      "attrs": {
+        "brand": "鷓衤骻",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "mpc362408",
+      "title": "宾利发布首款纯电动汽车，模拟油车发动机音效，起售价约23万美元",
+      "url": "www.qq.gogoal.com.cn/abnews/081164_086038.htm",
+      "price": 243.81,
+      "stock": 431,
+      "attrs": {
+        "brand": "颊氓蘛",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "tlm846315",
+      "title": "闽粤将新增第6条省际高速通道",
+      "url": "www.163.gogoal.com.cn/ponews/090967_852612.htm",
+      "price": 713.69,
+      "stock": 317,
+      "attrs": {
+        "brand": "崈徏譴",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ddl836776",
+      "title": "美元兑瑞士法郎触及2025年5月以来新高",
+      "url": "www.qq.gogoal.com.cn/abnews/679746_690971.htm",
+      "price": 826.03,
+      "stock": 193,
+      "attrs": {
+        "brand": "伈顱锹",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "qfe339977",
+      "title": "北京中秋国庆推出近千项促消费活动",
+      "url": "www.163.gogoal.com.cn/ponews/546996_445612.htm",
+      "price": 905.13,
+      "stock": 467,
+      "attrs": {
+        "brand": "朅濍厢",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "gvj969770",
+      "title": "俄外长：俄支持古巴关于全面解除封锁的诉求",
+      "url": "www.qq.gogoal.com.cn/abnews/443684_720339.htm",
+      "price": 199.65,
+      "stock": 279,
+      "attrs": {
+        "brand": "慷龝躵",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "vns031173",
+      "title": "宾利首款电动车定价预计仅为法拉利Luce 的一半",
+      "url": "www.163.gogoal.com.cn/ponews/151298_636597.htm",
+      "price": 909.27,
+      "stock": 441,
+      "attrs": {
+        "brand": "癥苌総",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "scu041345",
+      "title": "创新药概念持续走弱 诺诚健华跌超10%",
+      "url": "www.qq.gogoal.com.cn/abnews/923656_464059.htm",
+      "price": 660.49,
+      "stock": 418,
+      "attrs": {
+        "brand": "夑吚匱",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "omr573600",
+      "title": "2026海外华侨华人艺术家深圳人文艺术采风活动落幕",
+      "url": "www.163.gogoal.com.cn/ponews/432758_750048.htm",
+      "price": 52.95,
+      "stock": 48,
+      "attrs": {
+        "brand": "廆鄫閚",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "yhk500854",
+      "title": "江门海关完成首批纯血马进境隔离检疫",
+      "url": "www.qq.gogoal.com.cn/abnews/369280_726808.htm",
+      "price": 243.2,
+      "stock": 227,
+      "attrs": {
+        "brand": "客倗萹",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "dad596138",
+      "title": "美债抛售潮再起！纳指告别纪录高位跌超1%，光通信、存储大跌",
+      "url": "www.163.gogoal.com.cn/ponews/220640_338795.htm",
+      "price": 960.97,
+      "stock": 152,
+      "attrs": {
+        "brand": "斉僴涤",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "toc590702",
+      "title": "大型汽车运输船在江苏交付启航 可装载9800辆车",
+      "url": "www.qq.gogoal.com.cn/abnews/743047_305509.htm",
+      "price": 943.8,
+      "stock": 362,
+      "attrs": {
+        "brand": "蕼莯崩",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "wwt768633",
+      "title": "4.49亿元资金今日流入纺织服饰股",
+      "url": "www.163.gogoal.com.cn/ponews/694841_126362.htm",
+      "price": 788.38,
+      "stock": 313,
+      "attrs": {
+        "brand": "菮裠佳",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "xwa953977",
+      "title": "中美两国元首夫妇共同检阅仪仗队",
+      "url": "www.qq.gogoal.com.cn/abnews/759262_825203.htm",
+      "price": 174.48,
+      "stock": 71,
+      "attrs": {
+        "brand": "菉趵窒",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "uqf508873",
+      "title": "Bloom Energy盘前一度跌近7%",
+      "url": "www.163.gogoal.com.cn/ponews/305078_116521.htm",
+      "price": 609.14,
+      "stock": 266,
+      "attrs": {
+        "brand": "夎拶棄",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "htd554686",
+      "title": "南京举办企业出海埃及合作交流会",
+      "url": "www.qq.gogoal.com.cn/abnews/287975_271399.htm",
+      "price": 871.6,
+      "stock": 11,
+      "attrs": {
+        "brand": "舛盺茼",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "jiw675190",
+      "title": "谷歌宣布正式推出Gemini 3.8 Live模型",
+      "url": "www.163.gogoal.com.cn/ponews/129652_281945.htm",
+      "price": 357.84,
+      "stock": 401,
+      "attrs": {
+        "brand": "僟橔儞",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "vsv749667",
+      "title": "阿里，减持中通快递ADR、套现约39亿",
+      "url": "www.qq.gogoal.com.cn/abnews/950605_307881.htm",
+      "price": 314.59,
+      "stock": 189,
+      "attrs": {
+        "brand": "歸儢灕",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "lzz883501",
+      "title": "打车遭遇烦心事，网约车投诉到底该找谁",
+      "url": "www.163.gogoal.com.cn/ponews/760685_642037.htm",
+      "price": 570.93,
+      "stock": 354,
+      "attrs": {
+        "brand": "贩蟣瑚",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "zfl710935",
+      "title": "债券通“南向通”五周年：双向开放提速 离岸人民币债券市场迈入新格局",
+      "url": "www.qq.gogoal.com.cn/abnews/527071_427260.htm",
+      "price": 654.88,
+      "stock": 373,
+      "attrs": {
+        "brand": "脛愩琭",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "dkk494323",
+      "title": "食品经常放到过期？88.2%受访者有过此情况",
+      "url": "www.163.gogoal.com.cn/ponews/777968_734190.htm",
+      "price": 487.44,
+      "stock": 147,
+      "attrs": {
+        "brand": "薬鉷甹",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "cby538820",
+      "title": "甘肃农商行359家分支机构获批开业",
+      "url": "www.qq.gogoal.com.cn/abnews/764686_684815.htm",
+      "price": 506.42,
+      "stock": 63,
+      "attrs": {
+        "brand": "杁粪箤",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "wuu284584",
+      "title": "公募秋季策略会密集召开  积极看多权益资产",
+      "url": "www.163.gogoal.com.cn/ponews/536545_707984.htm",
+      "price": 701.12,
+      "stock": 210,
+      "attrs": {
+        "brand": "尟勸莨",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "olr153550",
+      "title": "欧元区经济增长超出预期，加息窗口可能落在12月",
+      "url": "www.qq.gogoal.com.cn/abnews/721718_192093.htm",
+      "price": 921.4,
+      "stock": 386,
+      "attrs": {
+        "brand": "鰸柷糋",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ztp137727",
+      "title": "欧洲债市：法国国债溢价飙升 油价上涨推升欧洲央行加息押注",
+      "url": "www.163.gogoal.com.cn/ponews/077991_194410.htm",
+      "price": 245.25,
+      "stock": 380,
+      "attrs": {
+        "brand": "狫飧嵗",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ols274257",
+      "title": "精品茅台上涨4元 终结三连阴弱势",
+      "url": "www.qq.gogoal.com.cn/abnews/235898_637728.htm",
+      "price": 915.75,
+      "stock": 234,
+      "attrs": {
+        "brand": "敁鬺歪",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "yfc145696",
+      "title": "A股退市新变化：面值退市骤减 财务与重大违法出清成主力",
+      "url": "www.163.gogoal.com.cn/ponews/002989_599066.htm",
+      "price": 264.07,
+      "stock": 68,
+      "attrs": {
+        "brand": "螛栦获",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "hda694651",
+      "title": "国家图书馆“四季童读”2026年秋季卷推荐书单在陕西发布",
+      "url": "www.qq.gogoal.com.cn/abnews/444822_098711.htm",
+      "price": 751.88,
+      "stock": 260,
+      "attrs": {
+        "brand": "鸌闆莸",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "gwh933702",
+      "title": "美国5年期国债收益率自2007年以来首次升逾5%",
+      "url": "www.163.gogoal.com.cn/ponews/927310_220452.htm",
+      "price": 344.99,
+      "stock": 279,
+      "attrs": {
+        "brand": "枞愈鸙",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ctw155776",
+      "title": "成都中欧班列集结中心已在全省市、州布局10个组货基地",
+      "url": "www.qq.gogoal.com.cn/abnews/311548_127526.htm",
+      "price": 587.82,
+      "stock": 40,
+      "attrs": {
+        "brand": "橁鈊龎",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "syy075405",
+      "title": "汇金科技索赔持续征集，已有案件递交立案",
+      "url": "www.163.gogoal.com.cn/ponews/842649_276397.htm",
+      "price": 119.94,
+      "stock": 14,
+      "attrs": {
+        "brand": "隠乞鱲",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "zlx143223",
+      "title": "欧元/美元一年期期权处于2025年3月以来最看空水平",
+      "url": "www.qq.gogoal.com.cn/abnews/984563_655406.htm",
+      "price": 655.19,
+      "stock": 458,
+      "attrs": {
+        "brand": "媵掩咝",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "qva603638",
+      "title": "连城数控：子公司在美国提起专利侵权诉讼",
+      "url": "www.163.gogoal.com.cn/ponews/129076_116534.htm",
+      "price": 979.58,
+      "stock": 352,
+      "attrs": {
+        "brand": "拱塯乻",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "eel805285",
+      "title": "受优步148亿美元收购要约影响，外卖超人取消CEO卸任计划",
+      "url": "www.qq.gogoal.com.cn/abnews/234352_387893.htm",
+      "price": 718.97,
+      "stock": 83,
+      "attrs": {
+        "brand": "鈘疲袸",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "wul325496",
+      "title": "纽约联储主席威廉姆斯：实际利率预期是推动美国国债收益率上升的一大因素",
+      "url": "www.163.gogoal.com.cn/ponews/508983_477923.htm",
+      "price": 424.95,
+      "stock": 66,
+      "attrs": {
+        "brand": "潣搄煛",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "bxf188664",
+      "title": "山东持续开展“月圆中秋·家乡味道”海外慰侨活动",
+      "url": "www.qq.gogoal.com.cn/abnews/696301_187386.htm",
+      "price": 52.57,
+      "stock": 182,
+      "attrs": {
+        "brand": "斵攉怨",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "fyj911763",
+      "title": "广西贵港携手钦州港启动江海联运港港联动",
+      "url": "www.163.gogoal.com.cn/ponews/663597_323555.htm",
+      "price": 486.71,
+      "stock": 62,
+      "attrs": {
+        "brand": "濒矋儑",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "hgf261614",
+      "title": "中国驻累西腓总领馆举行国庆暨石琦总领事到任招待会",
+      "url": "www.qq.gogoal.com.cn/abnews/979713_089840.htm",
+      "price": 563.09,
+      "stock": 0,
+      "attrs": {
+        "brand": "壇彼擸",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "hfz749492",
+      "title": "双节消费观察｜多措并举 激活假日消费新活力",
+      "url": "www.163.gogoal.com.cn/ponews/035762_032876.htm",
+      "price": 51.85,
+      "stock": 382,
+      "attrs": {
+        "brand": "彟鹛諻",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "bxw815014",
+      "title": "4.5万亿元背后：成渝“双城记”写下协同新篇",
+      "url": "www.qq.gogoal.com.cn/abnews/440856_785894.htm",
+      "price": 952.24,
+      "stock": 386,
+      "attrs": {
+        "brand": "軖晣晸",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ooj150796",
+      "title": "欧尚在被俄方接管前已同意出售俄罗斯业务",
+      "url": "www.163.gogoal.com.cn/ponews/969877_144249.htm",
+      "price": 369.04,
+      "stock": 250,
+      "attrs": {
+        "brand": "袄鎉垫",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ffw020826",
+      "title": "限时权益价22.99-29.19万元，阔五座SUV启境GX7正式上市",
+      "url": "www.qq.gogoal.com.cn/abnews/277408_718758.htm",
+      "price": 369.25,
+      "stock": 327,
+      "attrs": {
+        "brand": "餎錞蹧",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "fzt199014",
+      "title": "新能源汽车维修工，薪资翻倍也抢不到",
+      "url": "www.163.gogoal.com.cn/ponews/818771_709499.htm",
+      "price": 266.38,
+      "stock": 160,
+      "attrs": {
+        "brand": "堊龔簣",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "edq385080",
+      "title": "沈尧伊长征美术作品展亮相中国国家博物馆",
+      "url": "www.qq.gogoal.com.cn/abnews/477322_733229.htm",
+      "price": 695.1,
+      "stock": 107,
+      "attrs": {
+        "brand": "鶶踺鱗",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "tld073066",
+      "title": "丹麦央行大幅上调今明两年经济增长预期，因诺和诺德销售强劲",
+      "url": "www.163.gogoal.com.cn/ponews/816227_743335.htm",
+      "price": 636.25,
+      "stock": 286,
+      "attrs": {
+        "brand": "杁薸煇",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "axd366998",
+      "title": "第48届世界技能大赛第二竞赛日：焊接比赛“火星四溅”",
+      "url": "www.qq.gogoal.com.cn/abnews/542472_110393.htm",
+      "price": 841.51,
+      "stock": 28,
+      "attrs": {
+        "brand": "鮇妓澮",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "phj641788",
+      "title": "美国政府考虑推动全球稳定币计划 以巩固美元主导地位",
+      "url": "www.163.gogoal.com.cn/ponews/125305_920164.htm",
+      "price": 189.04,
+      "stock": 421,
+      "attrs": {
+        "brand": "姑跕鱫",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "uaz349247",
+      "title": "并行科技：拟租入GPU算力资源 合同金额不超14.8亿元",
+      "url": "www.qq.gogoal.com.cn/abnews/963502_954169.htm",
+      "price": 965.56,
+      "stock": 447,
+      "attrs": {
+        "brand": "悀峒稀",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "jqa475042",
+      "title": "用友网络（600588）：中标中国少年儿童新闻出版总社有限公司采购项目，中标金额为218.00万元",
+      "url": "www.163.gogoal.com.cn/ponews/256717_767259.htm",
+      "price": 780.85,
+      "stock": 436,
+      "attrs": {
+        "brand": "喔襝魆",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "nxc867779",
+      "title": "青农商行4000万股11月开拍，被动减持仍在延续",
+      "url": "www.qq.gogoal.com.cn/abnews/369917_725212.htm",
+      "price": 644.2,
+      "stock": 437,
+      "attrs": {
+        "brand": "桫罫歇",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "fze705657",
+      "title": "积木集团拟折让约8.33%配售最多3033.68万股 净筹约1610万港元",
+      "url": "www.163.gogoal.com.cn/ponews/135576_355829.htm",
+      "price": 217.13,
+      "stock": 388,
+      "attrs": {
+        "brand": "鍧叛竅",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "itq961668",
+      "title": "2026年第六届中国有机肥产业发展大会在河北邢台顺利召开",
+      "url": "www.qq.gogoal.com.cn/abnews/326957_850714.htm",
+      "price": 929.06,
+      "stock": 346,
+      "attrs": {
+        "brand": "鑇龤欕",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ehs724707",
+      "title": "备战“金九银十”！多地启动新一轮补贴  “疯狂星期三”9车同日上市",
+      "url": "www.163.gogoal.com.cn/ponews/185278_142855.htm",
+      "price": 373.1,
+      "stock": 462,
+      "attrs": {
+        "brand": "甒苨媰",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "txi634887",
+      "title": "9月24日港股收盘：恒指跌0.29% 恒生科技指数跌0.41%",
+      "url": "www.qq.gogoal.com.cn/abnews/366597_653116.htm",
+      "price": 30.51,
+      "stock": 341,
+      "attrs": {
+        "brand": "沿酆將",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "xeg840823",
+      "title": "目标价160港元！摩根大通首次覆盖迅策给予“增持”评级：企业AI部署创造新增长池",
+      "url": "www.163.gogoal.com.cn/ponews/177487_232076.htm",
+      "price": 79.82,
+      "stock": 269,
+      "attrs": {
+        "brand": "瞧濔浺",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "kyy582363",
+      "title": "2026年比利·简·金杯总决赛：乌克兰队击败比利时队晋级半决赛",
+      "url": "www.qq.gogoal.com.cn/abnews/885390_863179.htm",
+      "price": 576.78,
+      "stock": 61,
+      "attrs": {
+        "brand": "伾鑨颭",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ska378677",
+      "title": "陕鼓动力（601369）：中标湖北楚韵储能科技有限责任公司采购项目，中标金额为396.00万元",
+      "url": "www.163.gogoal.com.cn/ponews/071772_500366.htm",
+      "price": 976.15,
+      "stock": 347,
+      "attrs": {
+        "brand": "鞽锦毞",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "cfo469506",
+      "title": "2600亿存储龙头股价大跌，大股东套现4.7亿元",
+      "url": "www.qq.gogoal.com.cn/abnews/298793_787271.htm",
+      "price": 366.66,
+      "stock": 72,
+      "attrs": {
+        "brand": "缼蘡浦",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "txs770392",
+      "title": "花旗：预计美联储将于10月、12月维持利率不变 2027年6月恢复降息",
+      "url": "www.163.gogoal.com.cn/ponews/803353_466285.htm",
+      "price": 594.0,
+      "stock": 270,
+      "attrs": {
+        "brand": "睲徦榬",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "lpl436868",
+      "title": "汇丰认为笼罩美股的种种担忧大部分不足为虑",
+      "url": "www.qq.gogoal.com.cn/abnews/949865_066987.htm",
+      "price": 23.69,
+      "stock": 133,
+      "attrs": {
+        "brand": "蚼槔覿",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "edc391128",
+      "title": "印度石油部长：没有削减成品油出口的计划",
+      "url": "www.163.gogoal.com.cn/ponews/184436_593436.htm",
+      "price": 841.1,
+      "stock": 454,
+      "attrs": {
+        "brand": "瓴軻町",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ohp774889",
+      "title": "马斯克被提议作为华纳-派拉蒙并购案投资方 或将进入CNN与CBS新闻的运营财团",
+      "url": "www.qq.gogoal.com.cn/abnews/650191_490394.htm",
+      "price": 198.22,
+      "stock": 371,
+      "attrs": {
+        "brand": "倹覠蚁",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "sik876549",
+      "title": "第五届数贸会在杭州启动",
+      "url": "www.163.gogoal.com.cn/ponews/878381_235929.htm",
+      "price": 735.8,
+      "stock": 279,
+      "attrs": {
+        "brand": "毇槃攄",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "hzh395496",
+      "title": "平安人寿迎新任董事长 85后蔡霆三年完成四级跳！执掌6万亿寿险巨头",
+      "url": "www.qq.gogoal.com.cn/abnews/017646_834320.htm",
+      "price": 604.59,
+      "stock": 4,
+      "attrs": {
+        "brand": "镹欺告",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "mfh857797",
+      "title": "双汇美食季双节主题快闪9月25日启幕 全国226个景区同步联动",
+      "url": "www.163.gogoal.com.cn/ponews/754445_956599.htm",
+      "price": 894.95,
+      "stock": 5,
+      "attrs": {
+        "brand": "烝帙羞",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "xho395725",
+      "title": "广州摘得2026世界智慧城市大奖·一带一路“治理大奖”",
+      "url": "www.qq.gogoal.com.cn/abnews/155643_927952.htm",
+      "price": 821.74,
+      "stock": 159,
+      "attrs": {
+        "brand": "戬冏愎",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "jie724769",
+      "title": "贵州苗族非遗服饰秀走上世界技能大赛",
+      "url": "www.163.gogoal.com.cn/ponews/931353_607068.htm",
+      "price": 325.61,
+      "stock": 353,
+      "attrs": {
+        "brand": "穙郱撒",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "wmi989092",
+      "title": "川大智胜遭证监会立案 投资者或可索赔",
+      "url": "www.qq.gogoal.com.cn/abnews/156844_244358.htm",
+      "price": 680.31,
+      "stock": 260,
+      "attrs": {
+        "brand": "蝿果茵",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ewq923475",
+      "title": "浙江经济强区鄞州发布AI场景需求清单",
+      "url": "www.163.gogoal.com.cn/ponews/824785_327717.htm",
+      "price": 357.77,
+      "stock": 282,
+      "attrs": {
+        "brand": "疃橹嬄",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "jyc876163",
+      "title": "股海导航_2026年9月24日_沪深股市公告与交易提示",
+      "url": "www.qq.gogoal.com.cn/abnews/304257_505418.htm",
+      "price": 388.44,
+      "stock": 75,
+      "attrs": {
+        "brand": "塅窙鰮",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "pym499962",
+      "title": "中英少年同台以秦腔为桥觅共鸣",
+      "url": "www.163.gogoal.com.cn/ponews/958171_543009.htm",
+      "price": 427.45,
+      "stock": 166,
+      "attrs": {
+        "brand": "傦驞歮",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "bdu878982",
+      "title": "美参议员称：特朗普拟以太阳能项目许可换取法案谈判",
+      "url": "www.qq.gogoal.com.cn/abnews/373989_212533.htm",
+      "price": 440.96,
+      "stock": 178,
+      "attrs": {
+        "brand": "邝掜溱",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "fga391391",
+      "title": "广西秋季“湿燥夹杂” 专家支招防范四类高发疾病",
+      "url": "www.163.gogoal.com.cn/ponews/990949_825465.htm",
+      "price": 309.3,
+      "stock": 468,
+      "attrs": {
+        "brand": "檐萝珹",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "fmh934032",
+      "title": "2026年新时代广东省科普能力提升培训活动举行",
+      "url": "www.qq.gogoal.com.cn/abnews/773104_659708.htm",
+      "price": 718.18,
+      "stock": 39,
+      "attrs": {
+        "brand": "喀愲銻",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "epj072414",
+      "title": "河北迁安：工业副产氢助力钢城低碳转型",
+      "url": "www.163.gogoal.com.cn/ponews/501061_692444.htm",
+      "price": 727.47,
+      "stock": 354,
+      "attrs": {
+        "brand": "臨疙謠",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "dnv482048",
+      "title": "华新建材根据股份奖励计划累计购买171.51万股",
+      "url": "www.qq.gogoal.com.cn/abnews/575540_180979.htm",
+      "price": 416.06,
+      "stock": 451,
+      "attrs": {
+        "brand": "慪佅秡",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "lnd429859",
+      "title": "彩虹新能源半年亏损扩大至近5亿，光伏玻璃供需失衡下资产负债率逼近92%",
+      "url": "www.163.gogoal.com.cn/ponews/356365_060704.htm",
+      "price": 310.22,
+      "stock": 259,
+      "attrs": {
+        "brand": "赜憸絸",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "mne420326",
+      "title": "中秋节前一天，A股重返“地量”，沪指失守3900点！如何理解？",
+      "url": "www.qq.gogoal.com.cn/abnews/479122_159606.htm",
+      "price": 116.45,
+      "stock": 102,
+      "attrs": {
+        "brand": "貢逕穊",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "upq090111",
+      "title": "德迅集团与宁德时代深化战略合作 计划年内启动重卡换电试点项目",
+      "url": "www.163.gogoal.com.cn/ponews/273608_403335.htm",
+      "price": 378.48,
+      "stock": 382,
+      "attrs": {
+        "brand": "賖絅骛",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "xoa500138",
+      "title": "前日本央行审议委员：预计明年6月前每个季度都加息",
+      "url": "www.qq.gogoal.com.cn/abnews/760042_600386.htm",
+      "price": 131.13,
+      "stock": 322,
+      "attrs": {
+        "brand": "貘嬨艪",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "jrk034012",
+      "title": "华泰期货：运费上涨推升两油价差扩大",
+      "url": "www.163.gogoal.com.cn/ponews/406782_267168.htm",
+      "price": 307.13,
+      "stock": 366,
+      "attrs": {
+        "brand": "驦录忢",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "pnk745825",
+      "title": "渤海银行被罚没超540万元 涉11项违法违规行为",
+      "url": "www.qq.gogoal.com.cn/abnews/695637_326763.htm",
+      "price": 374.09,
+      "stock": 152,
+      "attrs": {
+        "brand": "鬪颼曣",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "guo229269",
+      "title": "青海举办宗教界推广普及国家通用语言文字演讲大赛",
+      "url": "www.163.gogoal.com.cn/ponews/106245_230526.htm",
+      "price": 158.33,
+      "stock": 377,
+      "attrs": {
+        "brand": "枛片礧",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "zfw666714",
+      "title": "美国能源部长：政府正与炼油企业商讨“自愿”减少柴油出口",
+      "url": "www.qq.gogoal.com.cn/abnews/069257_100884.htm",
+      "price": 709.94,
+      "stock": 68,
+      "attrs": {
+        "brand": "齺钩蒸",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "lil353296",
+      "title": "葵花籽油 “解锁” 新身份：即将登陆期货市场！",
+      "url": "www.163.gogoal.com.cn/ponews/001589_889542.htm",
+      "price": 779.24,
+      "stock": 250,
+      "attrs": {
+        "brand": "嘹偊懝",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "oog249992",
+      "title": "杰理科技：在智能穿戴芯片和物联芯片领域均有多年的布局",
+      "url": "www.qq.gogoal.com.cn/abnews/731149_976441.htm",
+      "price": 52.24,
+      "stock": 68,
+      "attrs": {
+        "brand": "穪瑇榫",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "mrc483053",
+      "title": "万亿资本做LP：四大龙头为何“各看各的”？",
+      "url": "www.163.gogoal.com.cn/ponews/154130_343663.htm",
+      "price": 265.13,
+      "stock": 397,
+      "attrs": {
+        "brand": "钷穇庆",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "goy686768",
+      "title": "日元兑美元汇率接近160日元关口 干预风险再度浮现",
+      "url": "www.qq.gogoal.com.cn/abnews/408657_005178.htm",
+      "price": 889.69,
+      "stock": 205,
+      "attrs": {
+        "brand": "靣閁覌",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "kli078430",
+      "title": "马来西亚国会上议院副议长：冀与四川深化农业、水利等多领域合作",
+      "url": "www.163.gogoal.com.cn/ponews/796055_383614.htm",
+      "price": 596.9,
+      "stock": 376,
+      "attrs": {
+        "brand": "繹躞揢",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "mbe738897",
+      "title": "越疆、凡拓数创等入股广东省具身智能科技公司",
+      "url": "www.qq.gogoal.com.cn/abnews/118508_222663.htm",
+      "price": 168.31,
+      "stock": 166,
+      "attrs": {
+        "brand": "肩碆媅",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "sxo478272",
+      "title": "工商兴城 实业救国——重庆工商界历史名人⑭|康心如：铸就山城金融丰碑的实业家",
+      "url": "www.163.gogoal.com.cn/ponews/219255_707684.htm",
+      "price": 261.78,
+      "stock": 300,
+      "attrs": {
+        "brand": "幢侙葶",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "noj417715",
+      "title": "浙能电力：拟参股投资浙江三澳核电三期项目",
+      "url": "www.qq.gogoal.com.cn/abnews/437274_305325.htm",
+      "price": 556.89,
+      "stock": 454,
+      "attrs": {
+        "brand": "鮲簶邆",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "kaj409020",
+      "title": "银企合作 1485亿元投向河南交通运输项目",
+      "url": "www.163.gogoal.com.cn/ponews/546536_990658.htm",
+      "price": 899.21,
+      "stock": 456,
+      "attrs": {
+        "brand": "簧崰烿",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "iyw188706",
+      "title": "满足全球生物燃料需求，或将需要相当于美国蒙大拿州大小的土地",
+      "url": "www.qq.gogoal.com.cn/abnews/023110_395502.htm",
+      "price": 931.71,
+      "stock": 215,
+      "attrs": {
+        "brand": "伓淁訇",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "tdk903250",
+      "title": "长期护理保险支付新规落地 专家解读",
+      "url": "www.163.gogoal.com.cn/ponews/662834_587541.htm",
+      "price": 850.04,
+      "stock": 29,
+      "attrs": {
+        "brand": "坌坲跰",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ydd618212",
+      "title": "中美第八轮经贸磋商达成多项共识",
+      "url": "www.qq.gogoal.com.cn/abnews/817745_968436.htm",
+      "price": 751.08,
+      "stock": 163,
+      "attrs": {
+        "brand": "沺赫聕",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "drb193237",
+      "title": "OpenAI和Anthropic首席执行官呼吁联合国和世界各国就AI安全加强合作",
+      "url": "www.163.gogoal.com.cn/ponews/070500_575546.htm",
+      "price": 967.89,
+      "stock": 4,
+      "attrs": {
+        "brand": "叢踿撼",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ure869045",
+      "title": "欧洲央行管委Kocher：欧洲经济韧性强于预期",
+      "url": "www.qq.gogoal.com.cn/abnews/409198_743470.htm",
+      "price": 837.03,
+      "stock": 403,
+      "attrs": {
+        "brand": "姟諗傉",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "plo916881",
+      "title": "险资投资港股通ETF 监管口径来了",
+      "url": "www.163.gogoal.com.cn/ponews/164702_613686.htm",
+      "price": 761.86,
+      "stock": 493,
+      "attrs": {
+        "brand": "辜蚇鏃",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "wdf070250",
+      "title": "俄罗斯预计2027年GDP增长1.4%",
+      "url": "www.qq.gogoal.com.cn/abnews/263791_909200.htm",
+      "price": 82.27,
+      "stock": 150,
+      "attrs": {
+        "brand": "挙逐僓",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "dqa482026",
+      "title": "文远知行-W授出1788.02万份受限制股份单位",
+      "url": "www.163.gogoal.com.cn/ponews/711193_101369.htm",
+      "price": 311.61,
+      "stock": 153,
+      "attrs": {
+        "brand": "偵贀屽",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "lch950077",
+      "title": "豆包裁员、对话团队砍掉一半？豆包刘星：不实 系分工调整",
+      "url": "www.qq.gogoal.com.cn/abnews/753779_357838.htm",
+      "price": 581.77,
+      "stock": 137,
+      "attrs": {
+        "brand": "綞尽撤",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "zqz377495",
+      "title": "德国主要经济研究机构将今年GDP预期上调一倍以上 经济前景改善",
+      "url": "www.163.gogoal.com.cn/ponews/415216_608529.htm",
+      "price": 910.11,
+      "stock": 74,
+      "attrs": {
+        "brand": "珝儳晾",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "cbq143012",
+      "title": "摩根大通减持三环集团8.49万股 每股作价约141.18港元",
+      "url": "www.qq.gogoal.com.cn/abnews/168547_424437.htm",
+      "price": 750.15,
+      "stock": 3,
+      "attrs": {
+        "brand": "鮥猰湯",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "fmg205445",
+      "title": "澳华文联主席余俊武：文化传承不仅要“守” 也要不断寻找新的表达方式",
+      "url": "www.163.gogoal.com.cn/ponews/170240_341767.htm",
+      "price": 26.95,
+      "stock": 434,
+      "attrs": {
+        "brand": "瘅們迗",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "kwo888176",
+      "title": "乙二醇：下游聚酯减产延续 供需面临累库拐点",
+      "url": "www.qq.gogoal.com.cn/abnews/387044_581352.htm",
+      "price": 830.17,
+      "stock": 24,
+      "attrs": {
+        "brand": "驃倶泖",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "xqr769488",
+      "title": "河南三门峡地坑院点亮花灯迎“双节”",
+      "url": "www.163.gogoal.com.cn/ponews/720189_082903.htm",
+      "price": 778.86,
+      "stock": 111,
+      "attrs": {
+        "brand": "缡髃躯",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "cbj384283",
+      "title": "据报道 互联网主机服务的美国公司GoDaddy收到Gen Digital的收购要约",
+      "url": "www.qq.gogoal.com.cn/abnews/261682_128749.htm",
+      "price": 722.05,
+      "stock": 212,
+      "attrs": {
+        "brand": "欀怈謹",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "buz741857",
+      "title": "伊朗官员称与美国的冲突可能进一步扩大",
+      "url": "www.163.gogoal.com.cn/ponews/105114_608390.htm",
+      "price": 773.2,
+      "stock": 253,
+      "attrs": {
+        "brand": "兂鼍匟",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "lna778329",
+      "title": "海南质量强省建设向纵深推进",
+      "url": "www.qq.gogoal.com.cn/abnews/352813_785503.htm",
+      "price": 657.13,
+      "stock": 63,
+      "attrs": {
+        "brand": "窽酡捎",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "coe295442",
+      "title": "美国30年期抵押贷款利率升至7.12%，创逾两年新高",
+      "url": "www.163.gogoal.com.cn/ponews/657473_040612.htm",
+      "price": 796.49,
+      "stock": 148,
+      "attrs": {
+        "brand": "艑橴敛",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ytl125448",
+      "title": "四川夹江大千纸文化产业园正式开园",
+      "url": "www.qq.gogoal.com.cn/abnews/997895_708741.htm",
+      "price": 717.03,
+      "stock": 291,
+      "attrs": {
+        "brand": "擝富觬",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "wdz262752",
+      "title": "美国能源部宣布加速电网投资 将资助31个电网改进项目",
+      "url": "www.163.gogoal.com.cn/ponews/659204_696515.htm",
+      "price": 451.24,
+      "stock": 204,
+      "attrs": {
+        "brand": "毃沙鄧",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "bts988291",
+      "title": "私募业规模，连续11个月创新高",
+      "url": "www.qq.gogoal.com.cn/abnews/889644_909780.htm",
+      "price": 393.16,
+      "stock": 348,
+      "attrs": {
+        "brand": "奣澂牅",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "qvp570105",
+      "title": "实控人违规占用资金遭立案，川大智胜维权通道开启",
+      "url": "www.163.gogoal.com.cn/ponews/618064_365326.htm",
+      "price": 394.82,
+      "stock": 103,
+      "attrs": {
+        "brand": "歶灰饺",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "jdw970655",
+      "title": "3连板后，600503跌停",
+      "url": "www.qq.gogoal.com.cn/abnews/757098_727368.htm",
+      "price": 694.56,
+      "stock": 336,
+      "attrs": {
+        "brand": "酕緂詪",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "kxu802684",
+      "title": "日经225指数开盘上涨0.7% 韩国股市今日休市",
+      "url": "www.163.gogoal.com.cn/ponews/068673_765132.htm",
+      "price": 188.34,
+      "stock": 29,
+      "attrs": {
+        "brand": "请狄瘍",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "tor824187",
+      "title": "日元跌至158，主因是美债利率暴涨",
+      "url": "www.qq.gogoal.com.cn/abnews/478049_182984.htm",
+      "price": 133.6,
+      "stock": 179,
+      "attrs": {
+        "brand": "梼触豪",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "lma344807",
+      "title": "中秋国庆假期铁路运输启动 国铁广州局预计送客3860万人次",
+      "url": "www.163.gogoal.com.cn/ponews/785664_846534.htm",
+      "price": 689.69,
+      "stock": 158,
+      "attrs": {
+        "brand": "炼嬲根",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ndd632994",
+      "title": "924两周年盘点：行业指数走势分化 通信、电子涨超200%引领科技成长",
+      "url": "www.qq.gogoal.com.cn/abnews/129503_092315.htm",
+      "price": 272.32,
+      "stock": 158,
+      "attrs": {
+        "brand": "卮乳鷋",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ajb428402",
+      "title": "“选爸爸还是选妈妈？” 这些法官听懂未成年人的心声",
+      "url": "www.163.gogoal.com.cn/ponews/966976_575423.htm",
+      "price": 689.37,
+      "stock": 90,
+      "attrs": {
+        "brand": "罇橖胆",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "rzb039657",
+      "title": "美国9月PMI强劲引发“经济过热”担忧：加息预期进一步升温，美债收益率全线走高",
+      "url": "www.qq.gogoal.com.cn/abnews/359218_144034.htm",
+      "price": 311.86,
+      "stock": 50,
+      "attrs": {
+        "brand": "号肘豋",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "pci041152",
+      "title": "金价维持跌势 美国经济数据强劲推升美联储加息预期",
+      "url": "www.163.gogoal.com.cn/ponews/478540_267970.htm",
+      "price": 409.49,
+      "stock": 320,
+      "attrs": {
+        "brand": "偆鹥賡",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "dcp793227",
+      "title": "是否邀请特朗普出席APEC深圳峰会？外交部：中美就年内两国元首互动安排保持着沟通",
+      "url": "www.qq.gogoal.com.cn/abnews/126767_727686.htm",
+      "price": 632.95,
+      "stock": 220,
+      "attrs": {
+        "brand": "鞭縉鍉",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ycy543793",
+      "title": "瀚天天成午前涨超7% 获中泰国际首次覆盖并给予“买入”评级",
+      "url": "www.163.gogoal.com.cn/ponews/335050_336864.htm",
+      "price": 972.83,
+      "stock": 70,
+      "attrs": {
+        "brand": "氉按嫮",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "nqg308892",
+      "title": "第五届全球数贸会举办 全球客商齐聚浙江共寻商机",
+      "url": "www.qq.gogoal.com.cn/abnews/826876_716819.htm",
+      "price": 942.79,
+      "stock": 342,
+      "attrs": {
+        "brand": "蚣橩櫅",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "qwi212317",
+      "title": "【沥燃日报】沥青领跌整个能化板块，成本端回落+现货端松动驱动",
+      "url": "www.163.gogoal.com.cn/ponews/919693_905932.htm",
+      "price": 263.35,
+      "stock": 308,
+      "attrs": {
+        "brand": "咅桕濡",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "npa002214",
+      "title": "主力资金监控：中国巨石净卖出超8亿",
+      "url": "www.qq.gogoal.com.cn/abnews/059808_199110.htm",
+      "price": 915.39,
+      "stock": 157,
+      "attrs": {
+        "brand": "暿擉砿",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "yhi946288",
+      "title": "哈尔滨太平国际机场口岸预计双节出入境客流同比增长超六成",
+      "url": "www.163.gogoal.com.cn/ponews/410993_546124.htm",
+      "price": 475.89,
+      "stock": 247,
+      "attrs": {
+        "brand": "爺墭朑",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ocl385848",
+      "title": "半导体设备概念震荡拉升 托伦斯涨超10%",
+      "url": "www.qq.gogoal.com.cn/abnews/796953_956999.htm",
+      "price": 326.58,
+      "stock": 129,
+      "attrs": {
+        "brand": "鷤百莈",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "pol520016",
+      "title": "在宁台港澳企业职工文体活动在银川举办",
+      "url": "www.163.gogoal.com.cn/ponews/713467_818583.htm",
+      "price": 828.74,
+      "stock": 481,
+      "attrs": {
+        "brand": "梡鉨銟",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "elh271571",
+      "title": "阳光资产获批变更业务范围",
+      "url": "www.qq.gogoal.com.cn/abnews/559757_804259.htm",
+      "price": 252.02,
+      "stock": 289,
+      "attrs": {
+        "brand": "槴譼瑚",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "axa300297",
+      "title": "百本医护发布年度业绩 年内溢利623.5万港元同比减少64.45%",
+      "url": "www.163.gogoal.com.cn/ponews/091744_578042.htm",
+      "price": 191.91,
+      "stock": 23,
+      "attrs": {
+        "brand": "偪咁廵",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "pbp362959",
+      "title": "第五届数贸会恰逢中秋佳节 中国外交部介绍有关情况",
+      "url": "www.qq.gogoal.com.cn/abnews/675065_671548.htm",
+      "price": 497.38,
+      "stock": 222,
+      "attrs": {
+        "brand": "箘悻畇",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "mvw371940",
+      "title": "贝因美：婴配粉行业竞争焦点已从价格战转向综合较量",
+      "url": "www.163.gogoal.com.cn/ponews/298668_594330.htm",
+      "price": 56.97,
+      "stock": 479,
+      "attrs": {
+        "brand": "睭牊韕",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "lug651361",
+      "title": "侨胞建言中华文化海外传播：融入、创新、互鉴",
+      "url": "www.qq.gogoal.com.cn/abnews/251421_010053.htm",
+      "price": 408.92,
+      "stock": 334,
+      "attrs": {
+        "brand": "鍵甜龠",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ztz311930",
+      "title": "美国国务卿宣布对“生育旅游”实施新的签证限制",
+      "url": "www.163.gogoal.com.cn/ponews/209248_939421.htm",
+      "price": 570.77,
+      "stock": 150,
+      "attrs": {
+        "brand": "怭矗韰",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "xiu592059",
+      "title": "美国债市：国债重挫 曲线中段领跌 PMI强劲且标售需求疲软",
+      "url": "www.qq.gogoal.com.cn/abnews/386805_457131.htm",
+      "price": 875.36,
+      "stock": 186,
+      "attrs": {
+        "brand": "砙烩娭",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "rcf933366",
+      "title": "第五届全球数字贸易博览会今日举行启动仪式",
+      "url": "www.163.gogoal.com.cn/ponews/270036_094863.htm",
+      "price": 906.3,
+      "stock": 415,
+      "attrs": {
+        "brand": "峘穎环",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "trc880222",
+      "title": "日本9月制造业采购经理人指数(PMI)初值为54.1",
+      "url": "www.qq.gogoal.com.cn/abnews/026252_483732.htm",
+      "price": 392.96,
+      "stock": 260,
+      "attrs": {
+        "brand": "墿蠙嘄",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "upd406251",
+      "title": "2026中秋档新片预售票房破3000万",
+      "url": "www.163.gogoal.com.cn/ponews/522506_467249.htm",
+      "price": 271.42,
+      "stock": 363,
+      "attrs": {
+        "brand": "以盛劵",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "epu041498",
+      "title": "“月是故乡明”2026海峡两岸（漳州）中秋晚会在福建漳州西湖上演",
+      "url": "www.qq.gogoal.com.cn/abnews/603528_629318.htm",
+      "price": 753.88,
+      "stock": 142,
+      "attrs": {
+        "brand": "朽鉢煊",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "fsd298920",
+      "title": "我国将培育更多旅游名县和“宝藏小城”",
+      "url": "www.163.gogoal.com.cn/ponews/647624_417377.htm",
+      "price": 619.04,
+      "stock": 167,
+      "attrs": {
+        "brand": "暻彗线",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "cuz100563",
+      "title": "国防部：民进党当局出卖民族尊严利益 受到两岸同胞唾弃",
+      "url": "www.qq.gogoal.com.cn/abnews/102557_217890.htm",
+      "price": 160.11,
+      "stock": 38,
+      "attrs": {
+        "brand": "誽驡姧",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ajk936075",
+      "title": "宁德时代：稳步推进印尼工厂、匈牙利工厂及西班牙合资工厂等项目的建设",
+      "url": "www.163.gogoal.com.cn/ponews/515244_998408.htm",
+      "price": 817.05,
+      "stock": 25,
+      "attrs": {
+        "brand": "徊誟瘙",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "iyp934989",
+      "title": "10年期美债收益率创下19年新高后继续上行，投资者加大押注美联储加息",
+      "url": "www.qq.gogoal.com.cn/abnews/629167_645990.htm",
+      "price": 330.67,
+      "stock": 227,
+      "attrs": {
+        "brand": "怇爚骫",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "exv524043",
+      "title": "巴西央行：截至9月18日当月 巴西资金流动净额为流出70.78亿美元",
+      "url": "www.163.gogoal.com.cn/ponews/363228_093814.htm",
+      "price": 278.09,
+      "stock": 50,
+      "attrs": {
+        "brand": "樘閵拯",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "cvn578123",
+      "title": "2026年中秋&国庆假期风险提示及操作建议",
+      "url": "www.qq.gogoal.com.cn/abnews/112813_479994.htm",
+      "price": 15.56,
+      "stock": 98,
+      "attrs": {
+        "brand": "棈遲贠",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "vkx262791",
+      "title": "中国财险：拟于11月6日派发中期股息每股0.34元",
+      "url": "www.163.gogoal.com.cn/ponews/894735_454266.htm",
+      "price": 729.18,
+      "stock": 325,
+      "attrs": {
+        "brand": "姚槅漠",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "jwx093916",
+      "title": "健康160遭执行董事黄浪两日减持267.75万股 耗资约1537.43万港元",
+      "url": "www.qq.gogoal.com.cn/abnews/729966_309452.htm",
+      "price": 231.22,
+      "stock": 105,
+      "attrs": {
+        "brand": "齠敆籈",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "aub904252",
+      "title": "中原建业早盘高开逾25% 公司拟更名为“中源科技管理集团”",
+      "url": "www.163.gogoal.com.cn/ponews/449072_451678.htm",
+      "price": 968.33,
+      "stock": 99,
+      "attrs": {
+        "brand": "鳗鵳驲",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "tuo771842",
+      "title": "邮储银行哈密市分行被罚53万元：违反金融统计管理规定等",
+      "url": "www.qq.gogoal.com.cn/abnews/492440_051621.htm",
+      "price": 692.09,
+      "stock": 222,
+      "attrs": {
+        "brand": "辨泘珡",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "lqm880211",
+      "title": "中国驻圣保罗总领馆举行庆祝中华人民共和国成立77周年招待会",
+      "url": "www.163.gogoal.com.cn/ponews/255152_688132.htm",
+      "price": 879.16,
+      "stock": 458,
+      "attrs": {
+        "brand": "冼錬宼",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "dnp882744",
+      "title": "超快充“分钟级”竞速 吉利、比亚迪等接连刷新纪录 电池工程师：长质保更有说服力",
+      "url": "www.qq.gogoal.com.cn/abnews/906764_981484.htm",
+      "price": 358.43,
+      "stock": 363,
+      "attrs": {
+        "brand": "萋惀躱",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "zqa890627",
+      "title": "量贩零食品牌“缺斤短两”问题引关注 市场监管总局回应“鬼秤”顽疾",
+      "url": "www.163.gogoal.com.cn/ponews/977706_528323.htm",
+      "price": 854.48,
+      "stock": 274,
+      "attrs": {
+        "brand": "攬剡褜",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "uob618858",
+      "title": "美国财政部称周四将回购至多60亿美元较长期美债",
+      "url": "www.qq.gogoal.com.cn/abnews/467914_130545.htm",
+      "price": 42.94,
+      "stock": 123,
+      "attrs": {
+        "brand": "刉泛亨",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "qba128166",
+      "title": "啤酒半年报|青岛啤酒营收减少销量下滑 大众产品成拖累",
+      "url": "www.163.gogoal.com.cn/ponews/649817_623642.htm",
+      "price": 223.05,
+      "stock": 205,
+      "attrs": {
+        "brand": "嬏糃氯",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "lgj470499",
+      "title": "经审计三个字，架空了文盛资产一份11.25亿的业绩承诺",
+      "url": "www.qq.gogoal.com.cn/abnews/362876_463480.htm",
+      "price": 630.66,
+      "stock": 485,
+      "attrs": {
+        "brand": "絯訅珊",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "thb902605",
+      "title": "市场监管总局：我国国际标准转化率保持在95%以上",
+      "url": "www.163.gogoal.com.cn/ponews/813769_375149.htm",
+      "price": 102.55,
+      "stock": 59,
+      "attrs": {
+        "brand": "巜琢禥",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "eyb477124",
+      "title": "日本5年期国债收益率上升9.0个基点 创下2.365%的历史新高",
+      "url": "www.qq.gogoal.com.cn/abnews/793897_828271.htm",
+      "price": 414.99,
+      "stock": 43,
+      "attrs": {
+        "brand": "鞏峠薚",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "zbh202999",
+      "title": "微软计划2030年前向中东投资超100亿美元 加强AI基础设施建设",
+      "url": "www.163.gogoal.com.cn/ponews/717443_956156.htm",
+      "price": 246.2,
+      "stock": 177,
+      "attrs": {
+        "brand": "璨嶠厓",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "lgy040265",
+      "title": "台积电明年1月晶圆代工再涨价？国产芯片链可以关注了吗？",
+      "url": "www.qq.gogoal.com.cn/abnews/589296_050879.htm",
+      "price": 293.58,
+      "stock": 363,
+      "attrs": {
+        "brand": "鳔矫褩",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "otp955872",
+      "title": "第十四届中国曲艺牡丹奖颁奖仪式举办",
+      "url": "www.163.gogoal.com.cn/ponews/523400_464731.htm",
+      "price": 553.76,
+      "stock": 170,
+      "attrs": {
+        "brand": "魞刿巉",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "rbp318895",
+      "title": "孙颖莎：决赛比预期顺利，团体赛开了个好头",
+      "url": "www.qq.gogoal.com.cn/abnews/636660_719851.htm",
+      "price": 364.12,
+      "stock": 214,
+      "attrs": {
+        "brand": "鉥同懦",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "les267606",
+      "title": "中原建业拟1亿港元收购连横科技25%股份 启动“代建+AI科技”业务模式",
+      "url": "www.163.gogoal.com.cn/ponews/047627_227948.htm",
+      "price": 342.14,
+      "stock": 367,
+      "attrs": {
+        "brand": "奋舎涡",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "tik800690",
+      "title": "华瓷股份：英国针对公司现行反倾销税率为18.3%",
+      "url": "www.qq.gogoal.com.cn/abnews/523051_069640.htm",
+      "price": 484.63,
+      "stock": 460,
+      "attrs": {
+        "brand": "咘僇鳵",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "xvk978317",
+      "title": "月之暗面注册资本增至1157.53万元 增幅达417.09%",
+      "url": "www.163.gogoal.com.cn/ponews/967495_191260.htm",
+      "price": 761.36,
+      "stock": 253,
+      "attrs": {
+        "brand": "蹴邙剚",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "yce869770",
+      "title": "美联储10月加息的概率抬升至69.7%",
+      "url": "www.qq.gogoal.com.cn/abnews/223119_300585.htm",
+      "price": 800.04,
+      "stock": 439,
+      "attrs": {
+        "brand": "耛瀑丛",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ilq928131",
+      "title": "三星电气一字涨停 全资子公司中标美国数据中心1.32亿美元储能油变项目",
+      "url": "www.163.gogoal.com.cn/ponews/060609_916007.htm",
+      "price": 932.45,
+      "stock": 197,
+      "attrs": {
+        "brand": "鳦覊耱",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ubg540958",
+      "title": "轻稀土价格上涨明显",
+      "url": "www.qq.gogoal.com.cn/abnews/450449_171175.htm",
+      "price": 951.21,
+      "stock": 368,
+      "attrs": {
+        "brand": "欜雫獾",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "zwp827152",
+      "title": "300585，拟易主！接盘方作出5年超长期股份锁定承诺",
+      "url": "www.163.gogoal.com.cn/ponews/324762_357732.htm",
+      "price": 388.87,
+      "stock": 102,
+      "attrs": {
+        "brand": "旌莿塇",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "viw721781",
+      "title": "国家外汇管理局公布2026年8月中国外汇市场交易概况数据",
+      "url": "www.qq.gogoal.com.cn/abnews/510972_003645.htm",
+      "price": 212.36,
+      "stock": 293,
+      "attrs": {
+        "brand": "嵅僬蹞",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "idw003147",
+      "title": "政策赋能叠加技术迭代 AI教育驶入发展快车道",
+      "url": "www.163.gogoal.com.cn/ponews/479418_628959.htm",
+      "price": 86.24,
+      "stock": 160,
+      "attrs": {
+        "brand": "礠购津",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "vkx058543",
+      "title": "四集人文纪录片《四季新疆》以四时山河绘就新时代新疆人文长卷",
+      "url": "www.qq.gogoal.com.cn/abnews/110552_366699.htm",
+      "price": 457.27,
+      "stock": 416,
+      "attrs": {
+        "brand": "蔁懯病",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "mra914962",
+      "title": "海南织密“田间到舌尖”安全网 标准品牌驱动农业高质量发展",
+      "url": "www.163.gogoal.com.cn/ponews/563461_871805.htm",
+      "price": 280.43,
+      "stock": 2,
+      "attrs": {
+        "brand": "顃诰卦",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "gng772992",
+      "title": "汇丰将宝马目标价从71欧元下调至69欧元",
+      "url": "www.qq.gogoal.com.cn/abnews/354317_318166.htm",
+      "price": 922.29,
+      "stock": 50,
+      "attrs": {
+        "brand": "暝繉紇",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "fah814992",
+      "title": "尖峰集团：子公司获甲基多巴原料药欧洲CEP证书",
+      "url": "www.163.gogoal.com.cn/ponews/824625_540266.htm",
+      "price": 67.33,
+      "stock": 202,
+      "attrs": {
+        "brand": "肀我鄮",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "dax155839",
+      "title": "亚罗·舒莱克个展《梦起之处》开幕 展至10月28日",
+      "url": "www.qq.gogoal.com.cn/abnews/056074_534658.htm",
+      "price": 712.09,
+      "stock": 18,
+      "attrs": {
+        "brand": "窄碛軕",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "efj982892",
+      "title": "康芝药业（300086）被立案，股民索赔可期",
+      "url": "www.163.gogoal.com.cn/ponews/012095_479138.htm",
+      "price": 857.32,
+      "stock": 342,
+      "attrs": {
+        "brand": "搏懜倸",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "vyc403889",
+      "title": "泽连斯基：美方推动能源停火 提议举行美俄乌三方会谈",
+      "url": "www.qq.gogoal.com.cn/abnews/132179_612636.htm",
+      "price": 574.4,
+      "stock": 141,
+      "attrs": {
+        "brand": "杓鸊筩",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "llh785801",
+      "title": "从纽约到昆明，中国第一座血库如何为抗战前线“输血”",
+      "url": "www.163.gogoal.com.cn/ponews/831019_570539.htm",
+      "price": 454.52,
+      "stock": 51,
+      "attrs": {
+        "brand": "氩磹玳",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "hxk208590",
+      "title": "美联储“三号人物”：年内或有必要再次加息 以抑制通胀",
+      "url": "www.qq.gogoal.com.cn/abnews/375391_890127.htm",
+      "price": 447.46,
+      "stock": 367,
+      "attrs": {
+        "brand": "螯裶茵",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "cec852947",
+      "title": "澜起科技：第三大股东WLT拟减持不超233万股公司股份",
+      "url": "www.163.gogoal.com.cn/ponews/927354_450317.htm",
+      "price": 499.01,
+      "stock": 148,
+      "attrs": {
+        "brand": "枽覘瓻",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "nez796366",
+      "title": "云南西盟：民族团结进步之花为何开遍阿佤山？",
+      "url": "www.qq.gogoal.com.cn/abnews/283504_018818.htm",
+      "price": 923.05,
+      "stock": 405,
+      "attrs": {
+        "brand": "闵獳瓓",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "hfv499414",
+      "title": "消息人士：亚马逊到2030年将在印度快速商务业务投资30亿美元",
+      "url": "www.163.gogoal.com.cn/ponews/686670_001444.htm",
+      "price": 846.25,
+      "stock": 288,
+      "attrs": {
+        "brand": "逪榯尹",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "xwo135151",
+      "title": "黄金牛市尚未终结，道明证券：金价下一轮涨势将突破5000美元",
+      "url": "www.qq.gogoal.com.cn/abnews/884356_126369.htm",
+      "price": 779.62,
+      "stock": 229,
+      "attrs": {
+        "brand": "雋筀道",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "kqp365119",
+      "title": "科技赋能安全治理 浙江上线多个AI应用",
+      "url": "www.163.gogoal.com.cn/ponews/219154_519542.htm",
+      "price": 514.01,
+      "stock": 28,
+      "attrs": {
+        "brand": "苀碘佟",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "cwn423049",
+      "title": "晶盛机电：Linton公司在美国对公司提起专利诉讼",
+      "url": "www.qq.gogoal.com.cn/abnews/319567_921813.htm",
+      "price": 598.66,
+      "stock": 198,
+      "attrs": {
+        "brand": "甡怐戶",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ztv923097",
+      "title": "农业银行渭南分行被罚18.6万元：违反国库管理规定",
+      "url": "www.163.gogoal.com.cn/ponews/118994_528731.htm",
+      "price": 768.9,
+      "stock": 187,
+      "attrs": {
+        "brand": "悳漖藯",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "wiy389735",
+      "title": "佳兆业健康：中文股份简称将更改为“青海生物制药”",
+      "url": "www.qq.gogoal.com.cn/abnews/790126_192081.htm",
+      "price": 553.92,
+      "stock": 54,
+      "attrs": {
+        "brand": "鱅籌唋",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "pzr812714",
+      "title": "哈尔滨北方森林动物园200余只新生动物幼崽“双节”集中亮相",
+      "url": "www.163.gogoal.com.cn/ponews/189990_855807.htm",
+      "price": 443.84,
+      "stock": 265,
+      "attrs": {
+        "brand": "旼箔囁",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "jdh569325",
+      "title": "十五运会官方纪录电影《同湾同梦》首映礼在广州启幕",
+      "url": "www.qq.gogoal.com.cn/abnews/267267_986919.htm",
+      "price": 131.51,
+      "stock": 95,
+      "attrs": {
+        "brand": "豚檛弦",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "skl691549",
+      "title": "【棉花季报】估值定重心，消费定高度",
+      "url": "www.163.gogoal.com.cn/ponews/469177_898888.htm",
+      "price": 729.91,
+      "stock": 93,
+      "attrs": {
+        "brand": "恣睊焳",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "tdb931896",
+      "title": "美亨实业9月24日回购20万股 涉资8.8万港元",
+      "url": "www.qq.gogoal.com.cn/abnews/480568_534774.htm",
+      "price": 720.12,
+      "stock": 341,
+      "attrs": {
+        "brand": "殤勆飭",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "uej069874",
+      "title": "“提车20天变旧款！”华境遭上百名车主集体维权，被吐槽“五菱不配高端”，官方扎心回应：补偿不了",
+      "url": "www.163.gogoal.com.cn/ponews/408893_879695.htm",
+      "price": 183.92,
+      "stock": 317,
+      "attrs": {
+        "brand": "羭捥楹",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "kia557781",
+      "title": "“圆桌”聚智汇才 浙江科学家与企业家携手向“新”",
+      "url": "www.qq.gogoal.com.cn/abnews/253487_017029.htm",
+      "price": 85.81,
+      "stock": 322,
+      "attrs": {
+        "brand": "攞齙遡",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "dtx463858",
+      "title": "海南自贸港跨境资管试点扩容 2家公募、3家券商、5家银行在列",
+      "url": "www.163.gogoal.com.cn/ponews/144350_852685.htm",
+      "price": 278.92,
+      "stock": 194,
+      "attrs": {
+        "brand": "創撵创",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "qte713641",
+      "title": "国际油价直线拉升，布油重回100美元",
+      "url": "www.qq.gogoal.com.cn/abnews/623276_072639.htm",
+      "price": 81.16,
+      "stock": 350,
+      "attrs": {
+        "brand": "盳闱紎",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "amc688850",
+      "title": "中机试验IPO状态变更为已问询",
+      "url": "www.163.gogoal.com.cn/ponews/538750_666607.htm",
+      "price": 333.97,
+      "stock": 179,
+      "attrs": {
+        "brand": "裒筈痥",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "idv068324",
+      "title": "4连板新华传媒：股票交易异常波动 市盈率显著高于行业水平",
+      "url": "www.qq.gogoal.com.cn/abnews/463869_358887.htm",
+      "price": 547.85,
+      "stock": 246,
+      "attrs": {
+        "brand": "呋鯇贋",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "sbk435374",
+      "title": "英伟达黄仁勋：AI“监管豁免”没有道理 外界对AI的担忧已过度",
+      "url": "www.163.gogoal.com.cn/ponews/103950_697842.htm",
+      "price": 315.49,
+      "stock": 198,
+      "attrs": {
+        "brand": "鮰籮崘",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "spj595354",
+      "title": "据报道 五位知情人士表示：美国准备实施为期90天的柴油出口禁令",
+      "url": "www.qq.gogoal.com.cn/abnews/556612_312626.htm",
+      "price": 195.29,
+      "stock": 128,
+      "attrs": {
+        "brand": "靪雚魔",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "lev403744",
+      "title": "澳大利亚8月失业率升至4.6% 就业人数增加3.9万人",
+      "url": "www.163.gogoal.com.cn/ponews/756494_708831.htm",
+      "price": 210.56,
+      "stock": 309,
+      "attrs": {
+        "brand": "膾潳疵",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "atf697943",
+      "title": "小米MiMo V3新架构HySparse2发布",
+      "url": "www.qq.gogoal.com.cn/abnews/058804_377150.htm",
+      "price": 108.95,
+      "stock": 129,
+      "attrs": {
+        "brand": "宩缼販",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "uny473789",
+      "title": "WTI原油期货向上升破95美元/桶",
+      "url": "www.163.gogoal.com.cn/ponews/330146_531743.htm",
+      "price": 942.82,
+      "stock": 201,
+      "attrs": {
+        "brand": "萖轏豝",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "fzp438940",
+      "title": "Meta发布仅重约100克的VR眼镜 售价1299.99美元",
+      "url": "www.qq.gogoal.com.cn/abnews/591599_861096.htm",
+      "price": 266.74,
+      "stock": 5,
+      "attrs": {
+        "brand": "惻芯鑓",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "uzc950620",
+      "title": "美国上周首次申领失业救济人数为19.7万人 预估为20万人",
+      "url": "www.163.gogoal.com.cn/ponews/924058_929382.htm",
+      "price": 603.64,
+      "stock": 350,
+      "attrs": {
+        "brand": "勒囌仭",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "cof414265",
+      "title": "印度最大交易所上市",
+      "url": "www.qq.gogoal.com.cn/abnews/423206_805696.htm",
+      "price": 374.94,
+      "stock": 364,
+      "attrs": {
+        "brand": "蔝觲干",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "gjr002035",
+      "title": "云南澳门同心谋合作 产业联动拓新局",
+      "url": "www.163.gogoal.com.cn/ponews/141635_887398.htm",
+      "price": 183.43,
+      "stock": 175,
+      "attrs": {
+        "brand": "檈悕堧",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "pvo666336",
+      "title": "8月中国发行新增地方政府债券6440亿元",
+      "url": "www.qq.gogoal.com.cn/abnews/480015_252734.htm",
+      "price": 452.43,
+      "stock": 236,
+      "attrs": {
+        "brand": "隆覭砄",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ldd149296",
+      "title": "证监会核准德邦证券变更主要股东",
+      "url": "www.163.gogoal.com.cn/ponews/094013_056083.htm",
+      "price": 895.21,
+      "stock": 419,
+      "attrs": {
+        "brand": "轸吣鳡",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "kyk889380",
+      "title": "收益率“坐5望6”！美债危机“二阶段”出现？",
+      "url": "www.qq.gogoal.com.cn/abnews/177215_364608.htm",
+      "price": 487.82,
+      "stock": 244,
+      "attrs": {
+        "brand": "腜詜喑",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "rqq826294",
+      "title": "（爱知·名古屋亚运会）中国羽毛球队时隔12年再夺亚运女团冠军",
+      "url": "www.163.gogoal.com.cn/ponews/908423_819773.htm",
+      "price": 554.18,
+      "stock": 441,
+      "attrs": {
+        "brand": "艕伴析",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "vcj892275",
+      "title": "上市第6日跌停，这家公司股价较高点回撤超67%",
+      "url": "www.qq.gogoal.com.cn/abnews/984675_074821.htm",
+      "price": 148.11,
+      "stock": 136,
+      "attrs": {
+        "brand": "贗傰碇",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "xtr631110",
+      "title": "海南侨界庆祝中国侨联成立70周年诗歌朗诵会举行",
+      "url": "www.163.gogoal.com.cn/ponews/846456_711959.htm",
+      "price": 553.29,
+      "stock": 278,
+      "attrs": {
+        "brand": "粣汤槄",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "zne293726",
+      "title": "半导体产业链震荡回升 康强电子2连板",
+      "url": "www.qq.gogoal.com.cn/abnews/638699_939198.htm",
+      "price": 624.6,
+      "stock": 385,
+      "attrs": {
+        "brand": "蔵极鯥",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ijc859694",
+      "title": "铜陵有色赴港“补血”背后：H1净利翻倍难掩减值压力，百亿短债缺口悬顶",
+      "url": "www.163.gogoal.com.cn/ponews/207399_922986.htm",
+      "price": 543.28,
+      "stock": 487,
+      "attrs": {
+        "brand": "檬脟啸",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "wrb117887",
+      "title": "视频|专家称美国总统接机非常罕见",
+      "url": "www.qq.gogoal.com.cn/abnews/345663_492544.htm",
+      "price": 289.7,
+      "stock": 343,
+      "attrs": {
+        "brand": "诇緌栘",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "kjm170897",
+      "title": "苹果iPhone Duo确认将运行iOS 27.1",
+      "url": "www.163.gogoal.com.cn/ponews/338378_812786.htm",
+      "price": 593.57,
+      "stock": 92,
+      "attrs": {
+        "brand": "衿峺犬",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "fon416608",
+      "title": "924行情两周年最受青睐ETF：华安黄金ETF净申购665亿元，华夏科创半导体ETF净申购444亿元（名单）",
+      "url": "www.qq.gogoal.com.cn/abnews/509523_498783.htm",
+      "price": 705.16,
+      "stock": 162,
+      "attrs": {
+        "brand": "汜闐鬧",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "qnn606988",
+      "title": "陆控公布于9月24日上午起复牌",
+      "url": "www.163.gogoal.com.cn/ponews/791665_404926.htm",
+      "price": 196.91,
+      "stock": 431,
+      "attrs": {
+        "brand": "凔撕遄",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "usg093572",
+      "title": "欧洲央行管委拉德夫：目前尚未看到广泛的第二轮通胀效应",
+      "url": "www.qq.gogoal.com.cn/abnews/436456_576829.htm",
+      "price": 315.98,
+      "stock": 116,
+      "attrs": {
+        "brand": "坊泛匬",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "qmr696854",
+      "title": "国金证券：肺癌治疗迭代 中国新药崛起",
+      "url": "www.163.gogoal.com.cn/ponews/100753_556246.htm",
+      "price": 573.42,
+      "stock": 167,
+      "attrs": {
+        "brand": "吴鬴佗",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "btj887210",
+      "title": "读懂葵油 | 初步了解葵花籽和葵花籽油的基本情况",
+      "url": "www.qq.gogoal.com.cn/abnews/748290_572988.htm",
+      "price": 438.97,
+      "stock": 366,
+      "attrs": {
+        "brand": "霰供猇",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ypx270923",
+      "title": "Anthropic：人工智能有望在未来十年内治愈大多数重大疾病",
+      "url": "www.163.gogoal.com.cn/ponews/151719_492290.htm",
+      "price": 836.25,
+      "stock": 133,
+      "attrs": {
+        "brand": "涄樌責",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "yze642940",
+      "title": "荣耀李健预公布Magic9标准版价格",
+      "url": "www.qq.gogoal.com.cn/abnews/140250_893222.htm",
+      "price": 797.86,
+      "stock": 466,
+      "attrs": {
+        "brand": "脏瑈攸",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "rdi781043",
+      "title": "2026CFA中国之队·“和平杯”沈阳国际青少年足球锦标赛举行",
+      "url": "www.163.gogoal.com.cn/ponews/470214_994612.htm",
+      "price": 823.98,
+      "stock": 119,
+      "attrs": {
+        "brand": "钔仹獗",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "nvd295086",
+      "title": "688478，公司、董事长兼总经理等被出具警示函",
+      "url": "www.qq.gogoal.com.cn/abnews/635916_792977.htm",
+      "price": 792.67,
+      "stock": 195,
+      "attrs": {
+        "brand": "鎇翮嵮",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "dpj120869",
+      "title": "银行理财机构密集推出产品管理费率优惠",
+      "url": "www.163.gogoal.com.cn/ponews/432884_526792.htm",
+      "price": 494.62,
+      "stock": 311,
+      "attrs": {
+        "brand": "肸釨宑",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "qzo328024",
+      "title": "从相遇到理解 美中文化大咖眼中的国之交往",
+      "url": "www.qq.gogoal.com.cn/abnews/273576_949978.htm",
+      "price": 969.75,
+      "stock": 474,
+      "attrs": {
+        "brand": "紤讼鴫",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "tli106340",
+      "title": "陆控复牌首日暴跌逾四成：20个月停牌背后，港股通投资者成了最被动的“局外人”",
+      "url": "www.163.gogoal.com.cn/ponews/021170_038314.htm",
+      "price": 848.54,
+      "stock": 286,
+      "attrs": {
+        "brand": "叿亿肧",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "aid459857",
+      "title": "浙江促“四链”融合 加快建设世界级智能物联产业集群",
+      "url": "www.qq.gogoal.com.cn/abnews/047834_286254.htm",
+      "price": 804.04,
+      "stock": 415,
+      "attrs": {
+        "brand": "驛颴矄",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "cyn002197",
+      "title": "中汽测评牵头开展多项国际联合攻关",
+      "url": "www.163.gogoal.com.cn/ponews/396853_973155.htm",
+      "price": 906.01,
+      "stock": 312,
+      "attrs": {
+        "brand": "磯呑灊",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "yjc668004",
+      "title": "美元/日元涨势停滞 交易员称市场聚焦200日均线",
+      "url": "www.qq.gogoal.com.cn/abnews/700116_857599.htm",
+      "price": 43.41,
+      "stock": 384,
+      "attrs": {
+        "brand": "窍粺挵",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "rtc542756",
+      "title": "GTC泽汇资本:黄金持仓回暖重估资金空间",
+      "url": "www.163.gogoal.com.cn/ponews/545201_403160.htm",
+      "price": 935.59,
+      "stock": 219,
+      "attrs": {
+        "brand": "琀笽杕",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "xex128760",
+      "title": "美国总统特朗普儿子Trump JR.旗下1789 Capital洽谈融资30亿美元",
+      "url": "www.qq.gogoal.com.cn/abnews/832138_815820.htm",
+      "price": 272.22,
+      "stock": 305,
+      "attrs": {
+        "brand": "畢夀縐",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "spf735387",
+      "title": "聚焦行业趋势和应对 长江商学院CEO项目20周年论坛举行",
+      "url": "www.163.gogoal.com.cn/ponews/390266_859746.htm",
+      "price": 698.16,
+      "stock": 327,
+      "attrs": {
+        "brand": "欄境摎",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "jav264537",
+      "title": "美国据悉拟推动美元稳定币海外使用 以巩固美元地位并提振美债需求",
+      "url": "www.qq.gogoal.com.cn/abnews/426809_141715.htm",
+      "price": 773.24,
+      "stock": 188,
+      "attrs": {
+        "brand": "翓陶瘌",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "ryh716372",
+      "title": "先导智能获摩根大通增持9.51万股 每股作价约27.9港元",
+      "url": "www.163.gogoal.com.cn/ponews/882838_670159.htm",
+      "price": 108.72,
+      "stock": 371,
+      "attrs": {
+        "brand": "脧焐釵",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "wnt437125",
+      "title": "美债收益率飙升！纽约联储主席称今年年底前再次加息是合理的",
+      "url": "www.qq.gogoal.com.cn/abnews/653867_225468.htm",
+      "price": 379.25,
+      "stock": 68,
+      "attrs": {
+        "brand": "聹闐譶",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "wzv438977",
+      "title": "香港8月出口同比增长53.0% 高于市场预期",
+      "url": "www.163.gogoal.com.cn/ponews/894236_033014.htm",
+      "price": 823.31,
+      "stock": 405,
+      "attrs": {
+        "brand": "綵嚖儕",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "tas776976",
+      "title": "贝莱德在优必选H股的持股比例于9月21日从5.27%降至3.59%",
+      "url": "www.qq.gogoal.com.cn/abnews/337714_740713.htm",
+      "price": 594.89,
+      "stock": 224,
+      "attrs": {
+        "brand": "壻礏灔",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "ggb948619",
+      "title": "中埃孟图神庙遗址联合考古新发现双圣湖遗迹",
+      "url": "www.163.gogoal.com.cn/ponews/616505_003922.htm",
+      "price": 525.76,
+      "stock": 272,
+      "attrs": {
+        "brand": "盗躰棰",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "nra738207",
+      "title": "广西启动金秋住房消费季活动 发起“好房子”品质保障倡议",
+      "url": "www.qq.gogoal.com.cn/abnews/932445_152919.htm",
+      "price": 980.39,
+      "stock": 257,
+      "attrs": {
+        "brand": "怚赮啿",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "rku134505",
+      "title": "广东省纪委监委公开通报八起违反中央八项规定精神典型问题",
+      "url": "www.163.gogoal.com.cn/ponews/033667_663384.htm",
+      "price": 644.54,
+      "stock": 86,
+      "attrs": {
+        "brand": "偨囮紺",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "eeb573303",
+      "title": "全国女排锦标赛小组赛收官 八强名单出炉",
+      "url": "www.qq.gogoal.com.cn/abnews/761415_844046.htm",
+      "price": 196.54,
+      "stock": 240,
+      "attrs": {
+        "brand": "掛汾鯆",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "spc865610",
+      "title": "伊朗总统联大演讲誓言“永不屈膝投降”",
+      "url": "www.163.gogoal.com.cn/ponews/783110_801737.htm",
+      "price": 430.6,
+      "stock": 130,
+      "attrs": {
+        "brand": "忑卿抷",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "jto255492",
+      "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕",
+      "url": "www.qq.gogoal.com.cn/abnews/410853_163029.htm",
+      "price": 615.6,
+      "stock": 65,
+      "attrs": {
+        "brand": "卆措鯌",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "uqg718334",
+      "title": "规模情结驱动降费潮 理财行业亟须跳出价格战",
+      "url": "www.163.gogoal.com.cn/ponews/315771_992203.htm",
+      "price": 933.55,
+      "stock": 62,
+      "attrs": {
+        "brand": "腈聤韫",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "uwd053538",
+      "title": "解码鹏华基金2026年资本叙事",
+      "url": "www.qq.gogoal.com.cn/abnews/975301_838421.htm",
+      "price": 994.89,
+      "stock": 301,
+      "attrs": {
+        "brand": "熞黂绳",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "udm271413",
+      "title": "香港科技探索获执行董事王维基三日合计增持136.1万股 涉资约136.04万港元",
+      "url": "www.163.gogoal.com.cn/ponews/274375_585861.htm",
+      "price": 79.03,
+      "stock": 141,
+      "attrs": {
+        "brand": "勿踠蜑",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "bdc817223",
+      "title": "日债收益率创30年新高引爆熔断，实体经济却在踩刹车",
+      "url": "www.qq.gogoal.com.cn/abnews/756866_319472.htm",
+      "price": 32.49,
+      "stock": 478,
+      "attrs": {
+        "brand": "檐鰲鳐",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "qqq414910",
+      "title": "福建永安：稻香环古厝",
+      "url": "www.163.gogoal.com.cn/ponews/836198_083248.htm",
+      "price": 117.39,
+      "stock": 49,
+      "attrs": {
+        "brand": "餽齨遃",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "dfw796099",
+      "title": "第十五届琴台音乐节将启 三十国名家武汉献演",
+      "url": "www.qq.gogoal.com.cn/abnews/048978_269561.htm",
+      "price": 477.41,
+      "stock": 472,
+      "attrs": {
+        "brand": "捆鄛窄",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "hoe233946",
+      "title": "助力高质量发展 贵研铂业控股子公司拟4.35亿元投建新项目",
+      "url": "www.163.gogoal.com.cn/ponews/022322_925160.htm",
+      "price": 162.77,
+      "stock": 19,
+      "attrs": {
+        "brand": "偾灄邦",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "aof919097",
+      "title": "据报道 九州旅客铁道与SBI合作推出的应用程序预计将提供包括银行、证券等在内的金融产品",
+      "url": "www.qq.gogoal.com.cn/abnews/949905_420839.htm",
+      "price": 73.07,
+      "stock": 296,
+      "attrs": {
+        "brand": "盏蒻鈚",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "vhy813538",
+      "title": "邮储银行被罚款1743.3万元：未按规定履行客户身份识别义务等",
+      "url": "www.163.gogoal.com.cn/ponews/406990_550334.htm",
+      "price": 66.43,
+      "stock": 417,
+      "attrs": {
+        "brand": "呵萧懸",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "rdx016310",
+      "title": "国家能源局：截至8月底全国累计发电装机容量41.03亿千瓦 同比增长11.1%",
+      "url": "www.qq.gogoal.com.cn/abnews/427945_372824.htm",
+      "price": 513.21,
+      "stock": 359,
+      "attrs": {
+        "brand": "騰咜粴",
+        "warranty": "1年"
+      }
+    },
+    {
+      "sku": "qto058472",
+      "title": "央行节前放大招！隔夜逆回购上限飙至1万亿，MLF净投放2000亿，什么信号？",
+      "url": "www.163.gogoal.com.cn/ponews/287554_633624.htm",
+      "price": 61.81,
+      "stock": 419,
+      "attrs": {
+        "brand": "徬酟蛩",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "qvf715669",
+      "title": "140+游乐项目畅玩！超级里奥南京双店国庆联动",
+      "url": "www.qq.gogoal.com.cn/abnews/168061_655115.htm",
+      "price": 234.36,
+      "stock": 212,
+      "attrs": {
+        "brand": "樖絡煴",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "qdr281709",
+      "title": "前实控人减持840多万股，科林电气股价4个月回撤36.9％",
+      "url": "www.163.gogoal.com.cn/ponews/015752_289640.htm",
+      "price": 922.03,
+      "stock": 269,
+      "attrs": {
+        "brand": "畈葂丮",
+        "warranty": "3年"
+      }
+    },
+    {
+      "sku": "vdz852013",
+      "title": "均胜电子盘中涨逾9% 控制器等产品已为头部机器人公司量产供货",
+      "url": "www.qq.gogoal.com.cn/abnews/648621_784440.htm",
+      "price": 362.23,
+      "stock": 362,
+      "attrs": {
+        "brand": "櫽昐韩",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "txi859570",
+      "title": "深圳百果园9月24日回购H股88万股 耗资约133.35万港元",
+      "url": "www.163.gogoal.com.cn/ponews/843571_213390.htm",
+      "price": 512.95,
+      "stock": 150,
+      "attrs": {
+        "brand": "瀡钗笻",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "shj842152",
+      "title": "仲秋时节，赏额尔古纳的童话秋色",
+      "url": "www.qq.gogoal.com.cn/abnews/593455_397320.htm",
+      "price": 530.87,
+      "stock": 73,
+      "attrs": {
+        "brand": "鷵瓪嗨",
+        "warranty": "2年"
+      }
+    },
+    {
+      "sku": "ydx775737",
+      "title": "澳大利亚对中国一企业聚氯乙烯扁平电缆启动反倾销日落复审调查",
+      "url": "www.163.gogoal.com.cn/ponews/384235_199559.htm",
+      "price": 300.01,
+      "stock": 385,
+      "attrs": {
+        "brand": "紀屉磩",
+        "warranty": "2年"
+      }
+    }
+  ]
+}
