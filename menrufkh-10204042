@@ -1,0 +1,1831 @@
+{
+  "app": {
+    "name": "日本5年期国债收益率上升9.0个基点 创下2.365%的历史新高",
+    "package": "com.rrnyxp.bhgb",
+    "version": "2.7.99",
+    "updated": "2026-09-25",
+    "maintainer": "白飞飞"
+  },
+  "endpoints": [
+    {
+      "name": "Paddy Power创始人指责Betfred老板在增税问题上“危言耸听”",
+      "url": "www.qq.gogoal.com.cn/abnews/683002_445760.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "LG显示南京交易终止始末：产能可以易主，位置无法迁移",
+      "url": "www.163.gogoal.com.cn/ponews/575261_715858.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "日债收益率创30年新高引爆熔断，实体经济却在踩刹车",
+      "url": "www.qq.gogoal.com.cn/abnews/746224_402996.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "300585，拟易主！接盘方作出5年超长期股份锁定承诺",
+      "url": "www.163.gogoal.com.cn/ponews/515364_741996.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "首届FIFA东盟杯香港开赛",
+      "url": "www.qq.gogoal.com.cn/abnews/593863_884971.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "美图公司 2026 财年上半年归母净利润 6.19 亿元，同比增长 40%",
+      "url": "www.163.gogoal.com.cn/ponews/397940_346056.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "2026海峡两岸WE短剧大赛成果在福建泉州发布",
+      "url": "www.qq.gogoal.com.cn/abnews/175047_028814.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "铁路单日售票量再创历史新高",
+      "url": "www.163.gogoal.com.cn/ponews/712231_519550.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "智利总统：预计智利将很快与委内瑞拉恢复外交关系",
+      "url": "www.qq.gogoal.com.cn/abnews/686872_130867.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "【深度报告】白糖研究框架更新与展望",
+      "url": "www.163.gogoal.com.cn/ponews/324309_097418.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "美国30年期国债收益率涨至2004年以来最高位5.4439%",
+      "url": "www.qq.gogoal.com.cn/abnews/505003_618645.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "天津证监局：“十五五”四措并举推动REITs扩容提质",
+      "url": "www.163.gogoal.com.cn/ponews/158006_898069.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "“高中签率”晶圆代工新股今日申购",
+      "url": "www.qq.gogoal.com.cn/abnews/910385_882091.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "沙特7月石油出口额降至新低",
+      "url": "www.163.gogoal.com.cn/ponews/122115_634129.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "陆金所控股履行全部复牌指引，9月24日恢复港交所交易",
+      "url": "www.qq.gogoal.com.cn/abnews/583617_018527.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "亚运会六连冠！国乒成功卫冕爱知·名古屋亚运会女团冠军",
+      "url": "www.163.gogoal.com.cn/ponews/546136_192421.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "沪紫律所递交六家公司虚假陈述案件立案，索赔持续征集中",
+      "url": "www.qq.gogoal.com.cn/abnews/171031_928734.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "英伟达黄仁勋：AI“监管豁免”没有道理 外界对AI的担忧已过度",
+      "url": "www.163.gogoal.com.cn/ponews/560141_635810.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "酷特智能（300840）：中标青岛崂山旅游集团有限公司采购项目，中标金额为245.76万元",
+      "url": "www.qq.gogoal.com.cn/abnews/068145_403503.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "贝莱德在恒瑞医药H股的持股比例于9月21日从7.40%降至6.70%",
+      "url": "www.163.gogoal.com.cn/ponews/279957_470077.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "国防部：民进党当局出卖民族尊严利益 受到两岸同胞唾弃",
+      "url": "www.qq.gogoal.com.cn/abnews/491054_571485.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "法国巴黎银行上调新思科技评级",
+      "url": "www.163.gogoal.com.cn/ponews/913627_964278.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "飞天茅台连续五天挺立1800元之上 迭创月新高",
+      "url": "www.qq.gogoal.com.cn/abnews/945412_255972.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "中国人寿下场，拟投资AI、半导体，以不超过45亿元参设合伙企业，聚焦股权一级市场",
+      "url": "www.163.gogoal.com.cn/ponews/541636_910465.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "WorkRally首发接入Hy Image3.5 preview，为专业影视创作开放两周免费体验",
+      "url": "www.qq.gogoal.com.cn/abnews/623334_089748.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "浙江促“四链”融合 加快建设世界级智能物联产业集群",
+      "url": "www.163.gogoal.com.cn/ponews/935062_206974.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "又一家A股公司暂缓H股IPO 赴港上市进入“冷静期”？",
+      "url": "www.qq.gogoal.com.cn/abnews/903604_793710.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "AI赋能传统曲艺 戏曲百戏（昆山）盛典花式登场",
+      "url": "www.163.gogoal.com.cn/ponews/808701_509713.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "平安人寿迎新任董事长 85后蔡霆三年完成四级跳！执掌6万亿寿险巨头",
+      "url": "www.qq.gogoal.com.cn/abnews/082791_137128.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "古井贡古20跌2元 连续两日走低反弹动能耗尽",
+      "url": "www.163.gogoal.com.cn/ponews/872939_609115.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "河口海岸国际研讨会在广西钦州举行",
+      "url": "www.qq.gogoal.com.cn/abnews/353271_200453.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "我国将开展第二次全国非遗普查 建立非遗资源总目录",
+      "url": "www.163.gogoal.com.cn/ponews/113147_846486.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "手握磷矿 磷化工龙头再度加码磷酸铁锂 年内投资近150亿",
+      "url": "www.qq.gogoal.com.cn/abnews/920082_484599.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "在岸人民币兑美元收盘报6.7131",
+      "url": "www.163.gogoal.com.cn/ponews/519838_442867.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "上交所三季报预约披露时间出炉，有研新材将于10月13日披露三季报",
+      "url": "www.qq.gogoal.com.cn/abnews/332808_938007.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "南非夸纳省枪击事件致11人死亡 警方启动72小时追捕行动",
+      "url": "www.163.gogoal.com.cn/ponews/660843_334516.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "双良节能在江苏成立投资公司",
+      "url": "www.qq.gogoal.com.cn/abnews/481502_899280.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "从生成画面到生成交互，千里科技发布世界模型新成果",
+      "url": "www.163.gogoal.com.cn/ponews/705462_799049.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "中源家居：境外子公司收到美国退税约1144万元",
+      "url": "www.qq.gogoal.com.cn/abnews/140127_726373.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "千亿电子布龙头十余年赚15亿，俩股东一把套现40亿",
+      "url": "www.163.gogoal.com.cn/ponews/825863_320919.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "震荡市如何选择ETF？一文读懂红利低波100ETF景顺（515100）",
+      "url": "www.qq.gogoal.com.cn/abnews/677012_571487.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "广东健儿高晓彬夺得本届亚运会武术项目男子刀术棍术全能冠军",
+      "url": "www.163.gogoal.com.cn/ponews/491122_141426.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "泰格医药大宗交易成交999.18万元，买方为机构专用席位",
+      "url": "www.qq.gogoal.com.cn/abnews/211821_843340.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "熊猫金控（600599）被处罚，股民索赔可期",
+      "url": "www.163.gogoal.com.cn/ponews/573667_478195.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "300211，将摘星脱帽！退市风险警报解除",
+      "url": "www.qq.gogoal.com.cn/abnews/076660_443982.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "事关热门赛道！宁德时代吴殿峰：储能系统不应一味求大",
+      "url": "www.163.gogoal.com.cn/ponews/264772_008547.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "联创光电的“高科技外衣”：一场16.92亿资金占用的黑色幽默丨大A避雷针",
+      "url": "www.qq.gogoal.com.cn/abnews/792695_630446.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "近端次新概念持续下挫 世纪数码连续2日30cm跌停",
+      "url": "www.163.gogoal.com.cn/ponews/647170_271687.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "安联表示 厄尔尼诺现象或导致2027年全球经济损失4510亿美元",
+      "url": "www.qq.gogoal.com.cn/abnews/209449_943667.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "福建永安：稻香环古厝",
+      "url": "www.163.gogoal.com.cn/ponews/624511_653700.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "商务部：在中美经贸磋商机制下 双方就人工智能进行了首次对话",
+      "url": "www.qq.gogoal.com.cn/abnews/843171_429995.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "瀚天天成午前涨超7% 获中泰国际首次覆盖并给予“买入”评级",
+      "url": "www.163.gogoal.com.cn/ponews/706879_090832.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "美团联合创始人王慧文喊话：有没有人要组局把西贝买下来？我还是挺喜欢西贝的",
+      "url": "www.qq.gogoal.com.cn/abnews/097759_952398.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "广西增加婚假十五天",
+      "url": "www.163.gogoal.com.cn/ponews/778536_028624.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "西部的风给东部企业“供智能” 解锁宁夏中卫东西部算力互济新范式",
+      "url": "www.qq.gogoal.com.cn/abnews/730741_959411.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "达势股份早盘涨逾3% 近期获大股东增持并推进股权激励计划",
+      "url": "www.163.gogoal.com.cn/ponews/730090_445194.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "Blue Owl Capital股价开盘下跌3% Bloom Energy股价重挫8.6%",
+      "url": "www.qq.gogoal.com.cn/abnews/999260_389600.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "央行今日开展515亿元7天逆回购操作",
+      "url": "www.163.gogoal.com.cn/ponews/331683_206038.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "摩根大通Peters看好美股 收益率上升考验企业盈利",
+      "url": "www.qq.gogoal.com.cn/abnews/599876_421283.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "绿城服务9月24日斥资97.28万港元回购23.4万股",
+      "url": "www.163.gogoal.com.cn/ponews/063473_113346.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "奥美森：上半年收入增量主要来自泰国、迪拜、埃及等市场",
+      "url": "www.qq.gogoal.com.cn/abnews/537300_783771.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "百亿A股公司公告！实控人被刑拘！",
+      "url": "www.163.gogoal.com.cn/ponews/259765_706503.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "一轮明月，在汉学课堂上照见“团圆”",
+      "url": "www.qq.gogoal.com.cn/abnews/999853_365868.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "农行两家省分行、审计分局负责人调整",
+      "url": "www.163.gogoal.com.cn/ponews/496671_375681.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "央行上海总部：自贸离岸债已累计发行22单 规模约86亿元",
+      "url": "www.qq.gogoal.com.cn/abnews/155028_500429.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "德迅集团与宁德时代深化战略合作 计划年内启动重卡换电试点项目",
+      "url": "www.163.gogoal.com.cn/ponews/517721_866270.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "扎克伯格：预计将通过从每笔交易中收取少量手续费来从Muse获得收益",
+      "url": "www.qq.gogoal.com.cn/abnews/606861_353973.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "聚焦三大维度 浙江产教协同共育数字贸易人才",
+      "url": "www.163.gogoal.com.cn/ponews/377501_299591.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "浙江省发展改革委召开服务业重点工作推进会",
+      "url": "www.qq.gogoal.com.cn/abnews/103246_621978.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "印尼主权财富基金丹达拉与法国泰雷兹签署谅解备忘录",
+      "url": "www.163.gogoal.com.cn/ponews/701280_913681.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "AI破译地下成矿密码 为金矿“攻深找盲”装上数字引擎",
+      "url": "www.qq.gogoal.com.cn/abnews/591741_429818.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "视频 | 拾光纪·欢迎仪式现场，特朗普夫妇热情迎接习近平主席",
+      "url": "www.163.gogoal.com.cn/ponews/389205_125308.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "布油收涨近4%，伊朗强硬表态助原油终结五连跌，柴油出口禁令传言搅动市场",
+      "url": "www.qq.gogoal.com.cn/abnews/805700_726306.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "北京商报侃股：警惕高商誉个股的投资风险",
+      "url": "www.163.gogoal.com.cn/ponews/029234_142443.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "研究机构大幅上调今年德国经济增长预期",
+      "url": "www.qq.gogoal.com.cn/abnews/099030_201291.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "半导体板块回升 先导基电涨停",
+      "url": "www.163.gogoal.com.cn/ponews/791565_693459.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "糖吉医疗二闯IPO：赎回权表外化藏治理隐忧 单品依赖明显、受众患者有限商业化价值待考",
+      "url": "www.qq.gogoal.com.cn/abnews/581469_577614.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "约1.85亿元！广电运通中标泰国GSB银行智能金融项目",
+      "url": "www.163.gogoal.com.cn/ponews/210863_384372.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "远洋建管签约武汉汉阳滨江A1地块，全过程代建服务主城核心区",
+      "url": "www.qq.gogoal.com.cn/abnews/463618_551897.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "“提车20天变旧款！”华境遭上百名车主集体维权，被吐槽“五菱不配高端”，官方扎心回应：补偿不了",
+      "url": "www.163.gogoal.com.cn/ponews/625900_966467.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "南航物流与三星SDS签署战略合作备忘录",
+      "url": "www.qq.gogoal.com.cn/abnews/515089_925511.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "9·24两周年｜狂欢退潮，北京券商营业部数据揭穿A股真实的一面",
+      "url": "www.163.gogoal.com.cn/ponews/359828_734574.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "第四届中国—东盟建筑业合作与发展论坛在广州举办",
+      "url": "www.qq.gogoal.com.cn/abnews/611128_444360.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "锚定“长三角陆海开放智造强市” 浙江台州发挥“三大优势”",
+      "url": "www.163.gogoal.com.cn/ponews/029387_404450.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "梁惠江中信信托董事长任职资格获批",
+      "url": "www.qq.gogoal.com.cn/abnews/413672_644459.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "报道称美伊通过卡塔尔传递信息 霍尔木兹海峡议题未达共识",
+      "url": "www.163.gogoal.com.cn/ponews/561105_925303.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "Jane Street 计划将伦敦办公空间扩大一倍",
+      "url": "www.qq.gogoal.com.cn/abnews/305236_741698.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "金融机构营销产品不能当“甩手掌柜”",
+      "url": "www.163.gogoal.com.cn/ponews/798300_240320.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "中国粮食的丰收密码",
+      "url": "www.qq.gogoal.com.cn/abnews/623215_551947.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "中概股普跌",
+      "url": "www.163.gogoal.com.cn/ponews/430143_380988.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "晶泰向美国FDA提交KQTD-126新药临床试验申请",
+      "url": "www.qq.gogoal.com.cn/abnews/638837_634518.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "又是“狼来了”！中国信达减持方正证券计划落空 七度减持四次“爽约”",
+      "url": "www.163.gogoal.com.cn/ponews/560569_975657.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "中秋、十一假期滴滴发放近6亿司机补贴 感谢师傅们假期坚守",
+      "url": "www.qq.gogoal.com.cn/abnews/159697_250351.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "报道：谷歌、OpenAI和Anthropic拟组建前沿AI标准机构",
+      "url": "www.163.gogoal.com.cn/ponews/260034_811417.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "中国驻济州总领事馆举办国庆77周年招待会",
+      "url": "www.qq.gogoal.com.cn/abnews/742003_093704.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "习酒君品下跌5元 昨日冲高后快速回落",
+      "url": "www.163.gogoal.com.cn/ponews/025852_176586.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "全球债券抛售潮加剧，推高世界各地借贷成本",
+      "url": "www.qq.gogoal.com.cn/abnews/952782_625479.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "镍产业链龙头力勤资源发行结果公布：中签率0.037% 被弃购41万股",
+      "url": "www.163.gogoal.com.cn/ponews/238125_772025.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "国金证券：肺癌治疗迭代 中国新药崛起",
+      "url": "www.qq.gogoal.com.cn/abnews/437183_341441.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "高中签率！半导体龙头今日申购 另有1只新股上市丨打新早知道",
+      "url": "www.163.gogoal.com.cn/ponews/780861_743239.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "华泰期货：PMI超预期数据推升加息预期 贵金属承压",
+      "url": "www.qq.gogoal.com.cn/abnews/005665_714486.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "马兴宏中银三星人寿副总经理任职资格获批",
+      "url": "www.163.gogoal.com.cn/ponews/997624_741330.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "澳大利亚三年期国债收益率涨14个基点 创2011年以来新高",
+      "url": "www.qq.gogoal.com.cn/abnews/844571_996332.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "山东墨龙取得阿布扎比国家石油公司油套管供应商资质认证",
+      "url": "www.163.gogoal.com.cn/ponews/720353_347427.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "为新时代民营经济人士赋能充电",
+      "url": "www.qq.gogoal.com.cn/abnews/405583_916808.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "东西问｜沈卫红：铁路华工何以成就跨越太平洋的“金钉纽带”？",
+      "url": "www.163.gogoal.com.cn/ponews/201043_178171.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "中汽测评牵头开展多项国际联合攻关",
+      "url": "www.qq.gogoal.com.cn/abnews/244472_335206.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "澳大利亚对中国一企业聚氯乙烯扁平电缆启动反倾销日落复审调查",
+      "url": "www.163.gogoal.com.cn/ponews/677476_429310.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "10月再加息一次！高盛：这可能是本轮周期“终曲”",
+      "url": "www.qq.gogoal.com.cn/abnews/906186_982023.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "福建三明：一粒稻种撬动70亿产业链，“中国稻种基地”加速迈向育种强市",
+      "url": "www.163.gogoal.com.cn/ponews/835013_592029.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "滴滴双节发放近6亿元司机补贴",
+      "url": "www.qq.gogoal.com.cn/abnews/522200_492174.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "美国财政部称 将在9月24日的流动性回购操作中 购入规模最高达60亿美元的期限为20-30年期国债",
+      "url": "www.163.gogoal.com.cn/ponews/334101_717985.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "A超交通创新大赛收官 赛事成果加速助力数字化智能化转型",
+      "url": "www.qq.gogoal.com.cn/abnews/791905_413243.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "SMBC日兴：日本央行或每四五个月加息一次",
+      "url": "www.163.gogoal.com.cn/ponews/196541_242517.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "加码光通信等项目！千亿光纤龙头 拟募资不超66.36亿",
+      "url": "www.qq.gogoal.com.cn/abnews/054852_586069.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "谷歌推出Gemini 3.8 Flash TTS及Flash-Lite TTS 支持自定义AI声音",
+      "url": "www.163.gogoal.com.cn/ponews/311514_125667.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "全国首例AI芯片商业秘密案背后：知识产权检察守护浦东创新密码",
+      "url": "www.qq.gogoal.com.cn/abnews/102968_102768.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "香港共享基金会柬埔寨消除白内障致盲项目向磅通省推展",
+      "url": "www.163.gogoal.com.cn/ponews/773312_366506.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "纽约梅隆银行在中国平安H股的持股比例于9月22日从4.01%升至5.18%",
+      "url": "www.qq.gogoal.com.cn/abnews/691294_768826.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "3连板后，600503跌停",
+      "url": "www.163.gogoal.com.cn/ponews/422363_978482.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "华润饮料9月24日斥资218.73万港元回购29.5万股",
+      "url": "www.qq.gogoal.com.cn/abnews/000831_847182.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "京新药业二度递表港交所：高溢价关联收购后遗症显现 实控人5年拿走7亿后又向市场要钱",
+      "url": "www.163.gogoal.com.cn/ponews/441881_116613.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "贵州苗族非遗服饰秀走上世界技能大赛",
+      "url": "www.qq.gogoal.com.cn/abnews/918962_815821.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "中国平安：将没收未领取的2018年度末期股息及2019年度中期股息",
+      "url": "www.163.gogoal.com.cn/ponews/813542_850666.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "不只有新手机！小米发布会透露了一个关键信号",
+      "url": "www.qq.gogoal.com.cn/abnews/480662_677130.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "实探第五届数贸会： AI“画风”焕新 国产算力走到台前",
+      "url": "www.163.gogoal.com.cn/ponews/709259_931060.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "中方强调AI发展不应政治化",
+      "url": "www.qq.gogoal.com.cn/abnews/531867_961706.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "美股云计算服务商板块盘初上涨",
+      "url": "www.163.gogoal.com.cn/ponews/899211_988089.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "陆控复牌首日暴跌逾四成：20个月停牌背后，港股通投资者成了最被动的“局外人”",
+      "url": "www.qq.gogoal.com.cn/abnews/008811_508466.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "奥浦迈：持股5%以下特定股东国寿成达拟减持不超1%公司股份",
+      "url": "www.163.gogoal.com.cn/ponews/906072_839275.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "科创综指逆势飘红 PCB概念全天活跃 机构：市场反弹持续性可期",
+      "url": "www.qq.gogoal.com.cn/abnews/024425_129851.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "石四药集团斥资195.5万港元回购70万股",
+      "url": "www.163.gogoal.com.cn/ponews/067580_093261.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "西藏亚东出入境边防检查站开展普法宣传",
+      "url": "www.qq.gogoal.com.cn/abnews/445750_413698.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "“属地化”监管趋严 有小银行正在减少存量异地存款",
+      "url": "www.163.gogoal.com.cn/ponews/122165_847859.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "腾讯控股于9月24日回购23万股股份",
+      "url": "www.qq.gogoal.com.cn/abnews/208366_413007.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "924两周年ETF牛熊榜：科创芯片ETF南方等13只ETF涨超300%，酒ETF鹏华跌17%（名单）",
+      "url": "www.163.gogoal.com.cn/ponews/660968_938061.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "飞科电器：9月24日召开业绩说明会，投资者参与",
+      "url": "www.qq.gogoal.com.cn/abnews/482051_011431.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "第十届平遥国际电影展开幕",
+      "url": "www.163.gogoal.com.cn/ponews/045195_070509.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "全球债市遭遇抛售 30年期美债收益率升至2004年来最高",
+      "url": "www.qq.gogoal.com.cn/abnews/444020_854991.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "以村落为展厅 让大家留下来 中国原生态国际摄影大展解锁旅居新表达",
+      "url": "www.163.gogoal.com.cn/ponews/375696_447027.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "两岸同胞在合肥以诗乐会友共话团圆",
+      "url": "www.qq.gogoal.com.cn/abnews/938418_160851.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "里士满联储行长：夏季的通胀形势会持续下去 或需收紧货币政策",
+      "url": "www.163.gogoal.com.cn/ponews/989157_559725.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "帮老板搬东西受伤，算不算工伤？",
+      "url": "www.qq.gogoal.com.cn/abnews/821906_919448.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "多点数智盘中涨超16% 近两周股价累计涨幅逾90%",
+      "url": "www.163.gogoal.com.cn/ponews/586741_003767.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "美皓医疗中期收益约57.6百万元人民币 同比增约32.3% 归母亏损9.4百万元",
+      "url": "www.qq.gogoal.com.cn/abnews/870189_418136.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "美国能源部宣布加速电网投资 将资助31个电网改进项目",
+      "url": "www.163.gogoal.com.cn/ponews/135283_625161.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "开盘：美债收益率走高，主要股指低开，甲骨文领跌纳指",
+      "url": "www.qq.gogoal.com.cn/abnews/244626_899098.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "瑞典央行维持利率不变 并认为今年加息的可能性上升",
+      "url": "www.163.gogoal.com.cn/ponews/903849_727751.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "捷荣技术信披追责链条完整，受损股民可尽快主张赔偿",
+      "url": "www.qq.gogoal.com.cn/abnews/123931_643507.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "闽粤将新增第6条省际高速通道",
+      "url": "www.163.gogoal.com.cn/ponews/232900_832270.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "布伦特原油期货涨幅扩大至1%",
+      "url": "www.qq.gogoal.com.cn/abnews/779846_345770.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "海南免税“双线”推进：游客与岛民共享政策红利",
+      "url": "www.163.gogoal.com.cn/ponews/792062_367733.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "宁夏回族自治区广播电视局原局长高瑞莉接受审查调查",
+      "url": "www.qq.gogoal.com.cn/abnews/137939_645523.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "黄金交易提醒：美联储鹰声不断，美元冲破101，金价暴跌近80美元！55日均线告急",
+      "url": "www.163.gogoal.com.cn/ponews/432130_463271.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "所有伊朗航空公司飞往阿联酋的航班均已取消",
+      "url": "www.qq.gogoal.com.cn/abnews/502468_466854.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "运机集团：拟1亿元-2亿元回购公司股份",
+      "url": "www.163.gogoal.com.cn/ponews/681174_306312.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "Meta押注Muse智能AI助手，密集推出多款全新硬件产品",
+      "url": "www.qq.gogoal.com.cn/abnews/680080_078306.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "从“看抵押”到“看算力” 陕西首笔“Token担”落地",
+      "url": "www.163.gogoal.com.cn/ponews/645055_064179.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "家乡互动9月24日斥资2.68万港元回购2万股",
+      "url": "www.qq.gogoal.com.cn/abnews/457067_553891.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "MHMarkets迈汇:原油累库背后的成品油分化",
+      "url": "www.163.gogoal.com.cn/ponews/204940_406150.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "中国体操选手兰星宇获亚运会男子吊环冠军",
+      "url": "www.qq.gogoal.com.cn/abnews/347384_673336.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": false
+    },
+    {
+      "name": "沙特大举出售1亿桶原油，缓解亚洲石油紧缺",
+      "url": "www.163.gogoal.com.cn/ponews/003411_283243.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "资金复盘 | 北水净买入港股29亿港元，抢筹腾讯逾6亿港元，沽出中芯国际逾2亿港元",
+      "url": "www.qq.gogoal.com.cn/abnews/453296_507580.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "算网融合迎来发展关键期 业界探讨推进城域“毫秒用算”",
+      "url": "www.163.gogoal.com.cn/ponews/724922_813158.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "隔夜逆回购叠加MLF续做 央行多工具呵护流动性",
+      "url": "www.qq.gogoal.com.cn/abnews/416985_721639.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "机器人概念表现活跃 襄阳轴承涨停",
+      "url": "www.163.gogoal.com.cn/ponews/340105_273155.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "世纪数码：近期经营情况及内外部环境未发生重大变化",
+      "url": "www.qq.gogoal.com.cn/abnews/117193_142211.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "雄安完善高校疏解配套 暖心安居环境留住优质人才",
+      "url": "www.163.gogoal.com.cn/ponews/318510_543947.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "中国建筑师马岩松以东方理念为“星战”导演卢卡斯打造博物馆",
+      "url": "www.qq.gogoal.com.cn/abnews/197632_541732.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "贝莱德在哔哩哔哩-WH股的持股比例于9月21日从6.19%降至5.87%",
+      "url": "www.163.gogoal.com.cn/ponews/559401_304530.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "北京石景山上线“青创地图” 多举措托举青年人才创新创业",
+      "url": "www.qq.gogoal.com.cn/abnews/164067_645687.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "消息人士：亚马逊到2030年将在印度快速商务业务投资30亿美元",
+      "url": "www.163.gogoal.com.cn/ponews/880716_620308.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "“华夏东极”抚远迎来蔓越莓金秋采收季",
+      "url": "www.qq.gogoal.com.cn/abnews/784254_994259.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "美丽田园医疗健康9月24日斥资74.26万港元回购4万股",
+      "url": "www.163.gogoal.com.cn/ponews/040997_705600.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "投资16.52亿元 斯迪克扩产高分子材料",
+      "url": "www.qq.gogoal.com.cn/abnews/603574_268710.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "透视商用车企应付困局|安凯客车周转天数达301天居首 长账期下付款仍在拖延",
+      "url": "www.163.gogoal.com.cn/ponews/060641_618988.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "中埃联合考古队在孟图神庙遗址发现南北圣湖并立独特布局",
+      "url": "www.qq.gogoal.com.cn/abnews/894619_526073.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "中秋国庆双节北京铁警加强安保护航旅客平安出行",
+      "url": "www.163.gogoal.com.cn/ponews/918154_318355.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "粤港澳大湾区算力枢纽韶关集群安全平台上线",
+      "url": "www.qq.gogoal.com.cn/abnews/661742_789915.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "欧洲股市开盘下跌 银行与科技股走弱",
+      "url": "www.163.gogoal.com.cn/ponews/008521_871560.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "香港特区政府教育局局长：推动青少年走进现场了解国家发展",
+      "url": "www.qq.gogoal.com.cn/abnews/728892_042335.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "汇丰将宝马目标价从71欧元下调至69欧元",
+      "url": "www.163.gogoal.com.cn/ponews/331701_443886.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "影像联通世界 艺术活化乡土 贵州将举办“国际摄影大展”“大地艺术季”两大活动",
+      "url": "www.qq.gogoal.com.cn/abnews/681875_649355.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "微信支付面向海外短期来华旅客推出支付APP",
+      "url": "www.163.gogoal.com.cn/ponews/825040_062494.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "银行理财机构密集推出产品管理费率优惠",
+      "url": "www.qq.gogoal.com.cn/abnews/753505_541715.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "挚达科技盘中涨超8% 拟配股净筹约2.03亿港元",
+      "url": "www.163.gogoal.com.cn/ponews/299361_448341.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "上交所三季报预约披露时间出炉 有研新材拔得头筹",
+      "url": "www.qq.gogoal.com.cn/abnews/280778_609111.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "北京农商银行获批发行二级资本债券 额度不超过100亿元",
+      "url": "www.163.gogoal.com.cn/ponews/613927_708678.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "摩根大通上调Meta目标价",
+      "url": "www.qq.gogoal.com.cn/abnews/309658_062830.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "Google加快推出Gemini 4，力争重新追上OpenAI和Anthropic",
+      "url": "www.163.gogoal.com.cn/ponews/080307_703822.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "报告发现，移动源治理加速从末端控制向结构优化转变",
+      "url": "www.qq.gogoal.com.cn/abnews/075335_121900.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "Anthropic CEO：AI有望在未来10年内“治愈大多数疾病”",
+      "url": "www.163.gogoal.com.cn/ponews/596356_887301.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "第48届世界技能大赛：巾帼不让须眉",
+      "url": "www.qq.gogoal.com.cn/abnews/853752_177512.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "上期所就瓦楞原纸期货及期权合约和业务细则征求意见",
+      "url": "www.163.gogoal.com.cn/ponews/946020_706939.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "埃及中央银行维持基准利率在19%不变",
+      "url": "www.qq.gogoal.com.cn/abnews/569395_629796.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "教育板块短线拉升 科德教育涨超14%",
+      "url": "www.163.gogoal.com.cn/ponews/164457_161128.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "新思科技与台积电深化合作 加速AI芯片先进设计",
+      "url": "www.qq.gogoal.com.cn/abnews/375304_291021.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "中国财险将于11月6日派发中期股息每股0.34元",
+      "url": "www.163.gogoal.com.cn/ponews/229356_643320.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "习近平将同美国总统特朗普会谈",
+      "url": "www.qq.gogoal.com.cn/abnews/686244_035384.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "俄罗斯将2026年石油出口展望上调至2.447亿吨",
+      "url": "www.163.gogoal.com.cn/ponews/299892_207698.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "AI需要紧急关停开关？微软布拉德・史密斯给出肯定答案",
+      "url": "www.qq.gogoal.com.cn/abnews/823422_183704.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "美国总统特朗普儿子Trump JR.旗下1789 Capital洽谈融资30亿美元",
+      "url": "www.163.gogoal.com.cn/ponews/014230_172665.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "习言道｜时隔三年到访美国，习近平为何强调三个“没有变”？",
+      "url": "www.qq.gogoal.com.cn/abnews/479111_695303.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "“白盒固收+”升温，嘉实基金的“老经验”遇上“新风口”",
+      "url": "www.163.gogoal.com.cn/ponews/821949_383812.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "华夏银行：2026年绿色金融债券（第一期）发行完毕",
+      "url": "www.qq.gogoal.com.cn/abnews/389841_019332.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "诺顿杀毒软件母公司向GoDaddy发出收购要约",
+      "url": "www.163.gogoal.com.cn/ponews/652162_992048.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "2026年“中国农民丰收节”新疆主场活动在阿克苏开幕",
+      "url": "www.qq.gogoal.com.cn/abnews/069708_592887.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "日本10年期国债收益率大涨10个基点至3.075% 创1996年以来最高",
+      "url": "www.163.gogoal.com.cn/ponews/162286_201425.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "（爱知·名古屋亚运会）中国队晋级羽毛球男子团体决赛",
+      "url": "www.qq.gogoal.com.cn/abnews/925219_552543.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "国内首个规模化应用18兆瓦超大型海上风电机组项目投运",
+      "url": "www.163.gogoal.com.cn/ponews/184428_493569.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "924两周年盘点：市场规模与活跃度齐升 A股总市值站上130万亿",
+      "url": "www.qq.gogoal.com.cn/abnews/980714_048894.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "江门海关完成首批纯血马进境隔离检疫",
+      "url": "www.163.gogoal.com.cn/ponews/256830_841770.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "警惕套路！利用AI批量生成软文“搭车”引流被判侵权",
+      "url": "www.qq.gogoal.com.cn/abnews/169530_241411.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "上海金融监管局：金融机构使用外部人工智能技术或服务 严格评估外部引入模型的优缺点和适配性",
+      "url": "www.163.gogoal.com.cn/ponews/951137_052784.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "去年中国对外投资规模居全球前列",
+      "url": "www.qq.gogoal.com.cn/abnews/221314_917256.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "商务部：1-8月我国企业共向境外派出各类劳务人员31.5万人 较上年同期增加4.4万人",
+      "url": "www.163.gogoal.com.cn/ponews/853358_734894.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "“迷你豪宅”火了！房企争夺“迷你宅地”",
+      "url": "www.qq.gogoal.com.cn/abnews/026041_809099.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "豫台职工中秋联谊晚会在河南郑州举行",
+      "url": "www.163.gogoal.com.cn/ponews/209952_054902.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "宝胜股份（600973）：中标安徽省新路建设工程集团有限责任公司采购项目，中标金额为1424.23万元",
+      "url": "www.qq.gogoal.com.cn/abnews/851634_078404.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "雅创电子：全资子公司拟4760万美元购买永佳实业70%股权",
+      "url": "www.163.gogoal.com.cn/ponews/325563_148260.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "平武高速全面施工 闽粤省际高速通道将增至六条",
+      "url": "www.qq.gogoal.com.cn/abnews/166824_807884.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "迈普医学：公司口腔可吸收修复膜获得医疗器械注册证",
+      "url": "www.163.gogoal.com.cn/ponews/951620_855031.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "半导体12英寸硅片供需趋紧 2027年长约涨价趋势逐步确立",
+      "url": "www.qq.gogoal.com.cn/abnews/845777_347669.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "亿腾嘉和9月24日斥资339.87万港元回购200万股",
+      "url": "www.163.gogoal.com.cn/ponews/812828_310229.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "京东方董事长陈炎顺：未来五年，预计将支出超800亿元研发费用，释放超8000亿元采购资金",
+      "url": "www.qq.gogoal.com.cn/abnews/954120_060810.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "山东墨龙拟折让约16.17%配售最多3361.56万股 净筹约1.15亿港元",
+      "url": "www.163.gogoal.com.cn/ponews/961696_358608.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "民族团结进步宣传周暨“石榴籽家园”微创建阵地建设活动在哈尔滨启动",
+      "url": "www.qq.gogoal.com.cn/abnews/507523_736653.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "全球数字贸易博览会国际物流供应链活动浙江嘉兴举行",
+      "url": "www.163.gogoal.com.cn/ponews/514715_487700.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "“发得出”更要“用得好”（人民时评）",
+      "url": "www.qq.gogoal.com.cn/abnews/348081_110718.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "这群藏族青年，把坪垭“翻译”给世界听",
+      "url": "www.163.gogoal.com.cn/ponews/988152_633843.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "国际癌病防控慈善基金会在港成立 提供近万个免费筛查名额",
+      "url": "www.qq.gogoal.com.cn/abnews/210130_713527.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "国家对成品油价格实施调控",
+      "url": "www.163.gogoal.com.cn/ponews/674383_416116.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "开户返现、投保返佣，最高可返30%！个人养老金违规“冲量”该刹车了",
+      "url": "www.qq.gogoal.com.cn/abnews/357975_365831.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "先导智能获摩根大通增持9.51万股 每股作价约27.9港元",
+      "url": "www.163.gogoal.com.cn/ponews/018147_515156.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "924两周年全球资产表现：科创50涨158%，创业板涨121%，上证指数涨43%（图）",
+      "url": "www.qq.gogoal.com.cn/abnews/948717_374090.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": false
+    },
+    {
+      "name": "2026闽南戏剧周在泉州启动 海内外剧团同台献艺",
+      "url": "www.163.gogoal.com.cn/ponews/566512_343433.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "长盈精密：港股上市工作正有序推进中",
+      "url": "www.qq.gogoal.com.cn/abnews/069528_392838.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "Meta AI智能体Muse爆红后，遭亚马逊“封杀”！美国银行等六家银行预警：AI可能发生诈骗或错误交易",
+      "url": "www.163.gogoal.com.cn/ponews/412868_636067.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "得物户外IP“野王30项”：25个品牌百余件当季新品亮相，线上线下吸引113万人次参与",
+      "url": "www.qq.gogoal.com.cn/abnews/761849_358088.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "油田服务巨头SLB宣布已获得沙特阿美在沙特阿拉伯授予的四份综合建井合同",
+      "url": "www.163.gogoal.com.cn/ponews/044056_223487.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "GTC泽汇资本:黄金持仓回暖重估资金空间",
+      "url": "www.qq.gogoal.com.cn/abnews/047994_969273.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "重庆北斗规模应用纵深推进 形成时空信息产业集群",
+      "url": "www.163.gogoal.com.cn/ponews/525599_226551.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
+      "url": "www.qq.gogoal.com.cn/abnews/821412_149656.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "文远知行-W授出1788.02万份受限制股份单位",
+      "url": "www.163.gogoal.com.cn/ponews/426218_093637.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "神奇制药年报差错被责令改正，股民索赔维权已启动",
+      "url": "www.qq.gogoal.com.cn/abnews/744475_961673.htm",
+      "timeout": 15,
+      "retry": 3,
+      "enabled": true
+    },
+    {
+      "name": "中银国际：“Muse现象”不能简单套用于中国互联网市场 短期偏好阿里巴巴-W",
+      "url": "www.163.gogoal.com.cn/ponews/091421_419706.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "亚洲投行圈炸锅！摩根士丹利误泄内部文件，上百个在推进项目流出",
+      "url": "www.qq.gogoal.com.cn/abnews/288223_433685.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "9名哈萨克斯坦军人在里海军事演习期间遇难",
+      "url": "www.163.gogoal.com.cn/ponews/675664_589940.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "【市场聚焦】纯碱：三季度行情回顾及四季度展望",
+      "url": "www.qq.gogoal.com.cn/abnews/306423_083451.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "云南西盟：民族团结进步之花为何开遍阿佤山？",
+      "url": "www.163.gogoal.com.cn/ponews/941494_456830.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": false
+    },
+    {
+      "name": "路维光电：“半导体及高精度平板显示掩膜版扩产项目”达到预定可使用状态时间延期至2027年3月",
+      "url": "www.qq.gogoal.com.cn/abnews/490919_187568.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "底特律车企混动产品供给不足，现代汽车预计三季度美国销量超过福特",
+      "url": "www.163.gogoal.com.cn/ponews/465508_772027.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "比亚迪：闪充车型订单需求旺盛 第二代刀片电池还在产能爬坡阶段 导致交付周期有所拉长",
+      "url": "www.qq.gogoal.com.cn/abnews/321090_249004.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": false
+    },
+    {
+      "name": "北京：商品房预售需封顶 优先选择现房销售",
+      "url": "www.163.gogoal.com.cn/ponews/390196_426843.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "开源模型降价，AI 成本得到控制",
+      "url": "www.qq.gogoal.com.cn/abnews/997878_450337.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "合康新能：获得政府补助4000万元",
+      "url": "www.163.gogoal.com.cn/ponews/766615_484154.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    },
+    {
+      "name": "2026年中国农民丰收节西藏主场活动在阿里启幕",
+      "url": "www.qq.gogoal.com.cn/abnews/710207_561835.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "140+游乐项目畅玩！超级里奥南京双店国庆联动",
+      "url": "www.163.gogoal.com.cn/ponews/783012_725219.htm",
+      "timeout": 15,
+      "retry": 2,
+      "enabled": true
+    },
+    {
+      "name": "聚利宝控股遭YEUN CHING减持6450万股 每股作价约0.10港元",
+      "url": "www.qq.gogoal.com.cn/abnews/432315_240602.htm",
+      "timeout": 15,
+      "retry": 0,
+      "enabled": true
+    },
+    {
+      "name": "“十五五”时期浙江绍兴将冲刺万亿之城",
+      "url": "www.163.gogoal.com.cn/ponews/240563_830005.htm",
+      "timeout": 15,
+      "retry": 1,
+      "enabled": true
+    }
+  ]
+}
