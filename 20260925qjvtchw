@@ -1,0 +1,2752 @@
+{
+  "member": {
+    "name": "太空互联网离我们还有多远？“在轨AI”把算力搬上天",
+    "owner": "王季荷",
+    "currency": "CNY",
+    "generated": "2026-09-25 00:16:41"
+  },
+  "levels": [
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/075711_602519.htm",
+      "points": 8711,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/853681_831511.htm",
+      "points": 3614,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/775257_646578.htm",
+      "points": 4278,
+      "discount": 0.82,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/068233_951920.htm",
+      "points": 4117,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/231209_001993.htm",
+      "points": 157,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/988279_974823.htm",
+      "points": 3767,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/824139_544028.htm",
+      "points": 4670,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/894324_487146.htm",
+      "points": 3886,
+      "discount": 0.67,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/000905_626781.htm",
+      "points": 5802,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/740987_132390.htm",
+      "points": 2478,
+      "discount": 0.56,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/450470_709420.htm",
+      "points": 6005,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/648895_781537.htm",
+      "points": 4031,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/334407_454669.htm",
+      "points": 6069,
+      "discount": 0.77,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/242013_307429.htm",
+      "points": 7374,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/162516_153401.htm",
+      "points": 3377,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/307687_007440.htm",
+      "points": 4649,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/347492_889356.htm",
+      "points": 9393,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/939861_194357.htm",
+      "points": 8322,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/799808_473707.htm",
+      "points": 8017,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/706209_678153.htm",
+      "points": 1281,
+      "discount": 0.79,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/538488_034451.htm",
+      "points": 4794,
+      "discount": 0.72,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/572484_071984.htm",
+      "points": 1487,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/040226_121556.htm",
+      "points": 1696,
+      "discount": 0.91,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/576922_863129.htm",
+      "points": 319,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/491273_012951.htm",
+      "points": 6771,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/932936_471486.htm",
+      "points": 742,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/837026_325461.htm",
+      "points": 1545,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/572976_971000.htm",
+      "points": 4825,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/665746_912954.htm",
+      "points": 8666,
+      "discount": 0.63,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/708806_120512.htm",
+      "points": 95,
+      "discount": 0.58,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/246973_202744.htm",
+      "points": 2578,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/959350_294339.htm",
+      "points": 5513,
+      "discount": 0.95,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/007958_778188.htm",
+      "points": 4760,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/071119_973659.htm",
+      "points": 4325,
+      "discount": 0.5,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/269611_498870.htm",
+      "points": 9518,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/534080_674844.htm",
+      "points": 7779,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/386113_695978.htm",
+      "points": 925,
+      "discount": 0.89,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/341904_161673.htm",
+      "points": 3456,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/375043_581113.htm",
+      "points": 5099,
+      "discount": 0.86,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/674363_248771.htm",
+      "points": 8837,
+      "discount": 0.84,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/852511_874411.htm",
+      "points": 8582,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/084972_450143.htm",
+      "points": 8048,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/754442_444233.htm",
+      "points": 6221,
+      "discount": 0.52,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/914879_104095.htm",
+      "points": 173,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/981562_164985.htm",
+      "points": 9834,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/066144_898160.htm",
+      "points": 5040,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/045314_319086.htm",
+      "points": 2422,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/256980_067184.htm",
+      "points": 3862,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/868540_376898.htm",
+      "points": 3726,
+      "discount": 0.97,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/926635_806072.htm",
+      "points": 3791,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/518069_058315.htm",
+      "points": 1244,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/428020_484444.htm",
+      "points": 487,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/516584_612081.htm",
+      "points": 5637,
+      "discount": 0.59,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/509973_831138.htm",
+      "points": 3486,
+      "discount": 0.75,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/152636_217208.htm",
+      "points": 2897,
+      "discount": 0.75,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/391817_527148.htm",
+      "points": 1087,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/548329_859437.htm",
+      "points": 2016,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/795955_833633.htm",
+      "points": 3839,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/279873_796536.htm",
+      "points": 8319,
+      "discount": 0.88,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/628081_006623.htm",
+      "points": 6782,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/961541_757132.htm",
+      "points": 6173,
+      "discount": 0.79,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/054013_877925.htm",
+      "points": 8500,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/634823_100922.htm",
+      "points": 4128,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/011924_462835.htm",
+      "points": 0,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/316634_141432.htm",
+      "points": 1859,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/731585_501937.htm",
+      "points": 6638,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/000229_916591.htm",
+      "points": 8214,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/968830_342567.htm",
+      "points": 1071,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/441587_573684.htm",
+      "points": 390,
+      "discount": 0.84,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/407120_287925.htm",
+      "points": 3681,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/262029_401488.htm",
+      "points": 8099,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/425158_758048.htm",
+      "points": 1484,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/141951_735403.htm",
+      "points": 789,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/890308_970397.htm",
+      "points": 9958,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/485290_174297.htm",
+      "points": 7359,
+      "discount": 0.52,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/634203_203213.htm",
+      "points": 1616,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/853474_552850.htm",
+      "points": 5574,
+      "discount": 0.73,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/249528_794736.htm",
+      "points": 9064,
+      "discount": 0.89,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/685558_846133.htm",
+      "points": 3499,
+      "discount": 0.66,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/135900_911941.htm",
+      "points": 7424,
+      "discount": 0.97,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/274748_266636.htm",
+      "points": 1976,
+      "discount": 0.93,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/712856_195098.htm",
+      "points": 9319,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/571509_679193.htm",
+      "points": 1736,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/816294_018516.htm",
+      "points": 8639,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/443633_802436.htm",
+      "points": 2837,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/015177_874611.htm",
+      "points": 6698,
+      "discount": 0.97,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/608341_755246.htm",
+      "points": 4050,
+      "discount": 0.89,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/499916_675777.htm",
+      "points": 9563,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/128656_740829.htm",
+      "points": 1463,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/635572_149228.htm",
+      "points": 889,
+      "discount": 0.52,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/422229_116720.htm",
+      "points": 8019,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/054225_152434.htm",
+      "points": 4240,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/810426_753437.htm",
+      "points": 9853,
+      "discount": 0.78,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/221657_415927.htm",
+      "points": 7552,
+      "discount": 0.98,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/012069_775333.htm",
+      "points": 85,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/378100_701457.htm",
+      "points": 358,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/942894_449678.htm",
+      "points": 9541,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/179792_645429.htm",
+      "points": 8143,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/802396_704344.htm",
+      "points": 9498,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/974014_774491.htm",
+      "points": 8069,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/490865_444069.htm",
+      "points": 611,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/959664_224529.htm",
+      "points": 4738,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/241154_970600.htm",
+      "points": 6939,
+      "discount": 0.6,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/351491_532742.htm",
+      "points": 8664,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/778946_241397.htm",
+      "points": 5366,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/478100_723423.htm",
+      "points": 3437,
+      "discount": 0.82,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/951848_380192.htm",
+      "points": 5776,
+      "discount": 0.55,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/485832_572161.htm",
+      "points": 2037,
+      "discount": 0.51,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/443911_389081.htm",
+      "points": 3663,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/242880_960150.htm",
+      "points": 6451,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/931840_704381.htm",
+      "points": 9484,
+      "discount": 0.71,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/185252_471978.htm",
+      "points": 2101,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/455513_737633.htm",
+      "points": 5779,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/501480_736607.htm",
+      "points": 2420,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/626951_495203.htm",
+      "points": 4989,
+      "discount": 0.59,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/270195_462170.htm",
+      "points": 8923,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/391749_552187.htm",
+      "points": 7149,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/797393_652896.htm",
+      "points": 7356,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/336843_495395.htm",
+      "points": 3175,
+      "discount": 0.83,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/039445_811409.htm",
+      "points": 3494,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/185059_597079.htm",
+      "points": 586,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/579578_271418.htm",
+      "points": 5988,
+      "discount": 0.86,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/979496_900343.htm",
+      "points": 4523,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/199045_362283.htm",
+      "points": 997,
+      "discount": 0.6,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/196460_908711.htm",
+      "points": 7055,
+      "discount": 0.72,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/836723_467469.htm",
+      "points": 8668,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/803349_262790.htm",
+      "points": 5427,
+      "discount": 0.94,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/501425_107884.htm",
+      "points": 6926,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/679817_517443.htm",
+      "points": 9778,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/185790_217787.htm",
+      "points": 5775,
+      "discount": 0.63,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/734180_223611.htm",
+      "points": 8144,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/090709_196986.htm",
+      "points": 5308,
+      "discount": 0.95,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/177218_661891.htm",
+      "points": 6365,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/029129_899703.htm",
+      "points": 4420,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/848313_134806.htm",
+      "points": 8406,
+      "discount": 0.88,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/008872_801562.htm",
+      "points": 8113,
+      "discount": 0.62,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/099932_167471.htm",
+      "points": 4283,
+      "discount": 0.61,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/436448_645014.htm",
+      "points": 2769,
+      "discount": 0.8,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/441273_182858.htm",
+      "points": 7444,
+      "discount": 0.57,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/832060_975077.htm",
+      "points": 5413,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/021818_093610.htm",
+      "points": 9695,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/756678_610891.htm",
+      "points": 5257,
+      "discount": 0.91,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/303630_840890.htm",
+      "points": 6876,
+      "discount": 0.55,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/969899_060388.htm",
+      "points": 1309,
+      "discount": 0.62,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/655195_746416.htm",
+      "points": 6522,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/437887_983033.htm",
+      "points": 475,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/649403_607581.htm",
+      "points": 2935,
+      "discount": 0.63,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/765165_869275.htm",
+      "points": 1409,
+      "discount": 0.86,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/611875_319415.htm",
+      "points": 3914,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/393975_408524.htm",
+      "points": 2445,
+      "discount": 0.55,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/437823_834605.htm",
+      "points": 9569,
+      "discount": 0.71,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/822160_637701.htm",
+      "points": 8140,
+      "discount": 0.58,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/412196_341033.htm",
+      "points": 1951,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/334824_094408.htm",
+      "points": 7664,
+      "discount": 0.95,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/508016_182279.htm",
+      "points": 4580,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/689230_307298.htm",
+      "points": 2703,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/483310_387531.htm",
+      "points": 9583,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/664930_776591.htm",
+      "points": 1617,
+      "discount": 0.61,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/699059_842509.htm",
+      "points": 2071,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/296740_322459.htm",
+      "points": 3864,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/995794_088925.htm",
+      "points": 6254,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/738267_663498.htm",
+      "points": 7141,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/556152_206825.htm",
+      "points": 2636,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/603629_534140.htm",
+      "points": 2525,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/576708_832969.htm",
+      "points": 5432,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/684180_298391.htm",
+      "points": 7773,
+      "discount": 0.74,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/809884_898921.htm",
+      "points": 2903,
+      "discount": 0.85,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/328938_360541.htm",
+      "points": 8434,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/862950_894757.htm",
+      "points": 8004,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/365737_620608.htm",
+      "points": 9396,
+      "discount": 0.53,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/412854_515470.htm",
+      "points": 5699,
+      "discount": 0.54,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/568557_889873.htm",
+      "points": 3836,
+      "discount": 0.66,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/769999_688646.htm",
+      "points": 9027,
+      "discount": 0.61,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/535223_943816.htm",
+      "points": 1190,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/235243_956496.htm",
+      "points": 9869,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/192333_373603.htm",
+      "points": 7392,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/360019_419202.htm",
+      "points": 2576,
+      "discount": 0.84,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/942759_725251.htm",
+      "points": 7708,
+      "discount": 0.73,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/170074_606499.htm",
+      "points": 1737,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/137014_602012.htm",
+      "points": 1581,
+      "discount": 0.85,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/956359_162652.htm",
+      "points": 1816,
+      "discount": 0.68,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/355881_400108.htm",
+      "points": 1592,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/143567_235020.htm",
+      "points": 6142,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/985391_930980.htm",
+      "points": 8268,
+      "discount": 0.67,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/590603_929402.htm",
+      "points": 8104,
+      "discount": 0.64,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/439294_820800.htm",
+      "points": 8513,
+      "discount": 0.94,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/128879_895325.htm",
+      "points": 6055,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/702615_782543.htm",
+      "points": 9028,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/456215_737311.htm",
+      "points": 2559,
+      "discount": 0.56,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/710980_920487.htm",
+      "points": 3848,
+      "discount": 0.6,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/770015_765246.htm",
+      "points": 8227,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/587417_799609.htm",
+      "points": 7547,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/999748_161330.htm",
+      "points": 3617,
+      "discount": 0.6,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/320285_244051.htm",
+      "points": 7367,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/006127_076610.htm",
+      "points": 8758,
+      "discount": 0.81,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/217955_252960.htm",
+      "points": 7348,
+      "discount": 0.65,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/637864_199672.htm",
+      "points": 8219,
+      "discount": 0.98,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/148211_718916.htm",
+      "points": 6288,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/845912_264824.htm",
+      "points": 3346,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/791665_634118.htm",
+      "points": 4918,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/223402_295256.htm",
+      "points": 4447,
+      "discount": 0.71,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/607608_293331.htm",
+      "points": 4192,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/538720_292877.htm",
+      "points": 9453,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/819379_450488.htm",
+      "points": 9045,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/090156_114953.htm",
+      "points": 9897,
+      "discount": 0.51,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/247959_364792.htm",
+      "points": 2113,
+      "discount": 0.77,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/036578_388522.htm",
+      "points": 6352,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/539704_832905.htm",
+      "points": 4240,
+      "discount": 0.81,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/140907_298799.htm",
+      "points": 27,
+      "discount": 0.5,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/207947_456411.htm",
+      "points": 1212,
+      "discount": 0.76,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/225242_230370.htm",
+      "points": 2651,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/258888_787663.htm",
+      "points": 9275,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/112185_555467.htm",
+      "points": 9863,
+      "discount": 0.81,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/523214_624286.htm",
+      "points": 4174,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/974669_477868.htm",
+      "points": 701,
+      "discount": 0.87,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 7,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/144837_577461.htm",
+      "points": 4039,
+      "discount": 0.9,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/620000_789781.htm",
+      "points": 5465,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/588741_657051.htm",
+      "points": 3367,
+      "discount": 0.99,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 4,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/425484_307196.htm",
+      "points": 5937,
+      "discount": 0.93,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/677570_789102.htm",
+      "points": 4826,
+      "discount": 0.7,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/194716_148643.htm",
+      "points": 9097,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/892528_002222.htm",
+      "points": 8947,
+      "discount": 1.0,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/450562_036655.htm",
+      "points": 1611,
+      "discount": 0.83,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/074952_216035.htm",
+      "points": 9456,
+      "discount": 0.78,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/145079_630877.htm",
+      "points": 7670,
+      "discount": 0.64,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/345102_422503.htm",
+      "points": 3518,
+      "discount": 0.92,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/626611_362892.htm",
+      "points": 2530,
+      "discount": 0.8,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/875738_114392.htm",
+      "points": 783,
+      "discount": 0.59,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/051695_213627.htm",
+      "points": 606,
+      "discount": 0.53,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/576240_747522.htm",
+      "points": 4580,
+      "discount": 0.87,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/782383_683640.htm",
+      "points": 4352,
+      "discount": 0.66,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 5,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/708175_287677.htm",
+      "points": 6240,
+      "discount": 0.96,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/121225_646932.htm",
+      "points": 5665,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/259214_946491.htm",
+      "points": 9246,
+      "discount": 0.71,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 3,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/143098_371405.htm",
+      "points": 8906,
+      "discount": 0.98,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/436994_775242.htm",
+      "points": 3079,
+      "discount": 0.51,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/373223_504646.htm",
+      "points": 4514,
+      "discount": 0.54,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/899556_337247.htm",
+      "points": 919,
+      "discount": 0.54,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "普通会员",
+      "url": "www.qq.gogoal.com.cn/abnews/022902_703414.htm",
+      "points": 7324,
+      "discount": 0.92,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "钻石会员",
+      "url": "www.163.gogoal.com.cn/ponews/480068_144117.htm",
+      "points": 4037,
+      "discount": 0.96,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 1,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/939336_450758.htm",
+      "points": 6550,
+      "discount": 0.85,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 8,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/738978_110521.htm",
+      "points": 2906,
+      "discount": 0.75,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 10,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/256430_575354.htm",
+      "points": 669,
+      "discount": 0.88,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 2,
+      "name": "普通会员",
+      "url": "www.163.gogoal.com.cn/ponews/173429_634563.htm",
+      "points": 2660,
+      "discount": 0.62,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 9,
+      "name": "钻石会员",
+      "url": "www.qq.gogoal.com.cn/abnews/200042_610391.htm",
+      "points": 7420,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/917443_678911.htm",
+      "points": 4555,
+      "discount": 0.9,
+      "benefits": [
+        "免运费",
+        "专属客服"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/634079_861001.htm",
+      "points": 1374,
+      "discount": 0.83,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 11,
+      "name": "金卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/352364_952259.htm",
+      "points": 1878,
+      "discount": 0.69,
+      "benefits": [
+        "免运费",
+        "专属客服",
+        "优先发货"
+      ]
+    },
+    {
+      "level": 12,
+      "name": "银卡会员",
+      "url": "www.qq.gogoal.com.cn/abnews/271274_335441.htm",
+      "points": 5435,
+      "discount": 0.82,
+      "benefits": [
+        "免运费"
+      ]
+    },
+    {
+      "level": 6,
+      "name": "银卡会员",
+      "url": "www.163.gogoal.com.cn/ponews/642504_922641.htm",
+      "points": 7998,
+      "discount": 0.58,
+      "benefits": [
+        "免运费"
+      ]
+    }
+  ]
+}
