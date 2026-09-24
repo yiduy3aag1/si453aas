@@ -1,0 +1,1810 @@
+{
+  "mirror": {
+    "name": "加仓意愿再度集聚 股票私募仓位两周连涨",
+    "generated": "2026-09-25 00:18:30",
+    "strategy": "latency"
+  },
+  "fallback": true,
+  "nodes": {
+    "mirror-001": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/856876_951751.htm",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-002": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/589618_106028.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-003": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/239513_822887.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-004": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/367148_746853.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-005": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/825465_855751.htm",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-006": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/328129_652123.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-007": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/919339_802401.htm",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-008": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/100788_240367.htm",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-009": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/557268_259359.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-010": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/820102_233771.htm",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-011": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/812149_336413.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-012": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/755709_862642.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-013": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/990031_300901.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-014": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/255340_176493.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-015": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/286616_558112.htm",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-016": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/778228_442447.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-017": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/820306_695924.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-018": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/478420_255006.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-019": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/259275_274155.htm",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-020": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/152266_155530.htm",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-021": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/216461_109287.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-022": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/933839_354074.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-023": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/242358_820411.htm",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-024": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/162813_689896.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-025": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/309823_105038.htm",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-026": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/804293_165640.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-027": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/795638_481512.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-028": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/649334_078770.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-029": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/907556_799611.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-030": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/696934_401339.htm",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-031": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/055686_245329.htm",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-032": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/742794_994826.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-033": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/383570_322282.htm",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-034": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/092293_227261.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-035": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/248573_666317.htm",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-036": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/070971_454467.htm",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-037": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/313215_003032.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-038": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/217700_414193.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-039": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/612793_642147.htm",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-040": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/645520_846498.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-041": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/944265_355863.htm",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-042": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/293255_180406.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-043": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/989911_972097.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-044": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/701210_328218.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-045": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/501946_199138.htm",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-046": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/979652_223928.htm",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-047": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/751587_304789.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-048": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/807505_606300.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-049": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/410841_157487.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-050": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/881359_600737.htm",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-051": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/794848_817914.htm",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-052": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/618957_311021.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-053": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/795033_236507.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-054": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/237539_497154.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-055": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/162209_020416.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-056": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/539819_906938.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-057": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/128045_451632.htm",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-058": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/328462_278718.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-059": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/321926_351903.htm",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-060": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/819290_736919.htm",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-061": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/753286_714503.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-062": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/935479_955342.htm",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-063": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/745046_951522.htm",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-064": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/736671_486570.htm",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-065": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/699201_677559.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-066": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/810715_068749.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-067": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/827107_885469.htm",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-068": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/616494_978860.htm",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-069": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/259420_078733.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-070": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/068721_034562.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-071": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/916502_545646.htm",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-072": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/690032_182503.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-073": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/797901_018293.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-074": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/420573_490334.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-075": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/708264_982447.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-076": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/642710_870503.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-077": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/209624_669368.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-078": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/297940_100369.htm",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-079": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/533988_439125.htm",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-080": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/274718_985615.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-081": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/546596_174389.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-082": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/468529_278679.htm",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-083": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/884310_952740.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-084": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/176258_386376.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-085": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/046849_737008.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-086": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/519399_807405.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-087": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/854022_126975.htm",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-088": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/737527_168642.htm",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-089": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/748879_378088.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-090": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/923912_068816.htm",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-091": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/842564_439164.htm",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-092": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/095950_679923.htm",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-093": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/580607_262854.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-094": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/013228_232509.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-095": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/904657_094469.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-096": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/594511_746510.htm",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-097": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/481466_294524.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-098": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/244602_952425.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-099": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/492783_639481.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-100": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/251923_338912.htm",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-101": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/355037_950303.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-102": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/653115_342158.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-103": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/481193_291675.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-104": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/804801_405362.htm",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-105": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/124595_529807.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-106": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/824414_069554.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-107": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/109881_710744.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-108": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/391764_534902.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-109": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/880144_887349.htm",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-110": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/109249_318326.htm",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-111": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/609148_355059.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-112": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/802074_004609.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-113": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/943744_572951.htm",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-114": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/225345_947475.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-115": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/018001_185845.htm",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-116": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/001976_923374.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-117": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/900277_029417.htm",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-118": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/534733_813047.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-119": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/994809_861293.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-120": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/928971_285452.htm",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-121": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/949492_298164.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-122": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/139680_236871.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-123": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/822945_151598.htm",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-124": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/704936_356132.htm",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-125": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/525302_749633.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-126": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/729942_668540.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-127": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/116045_983045.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-128": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/246207_327393.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-129": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/908467_492773.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-130": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/808850_896919.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-131": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/514157_491625.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-132": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/089182_169330.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-133": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/270044_259418.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-134": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/876092_143262.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-135": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/210433_443956.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-136": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/512415_969839.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-137": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/820746_118718.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-138": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/233394_017623.htm",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-139": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/649407_199217.htm",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-140": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/716134_314130.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-141": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/084260_137204.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-142": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/266779_420351.htm",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-143": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/182983_038050.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-144": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/242209_602224.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-145": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/913200_278746.htm",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-146": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/383452_442098.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-147": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/374147_651937.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-148": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/682905_165354.htm",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-149": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/503889_856652.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-150": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/462546_424048.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-151": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/484722_403710.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-152": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/558473_573562.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-153": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/672396_000698.htm",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-154": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/412395_318376.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-155": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/436052_946549.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-156": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/701936_076391.htm",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-157": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/376795_328522.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-158": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/057936_673356.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-159": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/946046_221834.htm",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-160": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/509499_220177.htm",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-161": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/632959_105879.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-162": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/406434_312874.htm",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-163": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/373553_382822.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-164": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/448601_119190.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-165": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/573515_036698.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-166": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/284340_947603.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-167": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/037831_015981.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-168": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/678770_426504.htm",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-169": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/594164_081357.htm",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-170": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/698304_038040.htm",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-171": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/314628_569788.htm",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-172": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/338517_012266.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-173": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/464980_460917.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-174": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/809101_998769.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-175": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/585900_295999.htm",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-176": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/998094_677160.htm",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-177": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/083935_093521.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-178": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/798119_518969.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-179": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/210060_548415.htm",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-180": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/386421_702365.htm",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-181": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/861385_355583.htm",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-182": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/261002_918624.htm",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-183": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/934404_562124.htm",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-184": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/339555_273472.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-185": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/060873_058078.htm",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-186": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/804769_863762.htm",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-187": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/432207_542895.htm",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-188": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/775276_942156.htm",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-189": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/790841_162847.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-190": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/108084_652984.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-191": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/300146_671182.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-192": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/656218_272823.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-193": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/316591_130639.htm",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-194": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/992730_936874.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-195": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/028149_125194.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-196": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/540661_761002.htm",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-197": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/625587_403973.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-198": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/234002_032147.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-199": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/793528_433316.htm",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-200": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/635732_859378.htm",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-201": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/293132_704082.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-202": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/439129_447972.htm",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-203": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/225051_226193.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-204": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/612484_727409.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-205": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/528301_798891.htm",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-206": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/789002_560812.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-207": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/200435_581440.htm",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-208": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/595719_860653.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-209": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/032842_784360.htm",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-210": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/509109_346693.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-211": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/452994_940525.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-212": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/140880_188334.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-213": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/189331_279779.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-214": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/688123_210764.htm",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-215": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/707034_606424.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-216": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/192909_046211.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-217": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/691431_116834.htm",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-218": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/185022_320710.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-219": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/920565_825769.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-220": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/418621_069332.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-221": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/782091_457091.htm",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-222": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/361095_697326.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-223": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/513734_315843.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-224": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/179673_517004.htm",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-225": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/636599_805532.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-226": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/135904_794928.htm",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-227": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/045402_421684.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-228": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/906234_844775.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-229": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/240899_414275.htm",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-230": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/570227_529007.htm",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-231": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/529040_513405.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-232": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/340219_277844.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-233": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/519457_209334.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-234": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/501864_616028.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-235": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/903918_327303.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-236": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/648166_626144.htm",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-237": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/160356_129561.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-238": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/056227_129521.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-239": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/046030_860797.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-240": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/055586_975021.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-241": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/565489_384399.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-242": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/455293_166800.htm",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-243": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/724734_862062.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-244": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/684061_836792.htm",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-245": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/695423_509921.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-246": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/418387_423860.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-247": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/438135_668427.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-248": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/537809_260959.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-249": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/390362_499045.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-250": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/428080_929296.htm",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-251": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/414736_274344.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-252": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/912165_994519.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-253": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/208464_859818.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-254": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/126034_026182.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-255": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/208553_101589.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-256": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/649546_256762.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-257": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/170047_768806.htm",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-258": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/316003_765716.htm",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-259": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/198437_594141.htm",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-260": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/474396_254536.htm",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-261": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/765226_433520.htm",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-262": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/095977_343129.htm",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-263": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/762567_563309.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-264": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/950137_624299.htm",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-265": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/966117_825938.htm",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-266": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/603895_140156.htm",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-267": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/868468_043896.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-268": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/717185_789902.htm",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-269": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/963325_911104.htm",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-270": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/192106_259214.htm",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-271": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/828481_496208.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-272": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/921714_429947.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-273": {
+      "region": "华北",
+      "url": "www.qq.gogoal.com.cn/abnews/833824_975616.htm",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-274": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/764885_273023.htm",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-275": {
+      "region": "新加坡",
+      "url": "www.qq.gogoal.com.cn/abnews/357043_454506.htm",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-276": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/842497_761768.htm",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-277": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/776363_981587.htm",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-278": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/717060_014102.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-279": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/216646_518972.htm",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-280": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/443195_075218.htm",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-281": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/935797_585513.htm",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-282": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/560979_042587.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-283": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/129355_547944.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-284": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/559154_390134.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-285": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/286213_612870.htm",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-286": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/749099_705576.htm",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-287": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/179713_440229.htm",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-288": {
+      "region": "华南",
+      "url": "www.163.gogoal.com.cn/ponews/661279_030322.htm",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-289": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/369460_583459.htm",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-290": {
+      "region": "华东",
+      "url": "www.163.gogoal.com.cn/ponews/134626_412988.htm",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-291": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/968326_027299.htm",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-292": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/331289_842525.htm",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-293": {
+      "region": "香港",
+      "url": "www.qq.gogoal.com.cn/abnews/609542_943705.htm",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-294": {
+      "region": "华北",
+      "url": "www.163.gogoal.com.cn/ponews/057941_556620.htm",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-295": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/670467_181548.htm",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-296": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/100592_600846.htm",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-297": {
+      "region": "华东",
+      "url": "www.qq.gogoal.com.cn/abnews/233599_638489.htm",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-298": {
+      "region": "香港",
+      "url": "www.163.gogoal.com.cn/ponews/571254_804154.htm",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-299": {
+      "region": "华南",
+      "url": "www.qq.gogoal.com.cn/abnews/898361_217524.htm",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-300": {
+      "region": "新加坡",
+      "url": "www.163.gogoal.com.cn/ponews/385576_802599.htm",
+      "scheme": "http",
+      "weight": 15
+    }
+  }
+}
