@@ -1,0 +1,2260 @@
+{
+  "bundle": {
+    "name": "日本2年期国债收益率达到1995年4月以来最高水平",
+    "editor": "王季美",
+    "generated": "2026-09-25 00:17:44"
+  },
+  "publicPath": "/assets/",
+  "chunks": [
+    {
+      "name": "cmnvsz.5517.js",
+      "url": "www.qq.gogoal.com.cn/abnews/573321_240603.htm",
+      "size": 382,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "zfapkm.3390.js",
+      "url": "www.163.gogoal.com.cn/ponews/090028_363955.htm",
+      "size": 624,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "bhmnqq.4236.js",
+      "url": "www.qq.gogoal.com.cn/abnews/301942_304090.htm",
+      "size": 576,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "aoyrne.1695.js",
+      "url": "www.163.gogoal.com.cn/ponews/722832_296084.htm",
+      "size": 160,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "bqdsoy.1585.js",
+      "url": "www.qq.gogoal.com.cn/abnews/535818_524402.htm",
+      "size": 618,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "noipum.4917.js",
+      "url": "www.163.gogoal.com.cn/ponews/198631_320387.htm",
+      "size": 73,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "hxwqsq.6873.js",
+      "url": "www.qq.gogoal.com.cn/abnews/941700_168503.htm",
+      "size": 433,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "kcacss.2864.js",
+      "url": "www.163.gogoal.com.cn/ponews/766899_541623.htm",
+      "size": 685,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "hayimb.9505.js",
+      "url": "www.qq.gogoal.com.cn/abnews/154793_346043.htm",
+      "size": 526,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "cmuwbw.4275.js",
+      "url": "www.163.gogoal.com.cn/ponews/966396_955380.htm",
+      "size": 799,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "xmsvjd.2332.js",
+      "url": "www.qq.gogoal.com.cn/abnews/261661_595321.htm",
+      "size": 204,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "qtkbgz.1959.js",
+      "url": "www.163.gogoal.com.cn/ponews/084553_835907.htm",
+      "size": 847,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "lglcsf.2413.js",
+      "url": "www.qq.gogoal.com.cn/abnews/272059_970137.htm",
+      "size": 452,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "lkswcn.8853.js",
+      "url": "www.163.gogoal.com.cn/ponews/029665_594896.htm",
+      "size": 668,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "blzfuy.3616.js",
+      "url": "www.qq.gogoal.com.cn/abnews/503387_160768.htm",
+      "size": 114,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "qghvel.5088.js",
+      "url": "www.163.gogoal.com.cn/ponews/982626_340109.htm",
+      "size": 139,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "aojurn.0515.js",
+      "url": "www.qq.gogoal.com.cn/abnews/501029_500384.htm",
+      "size": 774,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "aavkot.2487.js",
+      "url": "www.163.gogoal.com.cn/ponews/838991_239711.htm",
+      "size": 869,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "xoopzo.8114.js",
+      "url": "www.qq.gogoal.com.cn/abnews/433482_987196.htm",
+      "size": 877,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "mmrglr.5424.js",
+      "url": "www.163.gogoal.com.cn/ponews/667256_614868.htm",
+      "size": 796,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "jqacgq.8290.js",
+      "url": "www.qq.gogoal.com.cn/abnews/810342_255097.htm",
+      "size": 386,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "kqlikn.2151.js",
+      "url": "www.163.gogoal.com.cn/ponews/491179_531519.htm",
+      "size": 212,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "mtqdmn.6511.js",
+      "url": "www.qq.gogoal.com.cn/abnews/774965_255981.htm",
+      "size": 39,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "tabbyf.6537.js",
+      "url": "www.163.gogoal.com.cn/ponews/510675_260563.htm",
+      "size": 870,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ixvndq.6063.js",
+      "url": "www.qq.gogoal.com.cn/abnews/391187_405533.htm",
+      "size": 411,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "agcqrf.2195.js",
+      "url": "www.163.gogoal.com.cn/ponews/927708_602145.htm",
+      "size": 296,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "dmdpiy.1777.js",
+      "url": "www.qq.gogoal.com.cn/abnews/880339_902614.htm",
+      "size": 534,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "lnbwqu.2565.js",
+      "url": "www.163.gogoal.com.cn/ponews/428563_070213.htm",
+      "size": 834,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "dnmdrk.3257.js",
+      "url": "www.qq.gogoal.com.cn/abnews/253130_082522.htm",
+      "size": 518,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "oubhkx.3819.js",
+      "url": "www.163.gogoal.com.cn/ponews/487367_120575.htm",
+      "size": 756,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "sujzym.6461.js",
+      "url": "www.qq.gogoal.com.cn/abnews/457099_853099.htm",
+      "size": 220,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "fkyexa.2966.js",
+      "url": "www.163.gogoal.com.cn/ponews/651113_782512.htm",
+      "size": 82,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "stxwxn.9625.js",
+      "url": "www.qq.gogoal.com.cn/abnews/943185_666251.htm",
+      "size": 178,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "xsippz.5988.js",
+      "url": "www.163.gogoal.com.cn/ponews/232137_705222.htm",
+      "size": 729,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "szdthm.4435.js",
+      "url": "www.qq.gogoal.com.cn/abnews/002046_346932.htm",
+      "size": 124,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "yrwjvr.8593.js",
+      "url": "www.163.gogoal.com.cn/ponews/693627_572420.htm",
+      "size": 688,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "qjcics.7848.js",
+      "url": "www.qq.gogoal.com.cn/abnews/545735_770959.htm",
+      "size": 862,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "cuxsmz.6626.js",
+      "url": "www.163.gogoal.com.cn/ponews/832857_827050.htm",
+      "size": 38,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "tbjlvs.7144.js",
+      "url": "www.qq.gogoal.com.cn/abnews/276411_324892.htm",
+      "size": 755,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "uoereh.1659.js",
+      "url": "www.163.gogoal.com.cn/ponews/315039_101407.htm",
+      "size": 562,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "zqxall.7228.js",
+      "url": "www.qq.gogoal.com.cn/abnews/319274_249002.htm",
+      "size": 815,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "odrosf.3539.js",
+      "url": "www.163.gogoal.com.cn/ponews/799119_449346.htm",
+      "size": 860,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ljuzgz.7670.js",
+      "url": "www.qq.gogoal.com.cn/abnews/691218_486975.htm",
+      "size": 298,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "ejpcqe.3614.js",
+      "url": "www.163.gogoal.com.cn/ponews/668625_084814.htm",
+      "size": 868,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "qponlo.6405.js",
+      "url": "www.qq.gogoal.com.cn/abnews/681232_051451.htm",
+      "size": 395,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "inroom.4032.js",
+      "url": "www.163.gogoal.com.cn/ponews/720133_041328.htm",
+      "size": 285,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "xmjabf.2266.js",
+      "url": "www.qq.gogoal.com.cn/abnews/658032_060206.htm",
+      "size": 69,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "qhcsfq.5475.js",
+      "url": "www.163.gogoal.com.cn/ponews/998761_650205.htm",
+      "size": 173,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "dfacbm.9175.js",
+      "url": "www.qq.gogoal.com.cn/abnews/979964_307582.htm",
+      "size": 41,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "baerhw.9522.js",
+      "url": "www.163.gogoal.com.cn/ponews/697940_399781.htm",
+      "size": 300,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "kgkpln.0077.js",
+      "url": "www.qq.gogoal.com.cn/abnews/022594_353665.htm",
+      "size": 576,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ylexvc.9025.js",
+      "url": "www.163.gogoal.com.cn/ponews/759854_316532.htm",
+      "size": 457,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "kpaggm.7401.js",
+      "url": "www.qq.gogoal.com.cn/abnews/373151_696701.htm",
+      "size": 246,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "hldqvg.4455.js",
+      "url": "www.163.gogoal.com.cn/ponews/393164_668301.htm",
+      "size": 827,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "yvsoid.3013.js",
+      "url": "www.qq.gogoal.com.cn/abnews/507024_189292.htm",
+      "size": 172,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "agdpip.9845.js",
+      "url": "www.163.gogoal.com.cn/ponews/868819_518575.htm",
+      "size": 491,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "yqigov.3534.js",
+      "url": "www.qq.gogoal.com.cn/abnews/401448_594075.htm",
+      "size": 258,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "goidty.7135.js",
+      "url": "www.163.gogoal.com.cn/ponews/472877_114936.htm",
+      "size": 835,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "byyxsy.0647.js",
+      "url": "www.qq.gogoal.com.cn/abnews/500343_612649.htm",
+      "size": 381,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "ednbzo.6112.js",
+      "url": "www.163.gogoal.com.cn/ponews/930842_216549.htm",
+      "size": 496,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "xviruv.3760.js",
+      "url": "www.qq.gogoal.com.cn/abnews/499087_624544.htm",
+      "size": 866,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "rbgqpu.6647.js",
+      "url": "www.163.gogoal.com.cn/ponews/179341_193471.htm",
+      "size": 659,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "zuzyaz.7376.js",
+      "url": "www.qq.gogoal.com.cn/abnews/214488_649547.htm",
+      "size": 682,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "cckpaa.7032.js",
+      "url": "www.163.gogoal.com.cn/ponews/706815_259559.htm",
+      "size": 383,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "xxqcpi.6226.js",
+      "url": "www.qq.gogoal.com.cn/abnews/916238_494604.htm",
+      "size": 867,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "dfsafc.7812.js",
+      "url": "www.163.gogoal.com.cn/ponews/266698_732233.htm",
+      "size": 574,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "tixozy.5721.js",
+      "url": "www.qq.gogoal.com.cn/abnews/449823_626140.htm",
+      "size": 525,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "edcirx.9208.js",
+      "url": "www.163.gogoal.com.cn/ponews/598633_951075.htm",
+      "size": 456,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "bhowkk.2667.js",
+      "url": "www.qq.gogoal.com.cn/abnews/504392_695609.htm",
+      "size": 576,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "nhncik.7144.js",
+      "url": "www.163.gogoal.com.cn/ponews/903150_571663.htm",
+      "size": 589,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "yrtjpn.6170.js",
+      "url": "www.qq.gogoal.com.cn/abnews/151707_656547.htm",
+      "size": 384,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "urwite.9440.js",
+      "url": "www.163.gogoal.com.cn/ponews/759689_075683.htm",
+      "size": 844,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "qalyci.2159.js",
+      "url": "www.qq.gogoal.com.cn/abnews/516383_543211.htm",
+      "size": 146,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "xhynbj.3755.js",
+      "url": "www.163.gogoal.com.cn/ponews/648130_412207.htm",
+      "size": 369,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "hpgozu.0898.js",
+      "url": "www.qq.gogoal.com.cn/abnews/927229_242757.htm",
+      "size": 790,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "uotdds.8523.js",
+      "url": "www.163.gogoal.com.cn/ponews/414331_883013.htm",
+      "size": 762,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "sxmvoy.6138.js",
+      "url": "www.qq.gogoal.com.cn/abnews/266145_351771.htm",
+      "size": 849,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "wvdgxo.0850.js",
+      "url": "www.163.gogoal.com.cn/ponews/870458_616783.htm",
+      "size": 834,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "wgsaqw.3219.js",
+      "url": "www.qq.gogoal.com.cn/abnews/703391_164618.htm",
+      "size": 18,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "jaqftr.2243.js",
+      "url": "www.163.gogoal.com.cn/ponews/150292_305388.htm",
+      "size": 725,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "pahrgm.6599.js",
+      "url": "www.qq.gogoal.com.cn/abnews/800309_120957.htm",
+      "size": 407,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "oudjql.4629.js",
+      "url": "www.163.gogoal.com.cn/ponews/686147_175708.htm",
+      "size": 533,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "rkmulo.8819.js",
+      "url": "www.qq.gogoal.com.cn/abnews/166632_022709.htm",
+      "size": 251,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "pjvroy.7807.js",
+      "url": "www.163.gogoal.com.cn/ponews/197019_232161.htm",
+      "size": 741,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "pbootp.0535.js",
+      "url": "www.qq.gogoal.com.cn/abnews/400199_846707.htm",
+      "size": 181,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "uzxswi.4991.js",
+      "url": "www.163.gogoal.com.cn/ponews/884506_552743.htm",
+      "size": 27,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "klqryc.6824.js",
+      "url": "www.qq.gogoal.com.cn/abnews/812573_366305.htm",
+      "size": 790,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "vnbboq.9820.js",
+      "url": "www.163.gogoal.com.cn/ponews/669278_957883.htm",
+      "size": 387,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "przeyc.0151.js",
+      "url": "www.qq.gogoal.com.cn/abnews/206913_367755.htm",
+      "size": 340,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "xjypta.6700.js",
+      "url": "www.163.gogoal.com.cn/ponews/536102_754998.htm",
+      "size": 732,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "jehlwl.8146.js",
+      "url": "www.qq.gogoal.com.cn/abnews/826364_121909.htm",
+      "size": 149,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ppfulf.3597.js",
+      "url": "www.163.gogoal.com.cn/ponews/095908_197086.htm",
+      "size": 20,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "mzzzvi.0059.js",
+      "url": "www.qq.gogoal.com.cn/abnews/080333_748281.htm",
+      "size": 358,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ycwwip.8707.js",
+      "url": "www.163.gogoal.com.cn/ponews/554613_902083.htm",
+      "size": 524,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "jjxzlm.0967.js",
+      "url": "www.qq.gogoal.com.cn/abnews/021072_667146.htm",
+      "size": 468,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "lqqjde.4818.js",
+      "url": "www.163.gogoal.com.cn/ponews/432763_859982.htm",
+      "size": 446,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "reaulu.8666.js",
+      "url": "www.qq.gogoal.com.cn/abnews/050568_678638.htm",
+      "size": 60,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "tjffpj.3163.js",
+      "url": "www.163.gogoal.com.cn/ponews/970720_631119.htm",
+      "size": 81,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "hgtqub.2427.js",
+      "url": "www.qq.gogoal.com.cn/abnews/365372_997553.htm",
+      "size": 57,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "haxags.4005.js",
+      "url": "www.163.gogoal.com.cn/ponews/507884_687404.htm",
+      "size": 201,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "bonxii.9434.js",
+      "url": "www.qq.gogoal.com.cn/abnews/344499_012769.htm",
+      "size": 773,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "flwufg.7335.js",
+      "url": "www.163.gogoal.com.cn/ponews/003362_660855.htm",
+      "size": 295,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "nzdvjx.1879.js",
+      "url": "www.qq.gogoal.com.cn/abnews/102069_162510.htm",
+      "size": 43,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "uscuzy.4736.js",
+      "url": "www.163.gogoal.com.cn/ponews/573163_942744.htm",
+      "size": 718,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ukfppp.5590.js",
+      "url": "www.qq.gogoal.com.cn/abnews/672625_951047.htm",
+      "size": 321,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "yxvzqa.8259.js",
+      "url": "www.163.gogoal.com.cn/ponews/543068_198632.htm",
+      "size": 107,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "dfvuvr.7234.js",
+      "url": "www.qq.gogoal.com.cn/abnews/825610_743345.htm",
+      "size": 453,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "zjhxvu.9833.js",
+      "url": "www.163.gogoal.com.cn/ponews/509173_625566.htm",
+      "size": 724,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "atlciq.5022.js",
+      "url": "www.qq.gogoal.com.cn/abnews/043284_803996.htm",
+      "size": 494,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "hswjvw.2398.js",
+      "url": "www.163.gogoal.com.cn/ponews/988883_930714.htm",
+      "size": 369,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "nxvldg.0972.js",
+      "url": "www.qq.gogoal.com.cn/abnews/067929_028264.htm",
+      "size": 623,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "yycitw.5275.js",
+      "url": "www.163.gogoal.com.cn/ponews/071597_425524.htm",
+      "size": 612,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "rvlrnw.5200.js",
+      "url": "www.qq.gogoal.com.cn/abnews/400292_878455.htm",
+      "size": 214,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "njoetu.1453.js",
+      "url": "www.163.gogoal.com.cn/ponews/857104_460682.htm",
+      "size": 452,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "xujuqo.9399.js",
+      "url": "www.qq.gogoal.com.cn/abnews/841754_669197.htm",
+      "size": 628,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "kxdrbz.5247.js",
+      "url": "www.163.gogoal.com.cn/ponews/208413_887905.htm",
+      "size": 114,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "mebvzc.8321.js",
+      "url": "www.qq.gogoal.com.cn/abnews/369685_878758.htm",
+      "size": 195,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ybbkoj.7268.js",
+      "url": "www.163.gogoal.com.cn/ponews/442875_346545.htm",
+      "size": 876,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "lmxtqu.5475.js",
+      "url": "www.qq.gogoal.com.cn/abnews/604980_946527.htm",
+      "size": 214,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "zbldax.4298.js",
+      "url": "www.163.gogoal.com.cn/ponews/360271_112777.htm",
+      "size": 195,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "dwmyhf.8085.js",
+      "url": "www.qq.gogoal.com.cn/abnews/586852_616411.htm",
+      "size": 770,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "oyuisz.0574.js",
+      "url": "www.163.gogoal.com.cn/ponews/489796_634898.htm",
+      "size": 457,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "twkuyg.0059.js",
+      "url": "www.qq.gogoal.com.cn/abnews/614686_011176.htm",
+      "size": 353,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "boxgki.0213.js",
+      "url": "www.163.gogoal.com.cn/ponews/373061_386118.htm",
+      "size": 629,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "ckgwvh.3441.js",
+      "url": "www.qq.gogoal.com.cn/abnews/716011_134845.htm",
+      "size": 666,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "jqkpif.0073.js",
+      "url": "www.163.gogoal.com.cn/ponews/641833_838669.htm",
+      "size": 24,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "vmoxbv.8212.js",
+      "url": "www.qq.gogoal.com.cn/abnews/861901_133420.htm",
+      "size": 405,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "svnmvy.6654.js",
+      "url": "www.163.gogoal.com.cn/ponews/122568_738944.htm",
+      "size": 732,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "jgxqvh.7964.js",
+      "url": "www.qq.gogoal.com.cn/abnews/575813_036492.htm",
+      "size": 173,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "nskxsm.2077.js",
+      "url": "www.163.gogoal.com.cn/ponews/115848_542375.htm",
+      "size": 281,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "htxlrm.6372.js",
+      "url": "www.qq.gogoal.com.cn/abnews/814128_340166.htm",
+      "size": 261,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "txrlzc.4628.js",
+      "url": "www.163.gogoal.com.cn/ponews/737466_348618.htm",
+      "size": 653,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "ddamhb.5099.js",
+      "url": "www.qq.gogoal.com.cn/abnews/834208_685200.htm",
+      "size": 524,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "wdlbsx.6915.js",
+      "url": "www.163.gogoal.com.cn/ponews/096092_501960.htm",
+      "size": 334,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "jdofjd.8430.js",
+      "url": "www.qq.gogoal.com.cn/abnews/226207_175889.htm",
+      "size": 753,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "qcqgjw.5322.js",
+      "url": "www.163.gogoal.com.cn/ponews/396810_025419.htm",
+      "size": 499,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "tawlem.4399.js",
+      "url": "www.qq.gogoal.com.cn/abnews/092775_812760.htm",
+      "size": 500,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "ylftce.3421.js",
+      "url": "www.163.gogoal.com.cn/ponews/377660_770077.htm",
+      "size": 795,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "gijwkc.1806.js",
+      "url": "www.qq.gogoal.com.cn/abnews/067415_343323.htm",
+      "size": 562,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "hinsdr.3311.js",
+      "url": "www.163.gogoal.com.cn/ponews/336217_748124.htm",
+      "size": 286,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "rllcpq.2854.js",
+      "url": "www.qq.gogoal.com.cn/abnews/099080_119891.htm",
+      "size": 624,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "bqjchd.5624.js",
+      "url": "www.163.gogoal.com.cn/ponews/164734_507628.htm",
+      "size": 347,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "clhvuu.3648.js",
+      "url": "www.qq.gogoal.com.cn/abnews/265397_057036.htm",
+      "size": 425,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "uutuip.3036.js",
+      "url": "www.163.gogoal.com.cn/ponews/105883_910907.htm",
+      "size": 84,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "gorbho.3609.js",
+      "url": "www.qq.gogoal.com.cn/abnews/917724_909883.htm",
+      "size": 874,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "iszevg.2657.js",
+      "url": "www.163.gogoal.com.cn/ponews/448185_437238.htm",
+      "size": 40,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "pvmmth.4918.js",
+      "url": "www.qq.gogoal.com.cn/abnews/652371_439407.htm",
+      "size": 469,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "zdqshl.4042.js",
+      "url": "www.163.gogoal.com.cn/ponews/772903_678532.htm",
+      "size": 744,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "yeedey.7529.js",
+      "url": "www.qq.gogoal.com.cn/abnews/058738_386043.htm",
+      "size": 476,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "zctcjl.9628.js",
+      "url": "www.163.gogoal.com.cn/ponews/615470_047743.htm",
+      "size": 595,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "rhxriy.8964.js",
+      "url": "www.qq.gogoal.com.cn/abnews/001656_613300.htm",
+      "size": 200,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "xiorkj.7902.js",
+      "url": "www.163.gogoal.com.cn/ponews/506514_176248.htm",
+      "size": 804,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "angjfi.2029.js",
+      "url": "www.qq.gogoal.com.cn/abnews/913058_745759.htm",
+      "size": 689,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "ubhlei.6649.js",
+      "url": "www.163.gogoal.com.cn/ponews/900120_505032.htm",
+      "size": 499,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "wbeawo.2318.js",
+      "url": "www.qq.gogoal.com.cn/abnews/923042_151760.htm",
+      "size": 59,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "luqoga.5107.js",
+      "url": "www.163.gogoal.com.cn/ponews/154460_659030.htm",
+      "size": 867,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "mhjmej.9036.js",
+      "url": "www.qq.gogoal.com.cn/abnews/918338_656098.htm",
+      "size": 247,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "lwnwhz.6483.js",
+      "url": "www.163.gogoal.com.cn/ponews/189654_595365.htm",
+      "size": 597,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "pzxeou.0914.js",
+      "url": "www.qq.gogoal.com.cn/abnews/153080_403989.htm",
+      "size": 91,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "hxsvas.9751.js",
+      "url": "www.163.gogoal.com.cn/ponews/708073_963095.htm",
+      "size": 850,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "dzzkpr.6357.js",
+      "url": "www.qq.gogoal.com.cn/abnews/876141_064148.htm",
+      "size": 215,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "eynzjf.0421.js",
+      "url": "www.163.gogoal.com.cn/ponews/487500_178846.htm",
+      "size": 388,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "tmridg.3041.js",
+      "url": "www.qq.gogoal.com.cn/abnews/210986_840776.htm",
+      "size": 322,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "edumiz.1309.js",
+      "url": "www.163.gogoal.com.cn/ponews/097179_007882.htm",
+      "size": 577,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ofheqs.5066.js",
+      "url": "www.qq.gogoal.com.cn/abnews/530147_683469.htm",
+      "size": 280,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ixbkcm.2609.js",
+      "url": "www.163.gogoal.com.cn/ponews/766690_404518.htm",
+      "size": 482,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "tasfti.3677.js",
+      "url": "www.qq.gogoal.com.cn/abnews/450820_519102.htm",
+      "size": 607,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "tjlwle.8551.js",
+      "url": "www.163.gogoal.com.cn/ponews/282298_954509.htm",
+      "size": 459,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "fjiojk.1273.js",
+      "url": "www.qq.gogoal.com.cn/abnews/273513_652960.htm",
+      "size": 477,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "ayxbue.0519.js",
+      "url": "www.163.gogoal.com.cn/ponews/047334_184694.htm",
+      "size": 884,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "oypcos.3294.js",
+      "url": "www.qq.gogoal.com.cn/abnews/791777_190567.htm",
+      "size": 222,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ddgicu.1179.js",
+      "url": "www.163.gogoal.com.cn/ponews/869105_334601.htm",
+      "size": 297,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "eoscbt.4819.js",
+      "url": "www.qq.gogoal.com.cn/abnews/043056_795756.htm",
+      "size": 710,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "fozama.2742.js",
+      "url": "www.163.gogoal.com.cn/ponews/695587_318093.htm",
+      "size": 381,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "lbsttd.6710.js",
+      "url": "www.qq.gogoal.com.cn/abnews/736885_566240.htm",
+      "size": 776,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "pxaddx.3428.js",
+      "url": "www.163.gogoal.com.cn/ponews/912022_718437.htm",
+      "size": 625,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "xznvos.2410.js",
+      "url": "www.qq.gogoal.com.cn/abnews/896725_567559.htm",
+      "size": 577,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "mpmptt.3417.js",
+      "url": "www.163.gogoal.com.cn/ponews/949413_777896.htm",
+      "size": 857,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "gqumle.7034.js",
+      "url": "www.qq.gogoal.com.cn/abnews/164070_701788.htm",
+      "size": 789,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "zcrcju.8984.js",
+      "url": "www.163.gogoal.com.cn/ponews/766885_221445.htm",
+      "size": 563,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "yjwyfd.7493.js",
+      "url": "www.qq.gogoal.com.cn/abnews/869536_969294.htm",
+      "size": 141,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "lcmmbm.8846.js",
+      "url": "www.163.gogoal.com.cn/ponews/785787_007406.htm",
+      "size": 878,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "jgwpql.7237.js",
+      "url": "www.qq.gogoal.com.cn/abnews/100759_802923.htm",
+      "size": 76,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "kdvnqp.2679.js",
+      "url": "www.163.gogoal.com.cn/ponews/492387_288765.htm",
+      "size": 299,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "twflon.3471.js",
+      "url": "www.qq.gogoal.com.cn/abnews/256956_930471.htm",
+      "size": 215,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "jsohdg.0900.js",
+      "url": "www.163.gogoal.com.cn/ponews/040996_437102.htm",
+      "size": 433,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "ysdyjz.9182.js",
+      "url": "www.qq.gogoal.com.cn/abnews/346480_262677.htm",
+      "size": 690,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "pmjpwq.7707.js",
+      "url": "www.163.gogoal.com.cn/ponews/850614_926146.htm",
+      "size": 126,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "pfbsti.0507.js",
+      "url": "www.qq.gogoal.com.cn/abnews/930708_390410.htm",
+      "size": 42,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "fazvkx.2563.js",
+      "url": "www.163.gogoal.com.cn/ponews/764414_856794.htm",
+      "size": 817,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "olaniu.3165.js",
+      "url": "www.qq.gogoal.com.cn/abnews/833213_364306.htm",
+      "size": 362,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "kpkujf.1768.js",
+      "url": "www.163.gogoal.com.cn/ponews/919129_888786.htm",
+      "size": 308,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "qmdqbu.5136.js",
+      "url": "www.qq.gogoal.com.cn/abnews/303824_792567.htm",
+      "size": 784,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "ldklov.9303.js",
+      "url": "www.163.gogoal.com.cn/ponews/419189_617779.htm",
+      "size": 383,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "qyfuki.9757.js",
+      "url": "www.qq.gogoal.com.cn/abnews/433974_777901.htm",
+      "size": 797,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "hjhlzw.4003.js",
+      "url": "www.163.gogoal.com.cn/ponews/152487_685747.htm",
+      "size": 300,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "pjytvm.0058.js",
+      "url": "www.qq.gogoal.com.cn/abnews/283766_195527.htm",
+      "size": 439,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "votkoq.1734.js",
+      "url": "www.163.gogoal.com.cn/ponews/229288_468385.htm",
+      "size": 418,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "wxehxr.6385.js",
+      "url": "www.qq.gogoal.com.cn/abnews/327954_163160.htm",
+      "size": 283,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "awqmtq.3102.js",
+      "url": "www.163.gogoal.com.cn/ponews/318233_636438.htm",
+      "size": 276,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "pliyox.5197.js",
+      "url": "www.qq.gogoal.com.cn/abnews/333523_656830.htm",
+      "size": 845,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "wqenup.3162.js",
+      "url": "www.163.gogoal.com.cn/ponews/482090_775211.htm",
+      "size": 789,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "tjocml.2977.js",
+      "url": "www.qq.gogoal.com.cn/abnews/886483_120915.htm",
+      "size": 451,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "jmrdco.5667.js",
+      "url": "www.163.gogoal.com.cn/ponews/432513_510408.htm",
+      "size": 268,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "bclwvh.8063.js",
+      "url": "www.qq.gogoal.com.cn/abnews/526572_462338.htm",
+      "size": 789,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "mwemjc.6913.js",
+      "url": "www.163.gogoal.com.cn/ponews/573394_831225.htm",
+      "size": 449,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "bgczoi.6459.js",
+      "url": "www.qq.gogoal.com.cn/abnews/876559_354045.htm",
+      "size": 447,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "lishse.9752.js",
+      "url": "www.163.gogoal.com.cn/ponews/582439_424647.htm",
+      "size": 260,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "sdlhcs.1088.js",
+      "url": "www.qq.gogoal.com.cn/abnews/280345_549614.htm",
+      "size": 832,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "xaaiul.1856.js",
+      "url": "www.163.gogoal.com.cn/ponews/415964_282386.htm",
+      "size": 895,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ynkoih.3942.js",
+      "url": "www.qq.gogoal.com.cn/abnews/560234_014429.htm",
+      "size": 453,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "hupule.8278.js",
+      "url": "www.163.gogoal.com.cn/ponews/421835_786283.htm",
+      "size": 627,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "lgeesy.6607.js",
+      "url": "www.qq.gogoal.com.cn/abnews/575775_080181.htm",
+      "size": 504,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "bxnhkl.6984.js",
+      "url": "www.163.gogoal.com.cn/ponews/739404_110305.htm",
+      "size": 133,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "lwmnrv.6529.js",
+      "url": "www.qq.gogoal.com.cn/abnews/259870_927220.htm",
+      "size": 826,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "xwppcm.4228.js",
+      "url": "www.163.gogoal.com.cn/ponews/173820_383482.htm",
+      "size": 469,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "tqatgs.2375.js",
+      "url": "www.qq.gogoal.com.cn/abnews/789680_214145.htm",
+      "size": 566,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "fvbuez.1096.js",
+      "url": "www.163.gogoal.com.cn/ponews/137094_149320.htm",
+      "size": 254,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "isgybq.1472.js",
+      "url": "www.qq.gogoal.com.cn/abnews/821584_835670.htm",
+      "size": 363,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "uuxvif.3999.js",
+      "url": "www.163.gogoal.com.cn/ponews/581644_279660.htm",
+      "size": 179,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "pvmkag.6264.js",
+      "url": "www.qq.gogoal.com.cn/abnews/077337_170618.htm",
+      "size": 188,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "mzxrnz.7088.js",
+      "url": "www.163.gogoal.com.cn/ponews/196046_748534.htm",
+      "size": 885,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "hotzkn.8301.js",
+      "url": "www.qq.gogoal.com.cn/abnews/885376_804475.htm",
+      "size": 870,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "wfpyjk.6605.js",
+      "url": "www.163.gogoal.com.cn/ponews/261530_112463.htm",
+      "size": 99,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "dsiheh.6968.js",
+      "url": "www.qq.gogoal.com.cn/abnews/459963_337182.htm",
+      "size": 128,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "rsviob.8027.js",
+      "url": "www.163.gogoal.com.cn/ponews/891339_430963.htm",
+      "size": 450,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "iyfgap.7430.js",
+      "url": "www.qq.gogoal.com.cn/abnews/311350_048014.htm",
+      "size": 192,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "cnvhuo.6225.js",
+      "url": "www.163.gogoal.com.cn/ponews/480426_436311.htm",
+      "size": 518,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "afvoqm.2721.js",
+      "url": "www.qq.gogoal.com.cn/abnews/804646_135812.htm",
+      "size": 88,
+      "cache": "long",
+      "deps": []
+    },
+    {
+      "name": "fwqxgi.5315.js",
+      "url": "www.163.gogoal.com.cn/ponews/919234_079296.htm",
+      "size": 339,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ilyxrt.5625.js",
+      "url": "www.qq.gogoal.com.cn/abnews/184697_216399.htm",
+      "size": 855,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "vbodex.3188.js",
+      "url": "www.163.gogoal.com.cn/ponews/771139_672293.htm",
+      "size": 71,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "wqbcjy.4028.js",
+      "url": "www.qq.gogoal.com.cn/abnews/974196_941918.htm",
+      "size": 867,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "apianm.5375.js",
+      "url": "www.163.gogoal.com.cn/ponews/209929_724627.htm",
+      "size": 682,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "aurqzt.6951.js",
+      "url": "www.qq.gogoal.com.cn/abnews/047391_605277.htm",
+      "size": 261,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "tbljui.5663.js",
+      "url": "www.163.gogoal.com.cn/ponews/973692_555423.htm",
+      "size": 447,
+      "cache": "long",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "eyyzuz.2143.js",
+      "url": "www.qq.gogoal.com.cn/abnews/350619_515869.htm",
+      "size": 415,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "tvuoql.6785.js",
+      "url": "www.163.gogoal.com.cn/ponews/494282_456369.htm",
+      "size": 716,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "gtprzh.3375.js",
+      "url": "www.qq.gogoal.com.cn/abnews/684372_399175.htm",
+      "size": 196,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "wevcxf.7160.js",
+      "url": "www.163.gogoal.com.cn/ponews/401241_179191.htm",
+      "size": 729,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "cmcgeb.5963.js",
+      "url": "www.qq.gogoal.com.cn/abnews/779559_303323.htm",
+      "size": 550,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "iwexve.6950.js",
+      "url": "www.163.gogoal.com.cn/ponews/806344_582494.htm",
+      "size": 696,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "nrhkmu.4346.js",
+      "url": "www.qq.gogoal.com.cn/abnews/123305_951779.htm",
+      "size": 355,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "tyyjhr.6153.js",
+      "url": "www.163.gogoal.com.cn/ponews/313758_258770.htm",
+      "size": 677,
+      "cache": "no-store",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "zogdop.2808.js",
+      "url": "www.qq.gogoal.com.cn/abnews/403613_041342.htm",
+      "size": 612,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "atdjwb.3184.js",
+      "url": "www.163.gogoal.com.cn/ponews/761110_537018.htm",
+      "size": 222,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "dlzwis.2917.js",
+      "url": "www.qq.gogoal.com.cn/abnews/670396_365969.htm",
+      "size": 157,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "ckleqz.0210.js",
+      "url": "www.163.gogoal.com.cn/ponews/852526_122992.htm",
+      "size": 531,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "ehtpfp.3685.js",
+      "url": "www.qq.gogoal.com.cn/abnews/139598_699778.htm",
+      "size": 251,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "mfvrga.5034.js",
+      "url": "www.163.gogoal.com.cn/ponews/241958_224482.htm",
+      "size": 389,
+      "cache": "short",
+      "deps": [
+        "vendor",
+        "polyfill"
+      ]
+    },
+    {
+      "name": "ulzzwn.8467.js",
+      "url": "www.qq.gogoal.com.cn/abnews/541231_713017.htm",
+      "size": 42,
+      "cache": "long",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "tdtnfx.7777.js",
+      "url": "www.163.gogoal.com.cn/ponews/280565_560772.htm",
+      "size": 191,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "fygcfs.1397.js",
+      "url": "www.qq.gogoal.com.cn/abnews/329243_885958.htm",
+      "size": 878,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "trntqs.8971.js",
+      "url": "www.163.gogoal.com.cn/ponews/544202_102971.htm",
+      "size": 53,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "duinph.4948.js",
+      "url": "www.qq.gogoal.com.cn/abnews/373894_083882.htm",
+      "size": 703,
+      "cache": "short",
+      "deps": []
+    },
+    {
+      "name": "fomtwv.4458.js",
+      "url": "www.163.gogoal.com.cn/ponews/075787_212569.htm",
+      "size": 202,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "drbsgw.3457.js",
+      "url": "www.qq.gogoal.com.cn/abnews/270393_009782.htm",
+      "size": 891,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "vhjyzw.3888.js",
+      "url": "www.163.gogoal.com.cn/ponews/927834_401614.htm",
+      "size": 34,
+      "cache": "short",
+      "deps": [
+        "vendor"
+      ]
+    },
+    {
+      "name": "hlrowd.1389.js",
+      "url": "www.qq.gogoal.com.cn/abnews/993858_749609.htm",
+      "size": 205,
+      "cache": "no-store",
+      "deps": []
+    },
+    {
+      "name": "gpirff.9794.js",
+      "url": "www.163.gogoal.com.cn/ponews/464938_515636.htm",
+      "size": 147,
+      "cache": "no-store",
+      "deps": [
+        "vendor"
+      ]
+    }
+  ]
+}
