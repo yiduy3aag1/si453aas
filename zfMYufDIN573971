@@ -1,0 +1,2089 @@
+{
+  "package": {
+    "name": "限时权益价22.99-29.19万元，阔五座SUV启境GX7正式上市",
+    "version": "3.2.4",
+    "generated": "2026-09-25 00:18:59"
+  },
+  "dist": [
+    {
+      "file": "eywphp-0214.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/792988_709355.htm",
+      "size": 159,
+      "checksum": "54265613"
+    },
+    {
+      "file": "ahedpj-0165.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/401695_418161.htm",
+      "size": 407,
+      "checksum": "71197589"
+    },
+    {
+      "file": "clgtog-6794.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/519066_962629.htm",
+      "size": 377,
+      "checksum": "41074685"
+    },
+    {
+      "file": "ezjpyh-5623.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/063637_571075.htm",
+      "size": 327,
+      "checksum": "96112229"
+    },
+    {
+      "file": "kykvxm-7860.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/695005_338121.htm",
+      "size": 370,
+      "checksum": "60477535"
+    },
+    {
+      "file": "sbksot-9693.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/654500_757650.htm",
+      "size": 16,
+      "checksum": "28433052"
+    },
+    {
+      "file": "uxdyvk-0544.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/565358_296700.htm",
+      "size": 158,
+      "checksum": "94059231"
+    },
+    {
+      "file": "cosxlx-4715.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/425172_618616.htm",
+      "size": 385,
+      "checksum": "69625113"
+    },
+    {
+      "file": "ildtmg-9021.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/219991_992318.htm",
+      "size": 90,
+      "checksum": "65430040"
+    },
+    {
+      "file": "hczmlu-0426.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/567596_667704.htm",
+      "size": 377,
+      "checksum": "69347018"
+    },
+    {
+      "file": "vyivbz-3330.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/404013_441560.htm",
+      "size": 448,
+      "checksum": "15159882"
+    },
+    {
+      "file": "tsnmmu-2244.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/763953_257255.htm",
+      "size": 11,
+      "checksum": "74062083"
+    },
+    {
+      "file": "rgcods-4260.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/609655_415304.htm",
+      "size": 209,
+      "checksum": "09990443"
+    },
+    {
+      "file": "bmutxv-9007.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/813225_037925.htm",
+      "size": 72,
+      "checksum": "58059636"
+    },
+    {
+      "file": "kzaddk-2282.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/737979_258437.htm",
+      "size": 166,
+      "checksum": "91682998"
+    },
+    {
+      "file": "lzfbhm-3939.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/461702_138957.htm",
+      "size": 440,
+      "checksum": "85454114"
+    },
+    {
+      "file": "htbqec-0910.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/746774_561950.htm",
+      "size": 206,
+      "checksum": "83918593"
+    },
+    {
+      "file": "tugmmi-0358.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/355688_228126.htm",
+      "size": 438,
+      "checksum": "40524175"
+    },
+    {
+      "file": "atuucn-7989.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/447965_548899.htm",
+      "size": 285,
+      "checksum": "02033063"
+    },
+    {
+      "file": "qwuifn-6886.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/614374_207203.htm",
+      "size": 463,
+      "checksum": "69751774"
+    },
+    {
+      "file": "wakvqx-7811.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/097196_357094.htm",
+      "size": 265,
+      "checksum": "12324703"
+    },
+    {
+      "file": "zmyrvz-9545.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/277225_458461.htm",
+      "size": 456,
+      "checksum": "70048916"
+    },
+    {
+      "file": "jiciit-5264.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/647923_481144.htm",
+      "size": 183,
+      "checksum": "27688145"
+    },
+    {
+      "file": "ttzczh-9890.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/383967_829927.htm",
+      "size": 22,
+      "checksum": "59800184"
+    },
+    {
+      "file": "vvfdea-0865.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/911944_888825.htm",
+      "size": 424,
+      "checksum": "62553232"
+    },
+    {
+      "file": "fcoqha-2529.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/309593_525706.htm",
+      "size": 378,
+      "checksum": "68589901"
+    },
+    {
+      "file": "dzqfus-1743.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/179735_367570.htm",
+      "size": 436,
+      "checksum": "82305732"
+    },
+    {
+      "file": "rkwnqz-7191.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/160120_329913.htm",
+      "size": 67,
+      "checksum": "14255344"
+    },
+    {
+      "file": "gkjdet-4596.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/552439_085869.htm",
+      "size": 259,
+      "checksum": "85340813"
+    },
+    {
+      "file": "nufhjw-8821.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/396401_611471.htm",
+      "size": 54,
+      "checksum": "74489316"
+    },
+    {
+      "file": "ugusvr-0290.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/684727_619299.htm",
+      "size": 289,
+      "checksum": "57364465"
+    },
+    {
+      "file": "qpzilq-0302.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/938269_187839.htm",
+      "size": 308,
+      "checksum": "00942013"
+    },
+    {
+      "file": "zcxeug-8643.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/646536_983366.htm",
+      "size": 290,
+      "checksum": "46660885"
+    },
+    {
+      "file": "rysftt-9197.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/541267_974674.htm",
+      "size": 80,
+      "checksum": "01560961"
+    },
+    {
+      "file": "hyjxmx-9466.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/805971_508358.htm",
+      "size": 22,
+      "checksum": "28308988"
+    },
+    {
+      "file": "yilyik-5342.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/199314_149855.htm",
+      "size": 449,
+      "checksum": "32776533"
+    },
+    {
+      "file": "vpndqj-5087.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/451098_339776.htm",
+      "size": 80,
+      "checksum": "13170779"
+    },
+    {
+      "file": "jqfgwe-8163.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/138019_514894.htm",
+      "size": 76,
+      "checksum": "23447613"
+    },
+    {
+      "file": "lkaaoy-2553.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/982616_282153.htm",
+      "size": 364,
+      "checksum": "60187498"
+    },
+    {
+      "file": "axpvln-4231.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/615180_060620.htm",
+      "size": 14,
+      "checksum": "41154239"
+    },
+    {
+      "file": "tudwhk-0171.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/469304_084079.htm",
+      "size": 377,
+      "checksum": "75941923"
+    },
+    {
+      "file": "bkbbjq-2414.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/437950_758781.htm",
+      "size": 40,
+      "checksum": "48230489"
+    },
+    {
+      "file": "cthunf-2834.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/889498_334486.htm",
+      "size": 359,
+      "checksum": "60391258"
+    },
+    {
+      "file": "tqlmgh-7684.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/838617_734157.htm",
+      "size": 230,
+      "checksum": "55919507"
+    },
+    {
+      "file": "kzvtwd-5695.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/745621_732058.htm",
+      "size": 50,
+      "checksum": "78517657"
+    },
+    {
+      "file": "qzcwrp-6855.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/286706_139059.htm",
+      "size": 379,
+      "checksum": "92620214"
+    },
+    {
+      "file": "mprhly-4520.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/399859_551245.htm",
+      "size": 182,
+      "checksum": "58349491"
+    },
+    {
+      "file": "dyflma-1862.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/203658_592357.htm",
+      "size": 439,
+      "checksum": "54600093"
+    },
+    {
+      "file": "guqowo-8117.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/509324_888380.htm",
+      "size": 207,
+      "checksum": "01956079"
+    },
+    {
+      "file": "jjzqmi-2630.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/123010_467322.htm",
+      "size": 305,
+      "checksum": "65364225"
+    },
+    {
+      "file": "puowhm-1470.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/223851_435563.htm",
+      "size": 448,
+      "checksum": "40759859"
+    },
+    {
+      "file": "pejkdn-2423.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/340461_763889.htm",
+      "size": 333,
+      "checksum": "37728963"
+    },
+    {
+      "file": "hqvwea-2776.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/930459_526991.htm",
+      "size": 166,
+      "checksum": "32573195"
+    },
+    {
+      "file": "yyscgo-8962.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/959579_683422.htm",
+      "size": 83,
+      "checksum": "78957398"
+    },
+    {
+      "file": "twljiy-1989.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/331816_886463.htm",
+      "size": 145,
+      "checksum": "56069527"
+    },
+    {
+      "file": "isixmb-1236.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/432822_098943.htm",
+      "size": 139,
+      "checksum": "96245719"
+    },
+    {
+      "file": "ihydbn-2712.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/757460_484489.htm",
+      "size": 473,
+      "checksum": "10805806"
+    },
+    {
+      "file": "nahwen-8875.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/808055_756106.htm",
+      "size": 118,
+      "checksum": "60717436"
+    },
+    {
+      "file": "uedzzx-6640.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/971286_014720.htm",
+      "size": 300,
+      "checksum": "94559380"
+    },
+    {
+      "file": "rqorpk-2499.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/636723_648481.htm",
+      "size": 232,
+      "checksum": "18984773"
+    },
+    {
+      "file": "uxldbg-6296.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/123259_897386.htm",
+      "size": 148,
+      "checksum": "98753083"
+    },
+    {
+      "file": "lqsqoi-0964.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/557883_795651.htm",
+      "size": 80,
+      "checksum": "11206012"
+    },
+    {
+      "file": "envyki-6896.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/672184_542317.htm",
+      "size": 203,
+      "checksum": "04098501"
+    },
+    {
+      "file": "sdqyag-7311.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/737012_155265.htm",
+      "size": 278,
+      "checksum": "38813410"
+    },
+    {
+      "file": "cnynvh-7020.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/123741_452836.htm",
+      "size": 422,
+      "checksum": "52503520"
+    },
+    {
+      "file": "zykoar-3557.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/784983_153319.htm",
+      "size": 243,
+      "checksum": "99127370"
+    },
+    {
+      "file": "kvrkhp-5703.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/483673_548785.htm",
+      "size": 162,
+      "checksum": "20605845"
+    },
+    {
+      "file": "lolzmc-6518.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/538951_321634.htm",
+      "size": 148,
+      "checksum": "89391628"
+    },
+    {
+      "file": "bgnmdn-1484.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/571776_738125.htm",
+      "size": 362,
+      "checksum": "92510019"
+    },
+    {
+      "file": "rbekaw-8220.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/223782_754578.htm",
+      "size": 157,
+      "checksum": "79871875"
+    },
+    {
+      "file": "ognmpv-3715.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/758410_129342.htm",
+      "size": 110,
+      "checksum": "97614761"
+    },
+    {
+      "file": "menael-6594.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/203732_849785.htm",
+      "size": 108,
+      "checksum": "22171443"
+    },
+    {
+      "file": "qlhano-7078.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/184785_317975.htm",
+      "size": 326,
+      "checksum": "10153483"
+    },
+    {
+      "file": "downtf-6258.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/349217_268535.htm",
+      "size": 145,
+      "checksum": "67561430"
+    },
+    {
+      "file": "zvsqfo-0241.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/918251_381688.htm",
+      "size": 227,
+      "checksum": "68051453"
+    },
+    {
+      "file": "dqoils-7576.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/091341_987721.htm",
+      "size": 372,
+      "checksum": "73788437"
+    },
+    {
+      "file": "xwbmvi-9755.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/968053_486975.htm",
+      "size": 363,
+      "checksum": "89292813"
+    },
+    {
+      "file": "iwbmbo-6431.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/871016_213283.htm",
+      "size": 240,
+      "checksum": "59060025"
+    },
+    {
+      "file": "rzclpc-4511.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/237340_831051.htm",
+      "size": 167,
+      "checksum": "56551316"
+    },
+    {
+      "file": "thcgoy-4295.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/657310_380726.htm",
+      "size": 318,
+      "checksum": "96321962"
+    },
+    {
+      "file": "mqlkxh-4231.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/934776_584582.htm",
+      "size": 108,
+      "checksum": "90347224"
+    },
+    {
+      "file": "epsjll-2132.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/522196_398073.htm",
+      "size": 186,
+      "checksum": "94494970"
+    },
+    {
+      "file": "uugfqo-3701.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/990941_136709.htm",
+      "size": 299,
+      "checksum": "43676849"
+    },
+    {
+      "file": "xhbsmk-7120.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/007629_603273.htm",
+      "size": 93,
+      "checksum": "84687765"
+    },
+    {
+      "file": "butkzr-7569.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/881895_811254.htm",
+      "size": 472,
+      "checksum": "84340805"
+    },
+    {
+      "file": "doynhw-9537.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/411282_915650.htm",
+      "size": 294,
+      "checksum": "63829652"
+    },
+    {
+      "file": "ulzwim-2376.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/997981_273794.htm",
+      "size": 320,
+      "checksum": "67168126"
+    },
+    {
+      "file": "dgwbdi-1177.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/405418_372519.htm",
+      "size": 81,
+      "checksum": "96154047"
+    },
+    {
+      "file": "mujpky-6763.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/758779_063677.htm",
+      "size": 434,
+      "checksum": "28097373"
+    },
+    {
+      "file": "sjxdhd-5548.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/784098_486969.htm",
+      "size": 71,
+      "checksum": "64617138"
+    },
+    {
+      "file": "xrppwh-2814.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/341314_478779.htm",
+      "size": 94,
+      "checksum": "48311732"
+    },
+    {
+      "file": "ejoztd-6001.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/279545_219007.htm",
+      "size": 423,
+      "checksum": "37608910"
+    },
+    {
+      "file": "nwpruu-3642.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/191440_085285.htm",
+      "size": 70,
+      "checksum": "68044803"
+    },
+    {
+      "file": "xokgcx-9026.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/267065_584040.htm",
+      "size": 75,
+      "checksum": "54861412"
+    },
+    {
+      "file": "hhzkjx-8064.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/688442_853975.htm",
+      "size": 464,
+      "checksum": "68366597"
+    },
+    {
+      "file": "wxxcsy-8569.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/219432_463900.htm",
+      "size": 113,
+      "checksum": "05865611"
+    },
+    {
+      "file": "chsewj-5569.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/841992_413637.htm",
+      "size": 307,
+      "checksum": "65044387"
+    },
+    {
+      "file": "beqiru-9293.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/280082_633163.htm",
+      "size": 27,
+      "checksum": "82972987"
+    },
+    {
+      "file": "brdzpk-7638.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/301442_687374.htm",
+      "size": 475,
+      "checksum": "28909684"
+    },
+    {
+      "file": "vnwdfu-9869.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/021959_934794.htm",
+      "size": 479,
+      "checksum": "24721303"
+    },
+    {
+      "file": "robest-8057.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/263590_466027.htm",
+      "size": 368,
+      "checksum": "88517913"
+    },
+    {
+      "file": "jrozbm-6501.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/163298_852816.htm",
+      "size": 397,
+      "checksum": "87521869"
+    },
+    {
+      "file": "hdpwdl-9897.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/058520_216442.htm",
+      "size": 192,
+      "checksum": "31864466"
+    },
+    {
+      "file": "ysaflo-0531.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/331630_223620.htm",
+      "size": 56,
+      "checksum": "03403751"
+    },
+    {
+      "file": "woiwre-3485.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/066678_204995.htm",
+      "size": 185,
+      "checksum": "24682908"
+    },
+    {
+      "file": "sawkqj-8118.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/565289_808678.htm",
+      "size": 381,
+      "checksum": "56681844"
+    },
+    {
+      "file": "teppbc-0192.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/256480_507047.htm",
+      "size": 500,
+      "checksum": "37011029"
+    },
+    {
+      "file": "lwwmrl-2899.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/471970_213110.htm",
+      "size": 25,
+      "checksum": "85524712"
+    },
+    {
+      "file": "ritllm-9742.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/747720_136785.htm",
+      "size": 128,
+      "checksum": "19260129"
+    },
+    {
+      "file": "fawkly-5828.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/136629_586753.htm",
+      "size": 391,
+      "checksum": "87598888"
+    },
+    {
+      "file": "htayqw-6201.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/486971_697933.htm",
+      "size": 91,
+      "checksum": "63531739"
+    },
+    {
+      "file": "mjljsx-6154.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/684453_968712.htm",
+      "size": 258,
+      "checksum": "52401968"
+    },
+    {
+      "file": "dpkwiz-9006.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/555459_091381.htm",
+      "size": 314,
+      "checksum": "76090549"
+    },
+    {
+      "file": "aycivo-6217.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/007130_139072.htm",
+      "size": 56,
+      "checksum": "89411770"
+    },
+    {
+      "file": "icvgid-7088.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/369753_095846.htm",
+      "size": 98,
+      "checksum": "59555640"
+    },
+    {
+      "file": "fotodk-6311.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/612311_653487.htm",
+      "size": 180,
+      "checksum": "88657607"
+    },
+    {
+      "file": "bcqrai-3696.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/303054_121953.htm",
+      "size": 139,
+      "checksum": "76735026"
+    },
+    {
+      "file": "dvrdpx-7535.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/537857_046253.htm",
+      "size": 189,
+      "checksum": "74340199"
+    },
+    {
+      "file": "lulrxn-7063.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/437148_962007.htm",
+      "size": 499,
+      "checksum": "33186336"
+    },
+    {
+      "file": "wumara-4599.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/753065_833949.htm",
+      "size": 395,
+      "checksum": "81409993"
+    },
+    {
+      "file": "ahjqjy-7572.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/310427_805219.htm",
+      "size": 117,
+      "checksum": "31627330"
+    },
+    {
+      "file": "uhnkbv-4975.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/244822_977397.htm",
+      "size": 134,
+      "checksum": "48356159"
+    },
+    {
+      "file": "iuvfvl-9559.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/721338_454434.htm",
+      "size": 396,
+      "checksum": "20678062"
+    },
+    {
+      "file": "fbjfjq-7727.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/805106_879563.htm",
+      "size": 295,
+      "checksum": "37196425"
+    },
+    {
+      "file": "mbados-3411.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/871577_753707.htm",
+      "size": 137,
+      "checksum": "91512213"
+    },
+    {
+      "file": "rgnjud-8530.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/631707_979279.htm",
+      "size": 500,
+      "checksum": "81750960"
+    },
+    {
+      "file": "bynsys-6549.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/667139_086849.htm",
+      "size": 387,
+      "checksum": "77951238"
+    },
+    {
+      "file": "ouzbsi-7055.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/721534_903155.htm",
+      "size": 60,
+      "checksum": "65471922"
+    },
+    {
+      "file": "bhznyh-4537.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/141909_221446.htm",
+      "size": 73,
+      "checksum": "75714479"
+    },
+    {
+      "file": "raovqy-7080.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/818002_270924.htm",
+      "size": 374,
+      "checksum": "69059985"
+    },
+    {
+      "file": "wjvtqk-2159.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/314718_183423.htm",
+      "size": 75,
+      "checksum": "02347259"
+    },
+    {
+      "file": "roxbzb-6297.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/644260_435735.htm",
+      "size": 185,
+      "checksum": "02875502"
+    },
+    {
+      "file": "qfnseg-7100.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/977018_823077.htm",
+      "size": 58,
+      "checksum": "35403433"
+    },
+    {
+      "file": "huxabx-7145.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/838199_173011.htm",
+      "size": 304,
+      "checksum": "70518719"
+    },
+    {
+      "file": "ucqmpk-4719.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/412428_812992.htm",
+      "size": 444,
+      "checksum": "66171244"
+    },
+    {
+      "file": "csxuxw-5724.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/131143_419867.htm",
+      "size": 464,
+      "checksum": "49303066"
+    },
+    {
+      "file": "rzmgyq-4215.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/744579_516641.htm",
+      "size": 145,
+      "checksum": "91364144"
+    },
+    {
+      "file": "fagfrh-1052.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/223174_875364.htm",
+      "size": 435,
+      "checksum": "76942425"
+    },
+    {
+      "file": "zlukqg-4727.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/006858_539903.htm",
+      "size": 391,
+      "checksum": "41291007"
+    },
+    {
+      "file": "dfeddd-4692.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/250737_260997.htm",
+      "size": 124,
+      "checksum": "47947643"
+    },
+    {
+      "file": "cqbyeu-9246.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/068830_412254.htm",
+      "size": 110,
+      "checksum": "54204786"
+    },
+    {
+      "file": "icugts-3581.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/775678_143946.htm",
+      "size": 198,
+      "checksum": "91322186"
+    },
+    {
+      "file": "wtoarm-3348.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/390393_455910.htm",
+      "size": 197,
+      "checksum": "34871402"
+    },
+    {
+      "file": "globyl-6671.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/381221_424518.htm",
+      "size": 345,
+      "checksum": "66616010"
+    },
+    {
+      "file": "uhhvbl-4892.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/824590_015672.htm",
+      "size": 325,
+      "checksum": "00558904"
+    },
+    {
+      "file": "hucysv-7018.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/485475_346712.htm",
+      "size": 69,
+      "checksum": "73767885"
+    },
+    {
+      "file": "bhdhki-1077.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/183926_621417.htm",
+      "size": 90,
+      "checksum": "20303255"
+    },
+    {
+      "file": "xcvfwi-9159.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/380073_621451.htm",
+      "size": 251,
+      "checksum": "52373454"
+    },
+    {
+      "file": "ybifey-5240.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/702162_183811.htm",
+      "size": 109,
+      "checksum": "93461453"
+    },
+    {
+      "file": "qhsnai-1092.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/722948_122757.htm",
+      "size": 129,
+      "checksum": "74582461"
+    },
+    {
+      "file": "cvntqs-7185.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/135141_757414.htm",
+      "size": 467,
+      "checksum": "21072319"
+    },
+    {
+      "file": "lsscep-1908.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/949263_141938.htm",
+      "size": 128,
+      "checksum": "59176760"
+    },
+    {
+      "file": "dfkrct-5744.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/634561_458101.htm",
+      "size": 311,
+      "checksum": "27402701"
+    },
+    {
+      "file": "meekcj-3180.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/604337_329376.htm",
+      "size": 76,
+      "checksum": "16300572"
+    },
+    {
+      "file": "ybohpd-7344.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/104224_915352.htm",
+      "size": 231,
+      "checksum": "43367651"
+    },
+    {
+      "file": "tmzxru-5990.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/911712_722453.htm",
+      "size": 268,
+      "checksum": "70459175"
+    },
+    {
+      "file": "vefzpa-2967.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/437419_108493.htm",
+      "size": 476,
+      "checksum": "63992707"
+    },
+    {
+      "file": "wvvgty-0781.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/305910_921724.htm",
+      "size": 150,
+      "checksum": "79878831"
+    },
+    {
+      "file": "vkesdk-5491.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/154372_742280.htm",
+      "size": 195,
+      "checksum": "48241402"
+    },
+    {
+      "file": "hqtpzf-4593.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/630265_579396.htm",
+      "size": 16,
+      "checksum": "06546538"
+    },
+    {
+      "file": "bdjjgu-7141.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/332029_261853.htm",
+      "size": 425,
+      "checksum": "52791087"
+    },
+    {
+      "file": "wcxooa-6744.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/203841_509713.htm",
+      "size": 231,
+      "checksum": "12522752"
+    },
+    {
+      "file": "poqsuj-6576.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/252098_664785.htm",
+      "size": 46,
+      "checksum": "25949938"
+    },
+    {
+      "file": "aefnzv-7142.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/399119_038174.htm",
+      "size": 337,
+      "checksum": "89927860"
+    },
+    {
+      "file": "aufskm-7297.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/679066_585827.htm",
+      "size": 65,
+      "checksum": "61006144"
+    },
+    {
+      "file": "setfxh-5338.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/535160_768889.htm",
+      "size": 11,
+      "checksum": "74577737"
+    },
+    {
+      "file": "wypoxi-8340.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/659273_860838.htm",
+      "size": 152,
+      "checksum": "92370707"
+    },
+    {
+      "file": "kesfcm-0656.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/076804_326879.htm",
+      "size": 212,
+      "checksum": "35854385"
+    },
+    {
+      "file": "rprfic-2855.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/117144_972124.htm",
+      "size": 181,
+      "checksum": "69648145"
+    },
+    {
+      "file": "mpwjgi-1733.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/919424_555267.htm",
+      "size": 158,
+      "checksum": "28817109"
+    },
+    {
+      "file": "tucwag-1540.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/930391_001347.htm",
+      "size": 281,
+      "checksum": "16724454"
+    },
+    {
+      "file": "sjntyy-0109.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/903909_868180.htm",
+      "size": 38,
+      "checksum": "40220901"
+    },
+    {
+      "file": "uzfhqh-3888.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/254698_960762.htm",
+      "size": 41,
+      "checksum": "21241007"
+    },
+    {
+      "file": "tvfwuf-2268.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/236817_989511.htm",
+      "size": 238,
+      "checksum": "24305036"
+    },
+    {
+      "file": "njqagc-5467.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/420792_939321.htm",
+      "size": 9,
+      "checksum": "16033023"
+    },
+    {
+      "file": "uppcme-9244.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/869404_990032.htm",
+      "size": 385,
+      "checksum": "09122698"
+    },
+    {
+      "file": "mufeil-8858.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/773693_981660.htm",
+      "size": 499,
+      "checksum": "04408781"
+    },
+    {
+      "file": "ygjntf-1403.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/368598_613667.htm",
+      "size": 211,
+      "checksum": "50555685"
+    },
+    {
+      "file": "zsavrl-6709.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/307413_116411.htm",
+      "size": 141,
+      "checksum": "09179028"
+    },
+    {
+      "file": "xjeuta-3016.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/926088_004762.htm",
+      "size": 363,
+      "checksum": "03719942"
+    },
+    {
+      "file": "maqosx-8430.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/124871_225645.htm",
+      "size": 252,
+      "checksum": "69881038"
+    },
+    {
+      "file": "zgjwdm-0628.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/544274_065694.htm",
+      "size": 310,
+      "checksum": "23639310"
+    },
+    {
+      "file": "xgyhyd-3058.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/807788_920717.htm",
+      "size": 459,
+      "checksum": "95324953"
+    },
+    {
+      "file": "rpkdso-6220.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/950768_759894.htm",
+      "size": 13,
+      "checksum": "58982826"
+    },
+    {
+      "file": "zpyvhz-3942.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/510202_979104.htm",
+      "size": 481,
+      "checksum": "37158276"
+    },
+    {
+      "file": "xgbiwm-8782.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/945519_141787.htm",
+      "size": 19,
+      "checksum": "44929500"
+    },
+    {
+      "file": "hrvntx-1385.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/573319_925415.htm",
+      "size": 409,
+      "checksum": "52327020"
+    },
+    {
+      "file": "rfkvmg-9887.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/343598_784836.htm",
+      "size": 162,
+      "checksum": "88724078"
+    },
+    {
+      "file": "rgirzd-3199.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/357883_006063.htm",
+      "size": 47,
+      "checksum": "00828444"
+    },
+    {
+      "file": "pelznx-2410.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/896934_600714.htm",
+      "size": 285,
+      "checksum": "57340236"
+    },
+    {
+      "file": "vtgnfh-2732.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/755352_844270.htm",
+      "size": 215,
+      "checksum": "96163141"
+    },
+    {
+      "file": "osgzqx-1469.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/932269_521043.htm",
+      "size": 289,
+      "checksum": "24936298"
+    },
+    {
+      "file": "fvraxu-6217.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/066504_048967.htm",
+      "size": 476,
+      "checksum": "08834316"
+    },
+    {
+      "file": "afrbeg-9506.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/681325_569106.htm",
+      "size": 369,
+      "checksum": "18924290"
+    },
+    {
+      "file": "bruqdw-9058.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/596189_451370.htm",
+      "size": 9,
+      "checksum": "94449631"
+    },
+    {
+      "file": "hccyrm-2324.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/584917_809245.htm",
+      "size": 267,
+      "checksum": "28640886"
+    },
+    {
+      "file": "zevklh-3813.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/745041_754571.htm",
+      "size": 97,
+      "checksum": "60258982"
+    },
+    {
+      "file": "lbrzzz-3193.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/480029_805729.htm",
+      "size": 431,
+      "checksum": "07660437"
+    },
+    {
+      "file": "oqpooj-4697.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/421963_262568.htm",
+      "size": 18,
+      "checksum": "15193187"
+    },
+    {
+      "file": "pcurhg-5063.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/855784_001490.htm",
+      "size": 461,
+      "checksum": "96044313"
+    },
+    {
+      "file": "ptxgtk-3203.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/154129_525710.htm",
+      "size": 63,
+      "checksum": "63682627"
+    },
+    {
+      "file": "akppun-5715.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/123156_832560.htm",
+      "size": 420,
+      "checksum": "69908632"
+    },
+    {
+      "file": "oelakq-7227.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/284417_709312.htm",
+      "size": 326,
+      "checksum": "50861650"
+    },
+    {
+      "file": "gwdmri-9303.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/805046_125769.htm",
+      "size": 369,
+      "checksum": "43636108"
+    },
+    {
+      "file": "srsego-1253.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/441932_075998.htm",
+      "size": 318,
+      "checksum": "05792209"
+    },
+    {
+      "file": "ecpqyd-8889.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/765966_605737.htm",
+      "size": 4,
+      "checksum": "48504668"
+    },
+    {
+      "file": "qmmqux-9902.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/792253_274937.htm",
+      "size": 187,
+      "checksum": "02233960"
+    },
+    {
+      "file": "axfdjp-9465.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/490967_973197.htm",
+      "size": 282,
+      "checksum": "47323605"
+    },
+    {
+      "file": "dgaeya-0113.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/794313_288726.htm",
+      "size": 126,
+      "checksum": "49733916"
+    },
+    {
+      "file": "iqopyw-1922.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/685198_492781.htm",
+      "size": 355,
+      "checksum": "06992931"
+    },
+    {
+      "file": "vteuir-4442.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/403272_849970.htm",
+      "size": 121,
+      "checksum": "30409427"
+    },
+    {
+      "file": "ffgqbd-7449.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/574557_176690.htm",
+      "size": 5,
+      "checksum": "08219245"
+    },
+    {
+      "file": "xintzs-0995.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/754959_187349.htm",
+      "size": 49,
+      "checksum": "04660652"
+    },
+    {
+      "file": "iaqqma-2815.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/852864_402903.htm",
+      "size": 3,
+      "checksum": "75450576"
+    },
+    {
+      "file": "vtflol-2834.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/737865_528462.htm",
+      "size": 422,
+      "checksum": "14135670"
+    },
+    {
+      "file": "zesiiy-3332.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/124853_526212.htm",
+      "size": 173,
+      "checksum": "67240654"
+    },
+    {
+      "file": "ioyfop-9959.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/227471_447063.htm",
+      "size": 476,
+      "checksum": "07088109"
+    },
+    {
+      "file": "fieota-5580.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/821903_873513.htm",
+      "size": 348,
+      "checksum": "28591087"
+    },
+    {
+      "file": "fcvkfg-5074.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/834712_051067.htm",
+      "size": 95,
+      "checksum": "91628999"
+    },
+    {
+      "file": "yqsmok-4192.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/069623_979785.htm",
+      "size": 296,
+      "checksum": "65818239"
+    },
+    {
+      "file": "gwmtkf-8658.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/196876_536582.htm",
+      "size": 488,
+      "checksum": "38300360"
+    },
+    {
+      "file": "jhyvmb-9691.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/034362_895731.htm",
+      "size": 375,
+      "checksum": "16629518"
+    },
+    {
+      "file": "ppijni-4620.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/580027_790272.htm",
+      "size": 210,
+      "checksum": "00917244"
+    },
+    {
+      "file": "rxdfcr-7150.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/205688_917390.htm",
+      "size": 268,
+      "checksum": "16161286"
+    },
+    {
+      "file": "puermc-6055.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/960790_792461.htm",
+      "size": 117,
+      "checksum": "86611684"
+    },
+    {
+      "file": "ynlboo-1819.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/599842_275701.htm",
+      "size": 383,
+      "checksum": "57794592"
+    },
+    {
+      "file": "gaelrz-4762.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/439548_721079.htm",
+      "size": 135,
+      "checksum": "07391807"
+    },
+    {
+      "file": "lufvqy-3088.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/008168_460202.htm",
+      "size": 73,
+      "checksum": "56562958"
+    },
+    {
+      "file": "oyxaxc-5790.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/227876_704501.htm",
+      "size": 488,
+      "checksum": "63385678"
+    },
+    {
+      "file": "qluoqy-6986.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/738771_783539.htm",
+      "size": 227,
+      "checksum": "78005604"
+    },
+    {
+      "file": "uesqdf-8223.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/892621_910894.htm",
+      "size": 286,
+      "checksum": "13707017"
+    },
+    {
+      "file": "xacjgb-7185.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/680741_192717.htm",
+      "size": 263,
+      "checksum": "68697235"
+    },
+    {
+      "file": "nnmalj-4603.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/768027_169559.htm",
+      "size": 320,
+      "checksum": "30316581"
+    },
+    {
+      "file": "mfbaqb-7707.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/087755_983648.htm",
+      "size": 86,
+      "checksum": "71978612"
+    },
+    {
+      "file": "pkiqla-4353.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/977162_403852.htm",
+      "size": 65,
+      "checksum": "23698684"
+    },
+    {
+      "file": "zhshaw-9295.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/111515_994691.htm",
+      "size": 118,
+      "checksum": "93706296"
+    },
+    {
+      "file": "jerowg-1448.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/384093_786776.htm",
+      "size": 164,
+      "checksum": "27286406"
+    },
+    {
+      "file": "ifdetm-4841.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/198760_007206.htm",
+      "size": 61,
+      "checksum": "70726106"
+    },
+    {
+      "file": "dymaom-7289.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/320045_648854.htm",
+      "size": 64,
+      "checksum": "50801431"
+    },
+    {
+      "file": "opifqz-2831.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/984064_546852.htm",
+      "size": 302,
+      "checksum": "00550135"
+    },
+    {
+      "file": "voalne-6292.zip",
+      "os": "windows",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/405941_277516.htm",
+      "size": 447,
+      "checksum": "81475848"
+    },
+    {
+      "file": "uunjwh-0670.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/232761_512534.htm",
+      "size": 347,
+      "checksum": "45010741"
+    },
+    {
+      "file": "wecgws-7743.zip",
+      "os": "macos",
+      "arch": "arm64",
+      "url": "www.qq.gogoal.com.cn/abnews/497974_106980.htm",
+      "size": 479,
+      "checksum": "55809974"
+    },
+    {
+      "file": "djknpe-4508.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/711233_030712.htm",
+      "size": 128,
+      "checksum": "52592682"
+    },
+    {
+      "file": "zkugta-0540.zip",
+      "os": "macos",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/982688_382800.htm",
+      "size": 176,
+      "checksum": "84713833"
+    },
+    {
+      "file": "kuiiem-6261.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/808667_548233.htm",
+      "size": 189,
+      "checksum": "75930749"
+    },
+    {
+      "file": "zditgk-4145.zip",
+      "os": "macos",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/925046_948690.htm",
+      "size": 229,
+      "checksum": "96062695"
+    },
+    {
+      "file": "qsydnm-7173.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/222482_784938.htm",
+      "size": 136,
+      "checksum": "43175767"
+    },
+    {
+      "file": "vxrmvw-0731.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/995035_897521.htm",
+      "size": 135,
+      "checksum": "75546783"
+    },
+    {
+      "file": "tlutjj-6450.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/650023_225477.htm",
+      "size": 234,
+      "checksum": "46327088"
+    },
+    {
+      "file": "dlcxgp-7819.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/222977_552623.htm",
+      "size": 306,
+      "checksum": "19334271"
+    },
+    {
+      "file": "phveht-8156.zip",
+      "os": "windows",
+      "arch": "x86",
+      "url": "www.163.gogoal.com.cn/ponews/751830_507680.htm",
+      "size": 460,
+      "checksum": "82714470"
+    },
+    {
+      "file": "pazbji-8198.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/042634_521729.htm",
+      "size": 494,
+      "checksum": "16991492"
+    },
+    {
+      "file": "nypcwr-5030.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/518738_605422.htm",
+      "size": 79,
+      "checksum": "96063239"
+    },
+    {
+      "file": "fqyqvm-8477.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/876190_869722.htm",
+      "size": 44,
+      "checksum": "27708113"
+    },
+    {
+      "file": "yewdci-0145.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/526183_347334.htm",
+      "size": 479,
+      "checksum": "15615563"
+    },
+    {
+      "file": "sonfet-5180.zip",
+      "os": "linux",
+      "arch": "x64",
+      "url": "www.qq.gogoal.com.cn/abnews/420357_261357.htm",
+      "size": 405,
+      "checksum": "03581969"
+    },
+    {
+      "file": "qdxufs-4884.zip",
+      "os": "windows",
+      "arch": "x64",
+      "url": "www.163.gogoal.com.cn/ponews/238378_270354.htm",
+      "size": 340,
+      "checksum": "41135736"
+    },
+    {
+      "file": "julqbs-4338.zip",
+      "os": "linux",
+      "arch": "x86",
+      "url": "www.qq.gogoal.com.cn/abnews/675490_356445.htm",
+      "size": 50,
+      "checksum": "68345979"
+    },
+    {
+      "file": "ypioeu-4314.zip",
+      "os": "linux",
+      "arch": "arm64",
+      "url": "www.163.gogoal.com.cn/ponews/541895_586607.htm",
+      "size": 483,
+      "checksum": "73088744"
+    }
+  ]
+}
