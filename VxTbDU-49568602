@@ -1,0 +1,1759 @@
+{
+  "release": {
+    "title": "升破101关口！美元指数刷新八周高位 加息预期全面点燃",
+    "editor": "杨彦迪",
+    "time": "2026-09-25 00:20:16"
+  },
+  "tracks": [
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/435010_861914.htm",
+      "size": 111,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/861453_504716.htm",
+      "size": 152,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/228040_045638.htm",
+      "size": 122,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/440971_880055.htm",
+      "size": 95,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/196834_234067.htm",
+      "size": 98,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/778272_060110.htm",
+      "size": 157,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/319151_178535.htm",
+      "size": 173,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/011976_261968.htm",
+      "size": 13,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/855402_802856.htm",
+      "size": 196,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/650513_713734.htm",
+      "size": 190,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/145252_323366.htm",
+      "size": 139,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/907154_313829.htm",
+      "size": 22,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/576452_328491.htm",
+      "size": 150,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/267820_400430.htm",
+      "size": 214,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/735567_818936.htm",
+      "size": 56,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/787797_041617.htm",
+      "size": 98,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/004462_075374.htm",
+      "size": 184,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/639867_286647.htm",
+      "size": 240,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/866344_264470.htm",
+      "size": 200,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/214375_369058.htm",
+      "size": 4,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/849973_817279.htm",
+      "size": 86,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/975306_316813.htm",
+      "size": 93,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/760556_616264.htm",
+      "size": 18,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/818684_736659.htm",
+      "size": 172,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/521733_973357.htm",
+      "size": 200,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/751898_609061.htm",
+      "size": 64,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/481017_663838.htm",
+      "size": 159,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/420087_857603.htm",
+      "size": 60,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/637054_059067.htm",
+      "size": 235,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/759748_016470.htm",
+      "size": 230,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/340500_186699.htm",
+      "size": 220,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/458200_692647.htm",
+      "size": 213,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/267257_016776.htm",
+      "size": 85,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/304691_139371.htm",
+      "size": 26,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/201181_083518.htm",
+      "size": 200,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/932576_812735.htm",
+      "size": 93,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/655034_310595.htm",
+      "size": 20,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/625088_498188.htm",
+      "size": 166,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/806703_643445.htm",
+      "size": 8,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/126589_792938.htm",
+      "size": 43,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/400104_651187.htm",
+      "size": 220,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/686287_633585.htm",
+      "size": 62,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/604720_506324.htm",
+      "size": 109,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/855551_239414.htm",
+      "size": 74,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/070746_925276.htm",
+      "size": 119,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/651850_580302.htm",
+      "size": 57,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/980599_847053.htm",
+      "size": 130,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/097553_330485.htm",
+      "size": 67,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/011352_658980.htm",
+      "size": 6,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/654300_060991.htm",
+      "size": 8,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/155183_667649.htm",
+      "size": 73,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/493458_778669.htm",
+      "size": 36,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/852709_225513.htm",
+      "size": 68,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/686313_307979.htm",
+      "size": 90,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/801218_591580.htm",
+      "size": 14,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/112289_473842.htm",
+      "size": 10,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/327974_186577.htm",
+      "size": 3,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/751951_513731.htm",
+      "size": 225,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/007156_614841.htm",
+      "size": 43,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/033158_463819.htm",
+      "size": 140,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/114759_235763.htm",
+      "size": 149,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/909260_984571.htm",
+      "size": 155,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/940993_765348.htm",
+      "size": 26,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/985042_942487.htm",
+      "size": 167,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/407303_159827.htm",
+      "size": 56,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/768200_343129.htm",
+      "size": 181,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/846537_902064.htm",
+      "size": 150,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/243173_601787.htm",
+      "size": 121,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/643562_500822.htm",
+      "size": 188,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/572891_574316.htm",
+      "size": 57,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/099482_261289.htm",
+      "size": 60,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/697119_683393.htm",
+      "size": 197,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/329230_668156.htm",
+      "size": 55,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/208661_577117.htm",
+      "size": 137,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/363754_927094.htm",
+      "size": 35,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/300936_441289.htm",
+      "size": 176,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/407019_945982.htm",
+      "size": 147,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/940845_227118.htm",
+      "size": 80,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/946616_573302.htm",
+      "size": 178,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/608940_003826.htm",
+      "size": 149,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/120280_449601.htm",
+      "size": 127,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/132902_203989.htm",
+      "size": 118,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/537274_298234.htm",
+      "size": 72,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/992309_660404.htm",
+      "size": 20,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/479542_057605.htm",
+      "size": 197,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/894910_859063.htm",
+      "size": 135,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/726228_360249.htm",
+      "size": 60,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/648036_428275.htm",
+      "size": 71,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/674641_173696.htm",
+      "size": 135,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/859453_042695.htm",
+      "size": 142,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/318728_586559.htm",
+      "size": 199,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/169199_749943.htm",
+      "size": 232,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/835946_452547.htm",
+      "size": 213,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/107626_277866.htm",
+      "size": 10,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/930566_963710.htm",
+      "size": 105,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/960397_659703.htm",
+      "size": 152,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/223830_778541.htm",
+      "size": 199,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/667536_481780.htm",
+      "size": 49,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/613127_559455.htm",
+      "size": 82,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/956333_097063.htm",
+      "size": 99,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/687642_980039.htm",
+      "size": 220,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/620731_155016.htm",
+      "size": 235,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/904069_452966.htm",
+      "size": 35,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/194638_648711.htm",
+      "size": 164,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/026713_145375.htm",
+      "size": 129,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/311383_517755.htm",
+      "size": 36,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/925432_907276.htm",
+      "size": 25,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/556083_836068.htm",
+      "size": 35,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/584292_641196.htm",
+      "size": 3,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/790393_185779.htm",
+      "size": 69,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/603934_390651.htm",
+      "size": 24,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/076948_583290.htm",
+      "size": 38,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/336975_890737.htm",
+      "size": 87,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/362000_771701.htm",
+      "size": 131,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/003087_046764.htm",
+      "size": 135,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/086449_030946.htm",
+      "size": 49,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/205081_685311.htm",
+      "size": 51,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/894295_428052.htm",
+      "size": 76,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/091350_669586.htm",
+      "size": 15,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/796004_862855.htm",
+      "size": 218,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/919355_167903.htm",
+      "size": 7,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/541571_921911.htm",
+      "size": 95,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/823304_390826.htm",
+      "size": 41,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/000490_888177.htm",
+      "size": 210,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/383189_771167.htm",
+      "size": 77,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/240135_354302.htm",
+      "size": 105,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/186758_257865.htm",
+      "size": 98,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/950655_092036.htm",
+      "size": 117,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/974113_836601.htm",
+      "size": 154,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/068230_503144.htm",
+      "size": 116,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/885318_924653.htm",
+      "size": 127,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/451672_631325.htm",
+      "size": 3,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/385374_417409.htm",
+      "size": 79,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/800211_819637.htm",
+      "size": 131,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/157382_550240.htm",
+      "size": 169,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/088382_610853.htm",
+      "size": 94,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/070169_899851.htm",
+      "size": 186,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/782878_253881.htm",
+      "size": 18,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/059917_115820.htm",
+      "size": 124,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/608731_016596.htm",
+      "size": 224,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/581917_124179.htm",
+      "size": 99,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/688266_193493.htm",
+      "size": 92,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/400435_779931.htm",
+      "size": 218,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/253465_421498.htm",
+      "size": 205,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/811480_245390.htm",
+      "size": 150,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/719860_581729.htm",
+      "size": 37,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/494994_245013.htm",
+      "size": 142,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/450303_914263.htm",
+      "size": 123,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/164398_406251.htm",
+      "size": 223,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/540881_874472.htm",
+      "size": 142,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/832220_304418.htm",
+      "size": 27,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/241227_992281.htm",
+      "size": 126,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/130705_242091.htm",
+      "size": 23,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/335690_840225.htm",
+      "size": 224,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/751605_345331.htm",
+      "size": 102,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/012999_071843.htm",
+      "size": 75,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/443261_720186.htm",
+      "size": 94,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/426047_715976.htm",
+      "size": 23,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/266547_572292.htm",
+      "size": 69,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/685842_312966.htm",
+      "size": 216,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/450378_485332.htm",
+      "size": 71,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/761920_379112.htm",
+      "size": 149,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/961576_449864.htm",
+      "size": 134,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/539694_381777.htm",
+      "size": 137,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/050400_713641.htm",
+      "size": 83,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/454693_893119.htm",
+      "size": 222,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/354949_247809.htm",
+      "size": 145,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/868968_335086.htm",
+      "size": 189,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/744632_897059.htm",
+      "size": 54,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/769673_067827.htm",
+      "size": 86,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/985705_336735.htm",
+      "size": 64,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/381296_656477.htm",
+      "size": 120,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/739090_459288.htm",
+      "size": 46,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/028200_461513.htm",
+      "size": 140,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/141775_537983.htm",
+      "size": 139,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/856580_372560.htm",
+      "size": 99,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/610885_051943.htm",
+      "size": 31,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/688929_567416.htm",
+      "size": 234,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/875797_792730.htm",
+      "size": 53,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/555645_691541.htm",
+      "size": 210,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/497167_221175.htm",
+      "size": 103,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/101423_332447.htm",
+      "size": 45,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/352289_654952.htm",
+      "size": 199,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/248022_906352.htm",
+      "size": 205,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/769205_439663.htm",
+      "size": 92,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/403414_271160.htm",
+      "size": 193,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/899648_436730.htm",
+      "size": 104,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/486176_188531.htm",
+      "size": 141,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/532779_797014.htm",
+      "size": 16,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/907601_172765.htm",
+      "size": 40,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/249963_451215.htm",
+      "size": 3,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/546548_541288.htm",
+      "size": 156,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/084089_393010.htm",
+      "size": 92,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/341939_945439.htm",
+      "size": 84,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/153022_893162.htm",
+      "size": 172,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/631851_814426.htm",
+      "size": 135,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/935781_302757.htm",
+      "size": 149,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/663835_757491.htm",
+      "size": 17,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/917834_362038.htm",
+      "size": 163,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/255235_555640.htm",
+      "size": 239,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/939953_277487.htm",
+      "size": 139,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/003678_651301.htm",
+      "size": 142,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/643195_516307.htm",
+      "size": 96,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/912607_712131.htm",
+      "size": 220,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/810609_836552.htm",
+      "size": 187,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/300224_902468.htm",
+      "size": 49,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/981145_764959.htm",
+      "size": 173,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/181523_799796.htm",
+      "size": 231,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/594466_289100.htm",
+      "size": 183,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/479676_706786.htm",
+      "size": 149,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/973328_353886.htm",
+      "size": 102,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/498877_118699.htm",
+      "size": 14,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/269357_460754.htm",
+      "size": 154,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/153876_502767.htm",
+      "size": 185,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/118047_378310.htm",
+      "size": 196,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/875291_050459.htm",
+      "size": 208,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/832944_891025.htm",
+      "size": 103,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/539212_875949.htm",
+      "size": 128,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/573408_340118.htm",
+      "size": 58,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/191342_556117.htm",
+      "size": 203,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/412147_993643.htm",
+      "size": 235,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/269452_818501.htm",
+      "size": 59,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/668042_829269.htm",
+      "size": 223,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/818101_651863.htm",
+      "size": 79,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/192578_033321.htm",
+      "size": 158,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/001033_990928.htm",
+      "size": 30,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/663612_282574.htm",
+      "size": 12,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/394700_021559.htm",
+      "size": 40,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/831718_983768.htm",
+      "size": 23,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/087764_961939.htm",
+      "size": 189,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/198357_506181.htm",
+      "size": 114,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "json",
+      "url": "www.163.gogoal.com.cn/ponews/013736_078563.htm",
+      "size": 108,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/971797_455481.htm",
+      "size": 10,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/069124_335430.htm",
+      "size": 25,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/542664_673985.htm",
+      "size": 175,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/898810_470212.htm",
+      "size": 165,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/174821_975816.htm",
+      "size": 21,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/059098_714723.htm",
+      "size": 195,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/846125_398274.htm",
+      "size": 99,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "vtt",
+      "url": "www.163.gogoal.com.cn/ponews/427388_280416.htm",
+      "size": 114,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "srt",
+      "url": "www.qq.gogoal.com.cn/abnews/916721_577568.htm",
+      "size": 40,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/069668_748205.htm",
+      "size": 66,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "en",
+      "format": "vtt",
+      "url": "www.qq.gogoal.com.cn/abnews/878340_088909.htm",
+      "size": 233,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "zh",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/046065_645694.htm",
+      "size": 131,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/332431_484625.htm",
+      "size": 5,
+      "encoding": "utf-8-sig"
+    },
+    {
+      "lang": "ja",
+      "format": "ass",
+      "url": "www.163.gogoal.com.cn/ponews/569524_141541.htm",
+      "size": 73,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "zh-TW",
+      "format": "ass",
+      "url": "www.qq.gogoal.com.cn/abnews/624255_428788.htm",
+      "size": 220,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/646519_848259.htm",
+      "size": 181,
+      "encoding": "gbk"
+    },
+    {
+      "lang": "en",
+      "format": "json",
+      "url": "www.qq.gogoal.com.cn/abnews/951109_500118.htm",
+      "size": 27,
+      "encoding": "utf-8"
+    },
+    {
+      "lang": "ja",
+      "format": "srt",
+      "url": "www.163.gogoal.com.cn/ponews/169334_140020.htm",
+      "size": 169,
+      "encoding": "gbk"
+    }
+  ]
+}
