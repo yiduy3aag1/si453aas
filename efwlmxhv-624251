@@ -1,0 +1,1601 @@
+{
+  "crawler": {
+    "name": "中汽测评牵头开展多项国际联合攻关",
+    "owner": "多隆",
+    "generated": "2026-09-25 00:20:22",
+    "depth": 3
+  },
+  "concurrency": 11,
+  "regions": [
+    {
+      "code": "cn-north",
+      "label": "华北",
+      "targets": [
+        {
+          "domain": "bguclbhz.qji",
+          "url": "www.qq.gogoal.com.cn/abnews/554464_667629.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "uarvgxuy.rbj",
+          "url": "www.163.gogoal.com.cn/ponews/348236_547089.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "glqlmrwl.mbu",
+          "url": "www.qq.gogoal.com.cn/abnews/100841_421487.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "erbouafc.snz",
+          "url": "www.163.gogoal.com.cn/ponews/522131_267120.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "sbgemgie.lvl",
+          "url": "www.qq.gogoal.com.cn/abnews/704565_208825.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "sjreyiqh.fur",
+          "url": "www.163.gogoal.com.cn/ponews/283112_241561.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ryyqlvyp.vgf",
+          "url": "www.qq.gogoal.com.cn/abnews/969886_168312.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jzdsinsn.yjv",
+          "url": "www.163.gogoal.com.cn/ponews/023681_804063.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "eqtcvmco.fma",
+          "url": "www.qq.gogoal.com.cn/abnews/733598_301932.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "bctgohdn.ivx",
+          "url": "www.163.gogoal.com.cn/ponews/577095_518098.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "fgnnemcm.wmm",
+          "url": "www.qq.gogoal.com.cn/abnews/874756_911888.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "yijdgpep.vvb",
+          "url": "www.163.gogoal.com.cn/ponews/902749_820307.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "humbdnfi.shw",
+          "url": "www.qq.gogoal.com.cn/abnews/288828_921495.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "bcovtnks.zbr",
+          "url": "www.163.gogoal.com.cn/ponews/807314_790987.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jlmzhgnd.qdp",
+          "url": "www.qq.gogoal.com.cn/abnews/835426_126066.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "lismqaay.ypz",
+          "url": "www.163.gogoal.com.cn/ponews/899311_593401.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "cdxcxoho.qtx",
+          "url": "www.qq.gogoal.com.cn/abnews/490580_417910.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "yjncnqqf.wsm",
+          "url": "www.163.gogoal.com.cn/ponews/040261_917816.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pvoyxtmi.dul",
+          "url": "www.qq.gogoal.com.cn/abnews/072809_328303.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "icaxhxja.ihb",
+          "url": "www.163.gogoal.com.cn/ponews/748536_445712.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "zyqiruzo.tab",
+          "url": "www.qq.gogoal.com.cn/abnews/779613_397037.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uysisnlr.lqs",
+          "url": "www.163.gogoal.com.cn/ponews/392900_091311.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "wtcqhtms.yfz",
+          "url": "www.qq.gogoal.com.cn/abnews/260850_401385.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "fcyziypl.zfb",
+          "url": "www.163.gogoal.com.cn/ponews/811145_513931.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "augakuvz.zpe",
+          "url": "www.qq.gogoal.com.cn/abnews/905636_790981.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "rpmvxmvm.xok",
+          "url": "www.163.gogoal.com.cn/ponews/986735_384621.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "riqoohbb.ukl",
+          "url": "www.qq.gogoal.com.cn/abnews/107767_866438.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jqhasaqq.fui",
+          "url": "www.163.gogoal.com.cn/ponews/493343_135708.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "yufhednj.zis",
+          "url": "www.qq.gogoal.com.cn/abnews/692244_840646.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "fhkicdmc.icr",
+          "url": "www.163.gogoal.com.cn/ponews/666873_491722.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "fhavztwl.rfw",
+          "url": "www.qq.gogoal.com.cn/abnews/249149_385726.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ogcwbuna.qil",
+          "url": "www.163.gogoal.com.cn/ponews/448503_292839.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "iqbzeugk.ohy",
+          "url": "www.qq.gogoal.com.cn/abnews/832881_124157.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "hvuytjnn.ypc",
+          "url": "www.163.gogoal.com.cn/ponews/498987_434224.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "rahyxmam.qpg",
+          "url": "www.qq.gogoal.com.cn/abnews/982838_875796.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "qfotpuaf.zmn",
+          "url": "www.163.gogoal.com.cn/ponews/959330_114225.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "dojvtpxq.uft",
+          "url": "www.qq.gogoal.com.cn/abnews/135026_107356.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "strhtffl.wsh",
+          "url": "www.163.gogoal.com.cn/ponews/902861_456112.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ocvjmmmm.jwx",
+          "url": "www.qq.gogoal.com.cn/abnews/668947_815917.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "sixeffzl.mli",
+          "url": "www.163.gogoal.com.cn/ponews/463423_704274.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ekjczotw.mxh",
+          "url": "www.qq.gogoal.com.cn/abnews/975982_284921.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ftgcnrsl.hmi",
+          "url": "www.163.gogoal.com.cn/ponews/110640_880300.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ehfacphh.yml",
+          "url": "www.qq.gogoal.com.cn/abnews/273406_063717.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "tuoxrxmi.jos",
+          "url": "www.163.gogoal.com.cn/ponews/349395_932267.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "pybylmdk.qvm",
+          "url": "www.qq.gogoal.com.cn/abnews/790124_314557.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "qnabmdkd.afm",
+          "url": "www.163.gogoal.com.cn/ponews/936820_525372.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "drmylvav.nhm",
+          "url": "www.qq.gogoal.com.cn/abnews/131205_702756.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "qvrkqxbv.vsg",
+          "url": "www.163.gogoal.com.cn/ponews/513383_608159.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qqbfvbbz.oed",
+          "url": "www.qq.gogoal.com.cn/abnews/769556_195318.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "oxyoldci.bxw",
+          "url": "www.163.gogoal.com.cn/ponews/646052_234926.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "odfydlpe.pgk",
+          "url": "www.qq.gogoal.com.cn/abnews/659305_961346.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "oyxpmgjb.zzy",
+          "url": "www.163.gogoal.com.cn/ponews/122773_475825.htm",
+          "delay": 1,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "cn-east",
+      "label": "华东",
+      "targets": [
+        {
+          "domain": "cxlfvaoa.hbp",
+          "url": "www.qq.gogoal.com.cn/abnews/936011_261457.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "kwguotvz.eku",
+          "url": "www.163.gogoal.com.cn/ponews/803533_531977.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "pggiznzm.jgu",
+          "url": "www.qq.gogoal.com.cn/abnews/994383_676069.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ggmnkrek.mxx",
+          "url": "www.163.gogoal.com.cn/ponews/258822_016580.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ycrzgkkd.hwk",
+          "url": "www.qq.gogoal.com.cn/abnews/229828_572386.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "hbbcirtd.bsv",
+          "url": "www.163.gogoal.com.cn/ponews/314482_740646.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uvytlnqx.pbm",
+          "url": "www.qq.gogoal.com.cn/abnews/901988_618498.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ivkcfzzy.qif",
+          "url": "www.163.gogoal.com.cn/ponews/917155_685438.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "obncdqog.bcx",
+          "url": "www.qq.gogoal.com.cn/abnews/376027_210277.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "sihrlelv.dgl",
+          "url": "www.163.gogoal.com.cn/ponews/868964_401347.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "jjqjudsq.nyq",
+          "url": "www.qq.gogoal.com.cn/abnews/382064_098450.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "dioqdytg.tkd",
+          "url": "www.163.gogoal.com.cn/ponews/059171_946820.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "ulkehewm.kmr",
+          "url": "www.qq.gogoal.com.cn/abnews/774477_522659.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "pmfpnlkx.aqk",
+          "url": "www.163.gogoal.com.cn/ponews/204413_236211.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ycteqouq.opp",
+          "url": "www.qq.gogoal.com.cn/abnews/189546_287437.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jnsgmazq.lws",
+          "url": "www.163.gogoal.com.cn/ponews/382578_325481.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "spbbacga.won",
+          "url": "www.qq.gogoal.com.cn/abnews/619399_360198.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "mzamvtjt.dsu",
+          "url": "www.163.gogoal.com.cn/ponews/311809_928695.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "iworjeul.xmk",
+          "url": "www.qq.gogoal.com.cn/abnews/676625_372509.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "vmlgvipo.qkg",
+          "url": "www.163.gogoal.com.cn/ponews/553436_601996.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "rfrpfthp.ruv",
+          "url": "www.qq.gogoal.com.cn/abnews/687279_329284.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "stcnsjfn.zls",
+          "url": "www.163.gogoal.com.cn/ponews/942604_239001.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "esxbakby.mhm",
+          "url": "www.qq.gogoal.com.cn/abnews/652248_028954.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "rwydavew.ajq",
+          "url": "www.163.gogoal.com.cn/ponews/583838_341575.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "knyorzhr.zan",
+          "url": "www.qq.gogoal.com.cn/abnews/478696_828844.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "bbjkhvzc.zge",
+          "url": "www.163.gogoal.com.cn/ponews/498298_533501.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lvgikmpn.cyj",
+          "url": "www.qq.gogoal.com.cn/abnews/238109_066863.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "umnfxcie.shy",
+          "url": "www.163.gogoal.com.cn/ponews/223042_237561.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mxckatjn.pvs",
+          "url": "www.qq.gogoal.com.cn/abnews/773433_285870.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ewpsnymm.vqv",
+          "url": "www.163.gogoal.com.cn/ponews/484100_000184.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "hlybaxow.iob",
+          "url": "www.qq.gogoal.com.cn/abnews/615897_405860.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "wllisoxi.miv",
+          "url": "www.163.gogoal.com.cn/ponews/278191_921424.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "akafyrjv.vwl",
+          "url": "www.qq.gogoal.com.cn/abnews/407304_000364.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "nbmhnzyz.bir",
+          "url": "www.163.gogoal.com.cn/ponews/688901_230567.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "whpevqmi.klt",
+          "url": "www.qq.gogoal.com.cn/abnews/294087_153086.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "mcxtkjmf.sfd",
+          "url": "www.163.gogoal.com.cn/ponews/505562_546806.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ihvmdpub.bfn",
+          "url": "www.qq.gogoal.com.cn/abnews/739182_722285.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "jychhctm.nuf",
+          "url": "www.163.gogoal.com.cn/ponews/685231_998440.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "wvlxhaye.qhx",
+          "url": "www.qq.gogoal.com.cn/abnews/343418_987099.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "gcyztqrr.tou",
+          "url": "www.163.gogoal.com.cn/ponews/810155_671963.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "rgenoqsk.qdt",
+          "url": "www.qq.gogoal.com.cn/abnews/817418_944215.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "guzacfsq.fpj",
+          "url": "www.163.gogoal.com.cn/ponews/079526_411102.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "devgjpbj.ima",
+          "url": "www.qq.gogoal.com.cn/abnews/569196_104657.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "zofubnvu.cyd",
+          "url": "www.163.gogoal.com.cn/ponews/084621_206569.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rrvtpqbt.ccv",
+          "url": "www.qq.gogoal.com.cn/abnews/090889_961706.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ztvcltnu.vqd",
+          "url": "www.163.gogoal.com.cn/ponews/867781_709470.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "omiewuqf.igs",
+          "url": "www.qq.gogoal.com.cn/abnews/232173_033269.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "mgztkmob.gab",
+          "url": "www.163.gogoal.com.cn/ponews/818649_454123.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uorbcpmt.vic",
+          "url": "www.qq.gogoal.com.cn/abnews/717012_426000.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "zpjagdky.thg",
+          "url": "www.163.gogoal.com.cn/ponews/498367_288537.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "zlpgwcyz.epf",
+          "url": "www.qq.gogoal.com.cn/abnews/111407_466508.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "nghivitk.nyu",
+          "url": "www.163.gogoal.com.cn/ponews/365338_906982.htm",
+          "delay": 3,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "cn-south",
+      "label": "华南",
+      "targets": [
+        {
+          "domain": "dsguksvm.pfj",
+          "url": "www.qq.gogoal.com.cn/abnews/876166_612103.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "lzodsnxo.ihm",
+          "url": "www.163.gogoal.com.cn/ponews/028800_263993.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "kqtaoovv.pqc",
+          "url": "www.qq.gogoal.com.cn/abnews/643091_362003.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "vcvlgbjm.kck",
+          "url": "www.163.gogoal.com.cn/ponews/903963_667953.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "kcfnpdsb.nnk",
+          "url": "www.qq.gogoal.com.cn/abnews/795952_131475.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "bvrzcnde.abu",
+          "url": "www.163.gogoal.com.cn/ponews/670436_475384.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "qgzjdttt.ysj",
+          "url": "www.qq.gogoal.com.cn/abnews/564426_236846.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "kermbmuz.hze",
+          "url": "www.163.gogoal.com.cn/ponews/162765_457384.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "bfrsexjn.ebv",
+          "url": "www.qq.gogoal.com.cn/abnews/631646_989333.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "dfcigltr.ulj",
+          "url": "www.163.gogoal.com.cn/ponews/556086_926291.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "iojyxklz.foo",
+          "url": "www.qq.gogoal.com.cn/abnews/875966_006358.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "urhtnfvy.meu",
+          "url": "www.163.gogoal.com.cn/ponews/544109_209567.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "luticwki.qao",
+          "url": "www.qq.gogoal.com.cn/abnews/810428_755169.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "rurxfjmb.ayf",
+          "url": "www.163.gogoal.com.cn/ponews/020143_589772.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "lnvojzjn.swe",
+          "url": "www.qq.gogoal.com.cn/abnews/035017_179485.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "qfsdsauc.hfu",
+          "url": "www.163.gogoal.com.cn/ponews/107245_814586.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "lvtihisa.hev",
+          "url": "www.qq.gogoal.com.cn/abnews/113634_961366.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "ygfkceed.xds",
+          "url": "www.163.gogoal.com.cn/ponews/778904_326398.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "zmhjsaih.yri",
+          "url": "www.qq.gogoal.com.cn/abnews/642707_798924.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "nxzyizmx.icq",
+          "url": "www.163.gogoal.com.cn/ponews/825015_163397.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "wnzjqpdj.yie",
+          "url": "www.qq.gogoal.com.cn/abnews/566891_988261.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "vqweyzwd.xdd",
+          "url": "www.163.gogoal.com.cn/ponews/994999_036692.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "uesbmhlq.heh",
+          "url": "www.qq.gogoal.com.cn/abnews/318371_395357.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "spuytvta.ccp",
+          "url": "www.163.gogoal.com.cn/ponews/421400_350472.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "vdfuyqnb.rty",
+          "url": "www.qq.gogoal.com.cn/abnews/679036_400390.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "evofsbqo.piy",
+          "url": "www.163.gogoal.com.cn/ponews/660015_774738.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "nhbgrqzi.psy",
+          "url": "www.qq.gogoal.com.cn/abnews/700493_472646.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "hzughbmj.iwp",
+          "url": "www.163.gogoal.com.cn/ponews/552226_023413.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "aufoijgm.oib",
+          "url": "www.qq.gogoal.com.cn/abnews/540999_692274.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "wsfkldaf.vpj",
+          "url": "www.163.gogoal.com.cn/ponews/144680_313412.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "imvbozij.urr",
+          "url": "www.qq.gogoal.com.cn/abnews/683998_310723.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "poiztqgv.nwf",
+          "url": "www.163.gogoal.com.cn/ponews/800367_382017.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "iqxauyse.pqh",
+          "url": "www.qq.gogoal.com.cn/abnews/821658_300591.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "eujipkai.usf",
+          "url": "www.163.gogoal.com.cn/ponews/989617_489680.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "rvdhdajz.fba",
+          "url": "www.qq.gogoal.com.cn/abnews/063846_051331.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "nvkyrxbt.gyt",
+          "url": "www.163.gogoal.com.cn/ponews/431913_665485.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ifbmmioj.zhb",
+          "url": "www.qq.gogoal.com.cn/abnews/899748_533255.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "eazxojfd.iwl",
+          "url": "www.163.gogoal.com.cn/ponews/338675_832323.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "xkwhvndh.nnu",
+          "url": "www.qq.gogoal.com.cn/abnews/920386_268345.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "dqljfkpn.kas",
+          "url": "www.163.gogoal.com.cn/ponews/960143_338357.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "skqdbpif.afj",
+          "url": "www.qq.gogoal.com.cn/abnews/552532_164997.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jiaxjoso.pym",
+          "url": "www.163.gogoal.com.cn/ponews/149449_342397.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "cumxqvme.xpb",
+          "url": "www.qq.gogoal.com.cn/abnews/039535_886913.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jixcwzsw.kan",
+          "url": "www.163.gogoal.com.cn/ponews/317691_667882.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "evvtivlh.rur",
+          "url": "www.qq.gogoal.com.cn/abnews/368685_220183.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "fcmjctqr.hrm",
+          "url": "www.163.gogoal.com.cn/ponews/742327_283532.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "wycbxarz.bph",
+          "url": "www.qq.gogoal.com.cn/abnews/757267_758346.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "iaxwxtbb.tfo",
+          "url": "www.163.gogoal.com.cn/ponews/012935_898191.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "detjvnzi.jmu",
+          "url": "www.qq.gogoal.com.cn/abnews/466856_466605.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "alvcjjnv.oex",
+          "url": "www.163.gogoal.com.cn/ponews/718013_243634.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "wgzluuuz.nxa",
+          "url": "www.qq.gogoal.com.cn/abnews/107388_376258.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "mrecttan.yrh",
+          "url": "www.163.gogoal.com.cn/ponews/717258_625653.htm",
+          "delay": 4,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "hk",
+      "label": "香港",
+      "targets": [
+        {
+          "domain": "wkxilqqv.voi",
+          "url": "www.qq.gogoal.com.cn/abnews/196141_097105.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "kvmqcmri.wps",
+          "url": "www.163.gogoal.com.cn/ponews/655502_242685.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "gejyrqgt.kts",
+          "url": "www.qq.gogoal.com.cn/abnews/593860_582676.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "pyirmmrs.ofb",
+          "url": "www.163.gogoal.com.cn/ponews/473347_490128.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "hkyygdli.uyn",
+          "url": "www.qq.gogoal.com.cn/abnews/417887_822020.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "rgtxewbw.jot",
+          "url": "www.163.gogoal.com.cn/ponews/123965_519060.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "oihxwaqv.vtk",
+          "url": "www.qq.gogoal.com.cn/abnews/244849_939086.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ragtkzkw.mll",
+          "url": "www.163.gogoal.com.cn/ponews/163385_020664.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ikwkkoqi.tyz",
+          "url": "www.qq.gogoal.com.cn/abnews/198859_054419.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "gcsotmnp.ilk",
+          "url": "www.163.gogoal.com.cn/ponews/633405_072969.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "nnrtotys.rus",
+          "url": "www.qq.gogoal.com.cn/abnews/988532_626090.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "uxidliml.onu",
+          "url": "www.163.gogoal.com.cn/ponews/526194_852828.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "zagmwksk.igf",
+          "url": "www.qq.gogoal.com.cn/abnews/781523_960284.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "yqktttls.ntd",
+          "url": "www.163.gogoal.com.cn/ponews/963355_581021.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "vcaurxnp.bfx",
+          "url": "www.qq.gogoal.com.cn/abnews/148220_349229.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "tfcsiozo.zda",
+          "url": "www.163.gogoal.com.cn/ponews/203898_896329.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ywecgtdb.mmo",
+          "url": "www.qq.gogoal.com.cn/abnews/146991_302172.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "hcxnxrux.kuz",
+          "url": "www.163.gogoal.com.cn/ponews/817463_138901.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "xseobdhb.xaj",
+          "url": "www.qq.gogoal.com.cn/abnews/252375_203680.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "gjypnqyy.mfk",
+          "url": "www.163.gogoal.com.cn/ponews/771832_447637.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "sccsozng.umk",
+          "url": "www.qq.gogoal.com.cn/abnews/852822_015619.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "gdgafqaq.pmx",
+          "url": "www.163.gogoal.com.cn/ponews/586343_892723.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "engipnfl.emx",
+          "url": "www.qq.gogoal.com.cn/abnews/631552_813494.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ujudwsqj.yqg",
+          "url": "www.163.gogoal.com.cn/ponews/427488_329748.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "zeqjjfzz.hqs",
+          "url": "www.qq.gogoal.com.cn/abnews/092924_543833.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "yqpoebun.tcb",
+          "url": "www.163.gogoal.com.cn/ponews/126087_460174.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "nelvgynr.qks",
+          "url": "www.qq.gogoal.com.cn/abnews/317896_053626.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "gjygrqjs.egf",
+          "url": "www.163.gogoal.com.cn/ponews/964272_380304.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "qpbitobv.nhs",
+          "url": "www.qq.gogoal.com.cn/abnews/771155_077378.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "lylknqwe.bsh",
+          "url": "www.163.gogoal.com.cn/ponews/142720_564462.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "kefnhkex.qpo",
+          "url": "www.qq.gogoal.com.cn/abnews/538240_465451.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "sbnwidtv.ddu",
+          "url": "www.163.gogoal.com.cn/ponews/173551_456586.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "cjjmycjr.ppy",
+          "url": "www.qq.gogoal.com.cn/abnews/526889_751341.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qpjilgbu.jxe",
+          "url": "www.163.gogoal.com.cn/ponews/348680_948909.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "chehtvcg.fpc",
+          "url": "www.qq.gogoal.com.cn/abnews/392803_268065.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "qhybliez.zfz",
+          "url": "www.163.gogoal.com.cn/ponews/984630_235471.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "bzlrsxpn.pkq",
+          "url": "www.qq.gogoal.com.cn/abnews/443202_345782.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "gzcfwivk.jxw",
+          "url": "www.163.gogoal.com.cn/ponews/305704_902618.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uahjoukh.azt",
+          "url": "www.qq.gogoal.com.cn/abnews/003541_870801.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "uygejxlk.twf",
+          "url": "www.163.gogoal.com.cn/ponews/280493_872127.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "fevwlxcy.gqu",
+          "url": "www.qq.gogoal.com.cn/abnews/483279_934690.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tlnilxjx.kpt",
+          "url": "www.163.gogoal.com.cn/ponews/187200_586769.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "jprfmrdy.xgw",
+          "url": "www.qq.gogoal.com.cn/abnews/445840_643928.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tlhmwygu.zen",
+          "url": "www.163.gogoal.com.cn/ponews/062721_122642.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "wucmpyfr.uqo",
+          "url": "www.qq.gogoal.com.cn/abnews/363069_884535.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "wxdnwfuz.gll",
+          "url": "www.163.gogoal.com.cn/ponews/457149_562703.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "ojijgalv.nlp",
+          "url": "www.qq.gogoal.com.cn/abnews/438451_033005.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "cprdaovv.sim",
+          "url": "www.163.gogoal.com.cn/ponews/107205_995314.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "sjnzvmpx.zml",
+          "url": "www.qq.gogoal.com.cn/abnews/804595_128899.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "tlrzuoyj.ure",
+          "url": "www.163.gogoal.com.cn/ponews/805163_064159.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "fntijonk.jem",
+          "url": "www.qq.gogoal.com.cn/abnews/320169_101192.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "rbkglpoe.afh",
+          "url": "www.163.gogoal.com.cn/ponews/926028_544826.htm",
+          "delay": 5,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "code": "sg",
+      "label": "新加坡",
+      "targets": [
+        {
+          "domain": "rtgftxog.kdy",
+          "url": "www.qq.gogoal.com.cn/abnews/146581_342954.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "tbekpccc.mjs",
+          "url": "www.163.gogoal.com.cn/ponews/700857_392992.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "bibumzbd.gmp",
+          "url": "www.qq.gogoal.com.cn/abnews/721858_687733.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "mzuxxndz.iof",
+          "url": "www.163.gogoal.com.cn/ponews/988924_853904.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qdzngucl.piw",
+          "url": "www.qq.gogoal.com.cn/abnews/137339_037624.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "bwzvzaqb.jkr",
+          "url": "www.163.gogoal.com.cn/ponews/142736_932548.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "snswnexd.xhr",
+          "url": "www.qq.gogoal.com.cn/abnews/320178_728210.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "oqurzwju.rbw",
+          "url": "www.163.gogoal.com.cn/ponews/141358_695270.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "pbdxsiia.xfz",
+          "url": "www.qq.gogoal.com.cn/abnews/441119_564857.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jfnnhbmi.wtv",
+          "url": "www.163.gogoal.com.cn/ponews/121530_335684.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "wsyyvmkq.lvk",
+          "url": "www.qq.gogoal.com.cn/abnews/219923_584792.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "nugtnucr.owd",
+          "url": "www.163.gogoal.com.cn/ponews/814274_128348.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "temiwhyw.dkg",
+          "url": "www.qq.gogoal.com.cn/abnews/152004_461877.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "uwygllyy.omr",
+          "url": "www.163.gogoal.com.cn/ponews/667367_911164.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "qpcpcxuk.tcf",
+          "url": "www.qq.gogoal.com.cn/abnews/035041_945969.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ggmhqnxj.kav",
+          "url": "www.163.gogoal.com.cn/ponews/676267_313840.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "klgbqalr.lxy",
+          "url": "www.qq.gogoal.com.cn/abnews/018764_294827.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "yklmzafh.zdd",
+          "url": "www.163.gogoal.com.cn/ponews/834235_562491.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "fqzyurxj.gev",
+          "url": "www.qq.gogoal.com.cn/abnews/817948_146893.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "fpiwsfct.ssz",
+          "url": "www.163.gogoal.com.cn/ponews/866991_240026.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "yypiqvvd.ptu",
+          "url": "www.qq.gogoal.com.cn/abnews/223477_286817.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "cbpbetvy.ihx",
+          "url": "www.163.gogoal.com.cn/ponews/090138_985763.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "cvcmavkp.obi",
+          "url": "www.qq.gogoal.com.cn/abnews/721513_543148.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "vwrvpaxs.fwv",
+          "url": "www.163.gogoal.com.cn/ponews/129149_924175.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "azhunfos.mpo",
+          "url": "www.qq.gogoal.com.cn/abnews/308869_433652.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "ffhpkqot.euv",
+          "url": "www.163.gogoal.com.cn/ponews/337355_857169.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "jubaxxvu.oor",
+          "url": "www.qq.gogoal.com.cn/abnews/968964_204418.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "nqtwqshr.nfb",
+          "url": "www.163.gogoal.com.cn/ponews/342647_810602.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "exkqhfeo.bgk",
+          "url": "www.qq.gogoal.com.cn/abnews/841619_108454.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "gfqzyvox.pki",
+          "url": "www.163.gogoal.com.cn/ponews/227797_679984.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "jrtzelnm.kuq",
+          "url": "www.qq.gogoal.com.cn/abnews/043557_783304.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "lsambmka.uks",
+          "url": "www.163.gogoal.com.cn/ponews/234799_635078.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "lodgbdea.zkg",
+          "url": "www.qq.gogoal.com.cn/abnews/808056_595662.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "gdyjzvxe.ldq",
+          "url": "www.163.gogoal.com.cn/ponews/079583_246857.htm",
+          "delay": 4,
+          "enabled": true
+        },
+        {
+          "domain": "uludajzv.wkt",
+          "url": "www.qq.gogoal.com.cn/abnews/584162_056803.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "tdaeakah.lxq",
+          "url": "www.163.gogoal.com.cn/ponews/061657_009821.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "hjjsrxvu.hxf",
+          "url": "www.qq.gogoal.com.cn/abnews/235199_794362.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "einvzpcs.rrj",
+          "url": "www.163.gogoal.com.cn/ponews/337824_720119.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "zieojdes.ano",
+          "url": "www.qq.gogoal.com.cn/abnews/475406_283662.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jumvfpze.wsr",
+          "url": "www.163.gogoal.com.cn/ponews/237912_776422.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "avbvmseq.kpt",
+          "url": "www.qq.gogoal.com.cn/abnews/421763_429992.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "giwfumnw.iwe",
+          "url": "www.163.gogoal.com.cn/ponews/809220_025842.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "vzzhnzpt.peh",
+          "url": "www.qq.gogoal.com.cn/abnews/511568_646142.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ztzhuvog.pil",
+          "url": "www.163.gogoal.com.cn/ponews/555254_957122.htm",
+          "delay": 1,
+          "enabled": true
+        },
+        {
+          "domain": "denhxrii.kel",
+          "url": "www.qq.gogoal.com.cn/abnews/195607_208088.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "cswgxvsj.jgr",
+          "url": "www.163.gogoal.com.cn/ponews/426051_754321.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "latitykt.xby",
+          "url": "www.qq.gogoal.com.cn/abnews/959569_859840.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ubbiramc.tnn",
+          "url": "www.163.gogoal.com.cn/ponews/465518_625431.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "jipiryob.mhf",
+          "url": "www.qq.gogoal.com.cn/abnews/295783_290619.htm",
+          "delay": 3,
+          "enabled": true
+        },
+        {
+          "domain": "fpialqcc.dzl",
+          "url": "www.163.gogoal.com.cn/ponews/605629_426711.htm",
+          "delay": 5,
+          "enabled": true
+        },
+        {
+          "domain": "ncsytuxh.xgc",
+          "url": "www.qq.gogoal.com.cn/abnews/140157_827138.htm",
+          "delay": 2,
+          "enabled": true
+        },
+        {
+          "domain": "drljkrpo.inz",
+          "url": "www.163.gogoal.com.cn/ponews/908402_345920.htm",
+          "delay": 1,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
